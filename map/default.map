@@ -51,4 +51,4 @@ tree = 350
 
 border_cutoff = 1100.0
 
-definitions = "../mod/mp_Iberia1820_12_31/map/definition.csv"
+definitions = "../mod/EoanBR_grande_strat/map/definition.csv"
