@@ -1,0 +1,9 @@
+owner=IBR
+controller=IBR
+add_core=FRA
+add_core=IBR
+add_core=OCC
+add_core=BSQ
+trade_goods = silk
+life_rating = 32
+fort = 1

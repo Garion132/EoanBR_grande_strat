@@ -1,0 +1,6 @@
+owner=IBR
+controller=IBR
+add_core=CAB
+trade_goods = wool
+life_rating = 34
+terrain = montane_forest

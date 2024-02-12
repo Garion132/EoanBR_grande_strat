@@ -1,0 +1,267 @@
+1979 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 72
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1209
+	}
+
+	farmers=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 9899
+	}
+
+	artisans=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 505
+	}
+
+	clergymen=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 164
+	}
+
+	aristocrats=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 106
+	}
+
+	bureaucrats=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 47
+	}
+
+	officers=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 20
+	}
+
+	soldiers=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 633
+	}
+
+}
+2239 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1886
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 111
+	}
+
+	slaves=
+	{
+		culture = afro_italian
+		religion = catholic
+		size= 16697
+	}
+
+	farmers=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 777
+	}
+
+	clergymen=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 253
+	}
+
+	aristocrats=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 163
+	}
+
+	bureaucrats=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 73
+	}
+
+	officers=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 30
+	}
+
+	soldiers=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 976
+	}
+
+}
+2242 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 255
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 4302
+	}
+
+	soldiers=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 1450
+	}
+
+	farmers=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 19688
+	}
+
+	artisans=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 4263
+	}
+
+	clergymen=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 396
+	}
+
+	aristocrats=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 255
+	}
+
+	bureaucrats=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 116
+	}
+
+	officers=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 48
+	}
+
+}
+2243 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3836
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 221
+	}
+
+	slaves=
+	{
+		culture = afro_italian
+		religion = catholic
+		size= 33967
+	}
+
+	soldiers=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 1954
+	}
+
+	artisans=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 1553
+	}
+
+	aristocrats=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 652
+	}
+
+	clergymen=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 505
+	}
+
+	bureaucrats=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 147
+	}
+
+	officers=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 62
+	}
+
+}

@@ -1,0 +1,13 @@
+owner=ZHR
+controller=ZHR
+add_core=ZHR
+add_core=CHI
+trade_goods = tea
+life_rating = 32
+colonial=2
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

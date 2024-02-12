@@ -1,0 +1,2830 @@
+658 = {
+	soldiers=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 132
+	}
+
+	artisans=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 926
+	}
+
+	clergymen=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 86
+	}
+
+	bureaucrats=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 9
+	}
+
+	officers=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 83
+	}
+
+	farmers=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 11982
+	}
+
+	soldiers=
+	{
+		culture = hawaiian
+		religion = protestant
+		size= 139
+	}
+
+	artisans=
+	{
+		culture = hawaiian
+		religion = protestant
+		size= 2869
+	}
+
+	clergymen=
+	{
+		culture = hawaiian
+		religion = protestant
+		size= 266
+	}
+
+	bureaucrats=
+	{
+		culture = hawaiian
+		religion = protestant
+		size= 29
+	}
+
+	officers=
+	{
+		culture = hawaiian
+		religion = protestant
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = hawaiian
+		religion = protestant
+		size= 258
+	}
+
+	farmers=
+	{
+		culture = hawaiian
+		religion = protestant
+		size= 10289
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 933
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 13058
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1212
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 131
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 121
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1175
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 76641
+	}
+
+}
+801 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2271
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = catholic
+		size= 4013
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = catholic
+		size= 130
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = catholic
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = catholic
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = catholic
+		size= 42
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = protestant
+		size= 121
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = protestant
+		size= 615
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = protestant
+		size= 200
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 31
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = protestant
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 194
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = protestant
+		size= 10923
+	}
+
+}
+2336 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2860
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = catholic
+		size= 2043
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = catholic
+		size= 101
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = catholic
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = catholic
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = catholic
+		size= 21
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = catholic
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = protestant
+		size= 167
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = protestant
+		size= 769
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = protestant
+		size= 250
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 38
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = protestant
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 161
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = protestant
+		size= 15272
+	}
+
+}
+2526 = {
+	soldiers=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 118
+	}
+
+	artisans=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 829
+	}
+
+	clergymen=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 77
+	}
+
+	bureaucrats=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 8
+	}
+
+	officers=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 10726
+	}
+
+	soldiers=
+	{
+		culture = hawaiian
+		religion = protestant
+		size= 124
+	}
+
+	artisans=
+	{
+		culture = hawaiian
+		religion = protestant
+		size= 2568
+	}
+
+	clergymen=
+	{
+		culture = hawaiian
+		religion = protestant
+		size= 238
+	}
+
+	bureaucrats=
+	{
+		culture = hawaiian
+		religion = protestant
+		size= 26
+	}
+
+	officers=
+	{
+		culture = hawaiian
+		religion = protestant
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = hawaiian
+		religion = protestant
+		size= 231
+	}
+
+	farmers=
+	{
+		culture = hawaiian
+		religion = protestant
+		size= 9212
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 836
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 11689
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1085
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 117
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 109
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1053
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 68607
+	}
+
+}
+2540 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 81
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 163
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 7
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 7798
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 92
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 530
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 172
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 24
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 111
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 8226
+	}
+
+}
+2541 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2288
+	}
+
+	farmers=
+	{
+		culture = australienne
+		religion = catholic
+		size= 9819
+	}
+
+	artisans=
+	{
+		culture = australienne
+		religion = catholic
+		size= 523
+	}
+
+	aristocrats=
+	{
+		culture = australienne
+		religion = catholic
+		size= 110
+	}
+
+	clergymen=
+	{
+		culture = australienne
+		religion = catholic
+		size= 84
+	}
+
+	bureaucrats=
+	{
+		culture = australienne
+		religion = catholic
+		size= 39
+	}
+
+	officers=
+	{
+		culture = australienne
+		religion = catholic
+		size= 16
+	}
+
+	soldiers=
+	{
+		culture = australienne
+		religion = catholic
+		size= 214
+	}
+
+}
+2542 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 161
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1126
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 14
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 136
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 14534
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = protestant
+		size= 171
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = protestant
+		size= 3519
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = protestant
+		size= 327
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = protestant
+		size= 45
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = protestant
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = protestant
+		size= 422
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = protestant
+		size= 12575
+	}
+
+}
+2543 = {
+	soldiers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 207
+	}
+
+	farmers=
+	{
+		culture = australienne
+		religion = catholic
+		size= 848
+	}
+
+	artisans=
+	{
+		culture = australienne
+		religion = catholic
+		size= 45
+	}
+
+	soldiers=
+	{
+		culture = australienne
+		religion = catholic
+		size= 18
+	}
+
+	clergymen=
+	{
+		culture = australienne
+		religion = catholic
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = australienne
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = australienne
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = australienne
+		religion = catholic
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 147
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 147
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 14
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 6963
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 81
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 309
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 29
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 3522
+	}
+
+}
+2544 = {
+	soldiers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 164
+	}
+
+	farmers=
+	{
+		culture = australienne
+		religion = catholic
+		size= 668
+	}
+
+	artisans=
+	{
+		culture = australienne
+		religion = catholic
+		size= 36
+	}
+
+	soldiers=
+	{
+		culture = australienne
+		religion = catholic
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = australienne
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = australienne
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = australienne
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = australienne
+		religion = catholic
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 116
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 116
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 11
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 5506
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 64
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 245
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 23
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 2784
+	}
+
+}
+2545 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2088
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = catholic
+		size= 3690
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = catholic
+		size= 120
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = catholic
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = catholic
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = catholic
+		size= 38
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = protestant
+		size= 111
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = protestant
+		size= 566
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = protestant
+		size= 184
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 28
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = protestant
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 178
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = protestant
+		size= 10045
+	}
+
+}
+2546 = {
+	soldiers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 158
+	}
+
+	farmers=
+	{
+		culture = australienne
+		religion = catholic
+		size= 643
+	}
+
+	artisans=
+	{
+		culture = australienne
+		religion = catholic
+		size= 34
+	}
+
+	soldiers=
+	{
+		culture = australienne
+		religion = catholic
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = australienne
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = australienne
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = australienne
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = australienne
+		religion = catholic
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 112
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 112
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 11
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 5297
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 62
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 235
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 22
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 2679
+	}
+
+}
+2547 = {
+	soldiers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 157
+	}
+
+	farmers=
+	{
+		culture = australienne
+		religion = catholic
+		size= 640
+	}
+
+	artisans=
+	{
+		culture = australienne
+		religion = catholic
+		size= 34
+	}
+
+	soldiers=
+	{
+		culture = australienne
+		religion = catholic
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = australienne
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = australienne
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = australienne
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = australienne
+		religion = catholic
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 111
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 111
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 11
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 5270
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 62
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 234
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 22
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 2664
+	}
+
+}
+2548 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 7
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 7178
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 84
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 488
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 158
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 22
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 102
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 7573
+	}
+
+}
+2551 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 691
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = catholic
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = catholic
+		size= 40
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = catholic
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = catholic
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = catholic
+		size= 1538
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = protestant
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = protestant
+		size= 166
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = protestant
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 8
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 52
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = protestant
+		size= 2665
+	}
+
+}
+2552 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 612
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = catholic
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = catholic
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = catholic
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = catholic
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = catholic
+		size= 1361
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = protestant
+		size= 26
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = protestant
+		size= 147
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = protestant
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 7
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = protestant
+		size= 2358
+	}
+
+}
+2553 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 708
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = catholic
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = catholic
+		size= 40
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = catholic
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = catholic
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = catholic
+		size= 1574
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = protestant
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = protestant
+		size= 170
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = protestant
+		size= 55
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 8
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = protestant
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = protestant
+		size= 2728
+	}
+
+}
+2623 = {
+	soldiers=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 1841
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = shinto
+		size= 15436
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = shinto
+		size= 742
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = shinto
+		size= 207
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = shinto
+		size= 120
+	}
+
+	bureaucrats=
+	{
+		culture = nanren
+		religion = shinto
+		size= 36
+	}
+
+	officers=
+	{
+		culture = nanren
+		religion = shinto
+		size= 24
+	}
+
+	soldiers=
+	{
+		culture = nanren
+		religion = shinto
+		size= 166
+	}
+
+}
+3249 = {
+	soldiers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 156
+	}
+
+	farmers=
+	{
+		culture = australienne
+		religion = catholic
+		size= 635
+	}
+
+	artisans=
+	{
+		culture = australienne
+		religion = catholic
+		size= 34
+	}
+
+	soldiers=
+	{
+		culture = australienne
+		religion = catholic
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = australienne
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = australienne
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = australienne
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = australienne
+		religion = catholic
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 110
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 110
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 10
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 5239
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 61
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 233
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 22
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 2647
+	}
+
+}
+3319 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 613
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = catholic
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = catholic
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = catholic
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = catholic
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = catholic
+		size= 1365
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = protestant
+		size= 26
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = protestant
+		size= 147
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = protestant
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 7
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = protestant
+		size= 2364
+	}
+
+}
+3320 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 613
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = catholic
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = catholic
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = catholic
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = catholic
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = catholic
+		size= 1365
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = protestant
+		size= 26
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = protestant
+		size= 147
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = protestant
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 7
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = protestant
+		size= 2364
+	}
+
+}
+3321 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 613
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = catholic
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = catholic
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = catholic
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = catholic
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = catholic
+		size= 1365
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = protestant
+		size= 26
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = protestant
+		size= 147
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = protestant
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 7
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = protestant
+		size= 2364
+	}
+
+}
+3322 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 613
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = catholic
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = catholic
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = catholic
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = catholic
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = catholic
+		size= 1365
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = protestant
+		size= 26
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = protestant
+		size= 147
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = protestant
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 7
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = protestant
+		size= 2364
+	}
+
+}

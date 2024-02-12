@@ -1,0 +1,10 @@
+owner=ENS
+controller=ENS
+add_core=BAU
+add_core=BRU
+add_core=KTI
+add_core=MLY
+trade_goods = wool
+life_rating = 31
+colonial=2
+fort = 1

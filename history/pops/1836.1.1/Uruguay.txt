@@ -1,0 +1,386 @@
+2344 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 1815
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 222
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 5881
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 10082
+	}
+
+	soldiers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 1230
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = catholic
+		size= 7265
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 24567
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = catholic
+		size= 872
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = catholic
+		size= 337
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = catholic
+		size= 156
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 109
+	}
+
+}
+2345 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 342
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 11664
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 53489
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = catholic
+		size= 11638
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = catholic
+		size= 2095
+	}
+
+	soldiers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 4133
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = catholic
+		size= 1081
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = catholic
+		size= 316
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 174
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 159
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 29
+	}
+
+}
+2346 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 144
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 4998
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 25237
+	}
+
+	soldiers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 755
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = catholic
+		size= 643
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = catholic
+		size= 270
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = catholic
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = catholic
+		size= 61
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 33
+	}
+
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 84
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 764
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 124
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 73
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 321
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 1605
+	}
+
+}
+2347 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 151
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 5221
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = catholic
+		size= 1499
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = catholic
+		size= 243
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = catholic
+		size= 944
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = catholic
+		size= 113
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 78
+	}
+
+	soldiers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 900
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 28566
+	}
+
+}

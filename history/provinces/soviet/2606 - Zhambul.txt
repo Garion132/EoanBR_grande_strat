@@ -1,0 +1,8 @@
+owner=RUS
+controller=RUS
+add_core=KAZ
+add_core=KHA
+add_core=MGL
+trade_goods = coal
+life_rating = 30
+colonial=2

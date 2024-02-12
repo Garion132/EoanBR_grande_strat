@@ -1,0 +1,7 @@
+owner=ENS
+controller=ENS
+add_core=ENS
+add_core=SCA
+add_core=SWE
+trade_goods = fish
+life_rating = 35

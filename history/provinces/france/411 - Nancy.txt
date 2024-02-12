@@ -1,0 +1,11 @@
+owner=GER
+controller=GER
+add_core=GER
+trade_goods = dye
+life_rating = 31
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

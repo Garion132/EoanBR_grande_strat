@@ -1,0 +1,7 @@
+owner=ENS
+controller=ENS
+add_core=ENS
+add_core=FRA
+trade_goods = cattle
+life_rating = 31
+naval_base = 2

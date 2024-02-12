@@ -1,0 +1,200 @@
+2191 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 86
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 171
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 9
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 108
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 8166
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = allaamie
+		size= 325
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = allaamie
+		size= 1472
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = allaamie
+		size= 239
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = allaamie
+		size= 74
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = allaamie
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = allaamie
+		size= 927
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = allaamie
+		size= 29423
+	}
+
+}
+2192 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 64
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 128
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 6
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 6074
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = allaamie
+		size= 242
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = allaamie
+		size= 1095
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = allaamie
+		size= 178
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = allaamie
+		size= 55
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = allaamie
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = allaamie
+		size= 690
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = allaamie
+		size= 21884
+	}
+
+}

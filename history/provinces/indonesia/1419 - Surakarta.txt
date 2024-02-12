@@ -1,0 +1,11 @@
+owner=ENS
+controller=ENS
+add_core=JAV
+add_core=MJP
+add_core=MLC
+add_core=TDO
+trade_goods = fruit
+life_rating = 35
+colonial=2
+naval_base = 2
+fort = 1

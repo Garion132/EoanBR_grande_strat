@@ -1,0 +1,142 @@
+2222 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 4015
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 239
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 4292
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = allaamie
+		size= 32021
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = allaamie
+		size= 5369
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = allaamie
+		size= 27457
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = allaamie
+		size= 1909
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = allaamie
+		size= 965
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = allaamie
+		size= 498
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = allaamie
+		size= 176
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = allaamie
+		size= 80
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = shiite
+		size= 23197
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = shiite
+		size= 1383
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = shiite
+		size= 12285
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = shiite
+		size= 1141
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = shiite
+		size= 404
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = shiite
+		size= 184
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = shiite
+		size= 2211
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = shiite
+		size= 8583
+	}
+
+}

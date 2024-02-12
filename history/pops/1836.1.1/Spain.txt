@@ -1,0 +1,3428 @@
+#La Coruna
+474 = {
+    soldiers = {
+        culture = visigothic
+        religion = catholic
+        size = 5052
+    }
+
+    artisans = {
+        culture = visigothic
+        religion = catholic
+        size = 6315
+    }
+
+    clergymen = {
+        culture = visigothic
+        religion = catholic
+        size = 586
+    }
+
+    bureaucrats = {
+        culture = visigothic
+        religion = catholic
+        size = 99
+    }
+
+    officers = {
+        culture = visigothic
+        religion = catholic
+        size = 95
+    }
+
+    aristocrats = {
+        culture = visigothic
+        religion = catholic
+        size = 568
+    }
+
+    farmers = {
+        culture = visigothic
+        religion = catholic
+        size = 77496
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 3454
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 20615
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1914
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 324
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 310
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1855
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 33205
+    }
+
+    soldiers = {
+        culture = portuguese
+        religion = catholic
+        size = 4532
+    }
+
+    artisans = {
+        culture = portuguese
+        religion = catholic
+        size = 5666
+    }
+
+    clergymen = {
+        culture = portuguese
+        religion = catholic
+        size = 526
+    }
+
+    bureaucrats = {
+        culture = portuguese
+        religion = catholic
+        size = 89
+    }
+
+    officers = {
+        culture = portuguese
+        religion = catholic
+        size = 85
+    }
+
+    aristocrats = {
+        culture = portuguese
+        religion = catholic
+        size = 510
+    }
+
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 69528
+    }
+
+}
+
+#Oviedo
+475 = {
+    soldiers = {
+        culture = visigothic
+        religion = catholic
+        size = 5671
+    }
+
+    craftsmen = {
+        culture = visigothic
+        religion = catholic
+        size = 4640
+    }
+
+    artisans = {
+        culture = visigothic
+        religion = catholic
+        size = 4315
+    }
+
+    clergymen = {
+        culture = visigothic
+        religion = catholic
+        size = 401
+    }
+
+    clerks = {
+        culture = visigothic
+        religion = catholic
+        size = 140
+    }
+
+    bureaucrats = {
+        culture = visigothic
+        religion = catholic
+        size = 80
+    }
+
+    officers = {
+        culture = visigothic
+        religion = catholic
+        size = 89
+    }
+
+    capitalists = {
+        culture = visigothic
+        religion = catholic
+        size = 71
+    }
+
+    aristocrats = {
+        culture = visigothic
+        religion = catholic
+        size = 388
+    }
+
+    farmers = {
+        culture = visigothic
+        religion = catholic
+        size = 45843
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 4314
+    }
+
+    craftsmen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 3530
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 10880
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1010
+    }
+
+    clerks = {
+        culture = alaybirih
+        religion = allaamie
+        size = 353
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 202
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 225
+    }
+
+    capitalists = {
+        culture = alaybirih
+        religion = allaamie
+        size = 179
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 979
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 25221
+    }
+
+}
+
+#Vigo
+476 = {
+    soldiers = {
+        culture = portuguese
+        religion = catholic
+        size = 5690
+    }
+
+    artisans = {
+        culture = portuguese
+        religion = catholic
+        size = 7113
+    }
+
+    clergymen = {
+        culture = portuguese
+        religion = catholic
+        size = 661
+    }
+
+    bureaucrats = {
+        culture = portuguese
+        religion = catholic
+        size = 132
+    }
+
+    officers = {
+        culture = portuguese
+        religion = catholic
+        size = 107
+    }
+
+    aristocrats = {
+        culture = portuguese
+        religion = catholic
+        size = 640
+    }
+
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 87269
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 2119
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 12412
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1152
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 230
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 186
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1117
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 20628
+    }
+
+}
+
+#Leon
+477 = {
+    soldiers = {
+        culture = visigothic
+        religion = catholic
+        size = 14917
+    }
+
+    artisans = {
+        culture = visigothic
+        religion = catholic
+        size = 11350
+    }
+
+    clergymen = {
+        culture = visigothic
+        religion = catholic
+        size = 1054
+    }
+
+    bureaucrats = {
+        culture = visigothic
+        religion = catholic
+        size = 211
+    }
+
+    officers = {
+        culture = visigothic
+        religion = catholic
+        size = 235
+    }
+
+    aristocrats = {
+        culture = visigothic
+        religion = catholic
+        size = 2043
+    }
+
+    farmers = {
+        culture = visigothic
+        religion = catholic
+        size = 132338
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 5622
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 19906
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1849
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 370
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 412
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 3583
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 29367
+    }
+
+}
+
+#Santander
+478 = {
+    soldiers = {
+        culture = visigothic
+        religion = lollard
+        size = 1761
+    }
+
+    artisans = {
+        culture = visigothic
+        religion = lollard
+        size = 629
+    }
+
+    clergymen = {
+        culture = visigothic
+        religion = lollard
+        size = 204
+    }
+
+    bureaucrats = {
+        culture = visigothic
+        religion = lollard
+        size = 28
+    }
+
+    officers = {
+        culture = visigothic
+        religion = lollard
+        size = 33
+    }
+
+    aristocrats = {
+        culture = visigothic
+        religion = lollard
+        size = 198
+    }
+
+    farmers = {
+        culture = visigothic
+        religion = lollard
+        size = 28601
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 3558
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 3170
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1030
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 143
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 166
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 999
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 54465
+    }
+
+}
+
+#Burgos
+479 = {
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 5326
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 3804
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1236
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 247
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 200
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1198
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 83093
+    }
+
+}
+
+#Valladolid
+480 = {
+    soldiers = {
+        culture = visigothic
+        religion = lollard
+        size = 1303
+    }
+
+    artisans = {
+        culture = visigothic
+        religion = lollard
+        size = 465
+    }
+
+    clergymen = {
+        culture = visigothic
+        religion = lollard
+        size = 151
+    }
+
+    bureaucrats = {
+        culture = visigothic
+        religion = lollard
+        size = 21
+    }
+
+    officers = {
+        culture = visigothic
+        religion = lollard
+        size = 24
+    }
+
+    aristocrats = {
+        culture = visigothic
+        religion = lollard
+        size = 293
+    }
+
+    farmers = {
+        culture = visigothic
+        religion = lollard
+        size = 21015
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 2690
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 2387
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 776
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 107
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 125
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1504
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 40453
+    }
+
+}
+
+#Soria
+481 = {
+    soldiers = {
+        culture = visigothic
+        religion = kharijite
+        size = 710
+    }
+
+    artisans = {
+        culture = visigothic
+        religion = kharijite
+        size = 2487
+    }
+
+    clergymen = {
+        culture = visigothic
+        religion = kharijite
+        size = 231
+    }
+
+    bureaucrats = {
+        culture = visigothic
+        religion = kharijite
+        size = 32
+    }
+
+    officers = {
+        culture = visigothic
+        religion = kharijite
+        size = 23
+    }
+
+    aristocrats = {
+        culture = visigothic
+        religion = kharijite
+        size = 448
+    }
+
+    farmers = {
+        culture = visigothic
+        religion = kharijite
+        size = 31590
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 513
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 6077
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 564
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 78
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 56
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1094
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 17268
+    }
+
+}
+
+#Salamanca
+482 = {
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 5748
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 14369
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1334
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 185
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 216
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 2586
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 78200
+    }
+
+}
+
+#Avila
+483 = {
+    soldiers = {
+        culture = spanish
+        religion = lollard
+        size = 3189
+    }
+
+    artisans = {
+        culture = spanish
+        religion = lollard
+        size = 1213
+    }
+
+    clergymen = {
+        culture = spanish
+        religion = lollard
+        size = 113
+    }
+
+    bureaucrats = {
+        culture = spanish
+        religion = lollard
+        size = 16
+    }
+
+    officers = {
+        culture = spanish
+        religion = lollard
+        size = 25
+    }
+
+    aristocrats = {
+        culture = spanish
+        religion = lollard
+        size = 109
+    }
+
+    farmers = {
+        culture = spanish
+        religion = lollard
+        size = 29999
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 8444
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 20484
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1903
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 263
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 425
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1844
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 58423
+    }
+
+    soldiers = {
+        culture = visigothic
+        religion = catholic
+        size = 5249
+    }
+
+    artisans = {
+        culture = visigothic
+        religion = catholic
+        size = 3994
+    }
+
+    clergymen = {
+        culture = visigothic
+        religion = catholic
+        size = 371
+    }
+
+    bureaucrats = {
+        culture = visigothic
+        religion = catholic
+        size = 51
+    }
+
+    officers = {
+        culture = visigothic
+        religion = catholic
+        size = 83
+    }
+
+    aristocrats = {
+        culture = visigothic
+        religion = catholic
+        size = 359
+    }
+
+    farmers = {
+        culture = visigothic
+        religion = catholic
+        size = 46948
+    }
+
+}
+
+#Badajoz
+484 = {
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 4387
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 10968
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1018
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 141
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 165
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1974
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 59689
+    }
+
+}
+
+#Almendralejo
+485 = {
+    soldiers = {
+        culture = visigothic
+        religion = lollard
+        size = 7623
+    }
+
+    artisans = {
+        culture = visigothic
+        religion = lollard
+        size = 5800
+    }
+
+    clergymen = {
+        culture = visigothic
+        religion = lollard
+        size = 539
+    }
+
+    bureaucrats = {
+        culture = visigothic
+        religion = lollard
+        size = 108
+    }
+
+    officers = {
+        culture = visigothic
+        religion = lollard
+        size = 120
+    }
+
+    aristocrats = {
+        culture = visigothic
+        religion = lollard
+        size = 522
+    }
+
+    farmers = {
+        culture = visigothic
+        religion = lollard
+        size = 68150
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 4425
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 12535
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1164
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 233
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 260
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1128
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 28357
+    }
+
+}
+
+#Caceres
+486 = {
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 13503
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 23560
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 2187
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 437
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 488
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 4240
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 102361
+    }
+
+    soldiers = {
+        culture = visigothic
+        religion = catholic
+        size = 3957
+    }
+
+    artisans = {
+        culture = visigothic
+        religion = catholic
+        size = 3011
+    }
+
+    clergymen = {
+        culture = visigothic
+        religion = catholic
+        size = 280
+    }
+
+    bureaucrats = {
+        culture = visigothic
+        religion = catholic
+        size = 56
+    }
+
+    officers = {
+        culture = visigothic
+        religion = catholic
+        size = 62
+    }
+
+    aristocrats = {
+        culture = visigothic
+        religion = catholic
+        size = 542
+    }
+
+    farmers = {
+        culture = visigothic
+        religion = catholic
+        size = 35106
+    }
+
+}
+
+#Madrid
+487 = {
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 12286
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 29305
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 4443
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 489
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 545
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 2367
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 122044
+    }
+
+    craftsmen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 16411
+    }
+
+}
+
+#Siguenza
+488 = {
+    soldiers = {
+        culture = visigothic
+        religion = catholic
+        size = 8365
+    }
+
+    artisans = {
+        culture = visigothic
+        religion = catholic
+        size = 6365
+    }
+
+    clergymen = {
+        culture = visigothic
+        religion = catholic
+        size = 591
+    }
+
+    bureaucrats = {
+        culture = visigothic
+        religion = catholic
+        size = 82
+    }
+
+    officers = {
+        culture = visigothic
+        religion = catholic
+        size = 132
+    }
+
+    aristocrats = {
+        culture = visigothic
+        religion = catholic
+        size = 573
+    }
+
+    farmers = {
+        culture = visigothic
+        religion = catholic
+        size = 74817
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1112
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 8057
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 748
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 104
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 167
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 725
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1176
+    }
+
+}
+
+#Toledo
+489 = {
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 15151
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 23055
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 2141
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 428
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 478
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 2075
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 121353
+    }
+
+}
+
+#Cuenca
+490 = {
+    soldiers = {
+        culture = visigothic
+        religion = kharijite
+        size = 5330
+    }
+
+    artisans = {
+        culture = visigothic
+        religion = kharijite
+        size = 4055
+    }
+
+    clergymen = {
+        culture = visigothic
+        religion = kharijite
+        size = 377
+    }
+
+    bureaucrats = {
+        culture = visigothic
+        religion = kharijite
+        size = 75
+    }
+
+    officers = {
+        culture = visigothic
+        religion = kharijite
+        size = 84
+    }
+
+    aristocrats = {
+        culture = visigothic
+        religion = kharijite
+        size = 365
+    }
+
+    farmers = {
+        culture = visigothic
+        religion = kharijite
+        size = 47649
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 8227
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 16575
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1539
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 308
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 343
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1492
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 60943
+    }
+
+}
+
+#Ciudad Real
+491 = {
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 11709
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 5091
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1655
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 331
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 369
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1604
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 106517
+    }
+
+}
+
+#BIlbao
+492 = {
+    soldiers = {
+        culture = basque
+        religion = lollard
+        size = 1975
+    }
+
+    artisans = {
+        culture = basque
+        religion = lollard
+        size = 705
+    }
+
+    clergymen = {
+        culture = basque
+        religion = lollard
+        size = 229
+    }
+
+    bureaucrats = {
+        culture = basque
+        religion = lollard
+        size = 32
+    }
+
+    officers = {
+        culture = basque
+        religion = lollard
+        size = 37
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = lollard
+        size = 222
+    }
+
+    farmers = {
+        culture = basque
+        religion = lollard
+        size = 32060
+    }
+
+    soldiers = {
+        culture = basque
+        religion = allaamie
+        size = 4018
+    }
+
+    artisans = {
+        culture = basque
+        religion = allaamie
+        size = 3575
+    }
+
+    clergymen = {
+        culture = basque
+        religion = allaamie
+        size = 1162
+    }
+
+    bureaucrats = {
+        culture = basque
+        religion = allaamie
+        size = 161
+    }
+
+    officers = {
+        culture = basque
+        religion = allaamie
+        size = 188
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = allaamie
+        size = 1126
+    }
+
+    farmers = {
+        culture = basque
+        religion = allaamie
+        size = 61517
+    }
+
+}
+
+#Pamplona
+493 = {
+    soldiers = {
+        culture = basque
+        religion = lollard
+        size = 7388
+    }
+
+    artisans = {
+        culture = basque
+        religion = lollard
+        size = 5621
+    }
+
+    clergymen = {
+        culture = basque
+        religion = lollard
+        size = 522
+    }
+
+    bureaucrats = {
+        culture = basque
+        religion = lollard
+        size = 72
+    }
+
+    officers = {
+        culture = basque
+        religion = lollard
+        size = 116
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = lollard
+        size = 506
+    }
+
+    farmers = {
+        culture = basque
+        religion = lollard
+        size = 66076
+    }
+
+    soldiers = {
+        culture = basque
+        religion = allaamie
+        size = 3816
+    }
+
+    artisans = {
+        culture = basque
+        religion = allaamie
+        size = 11428
+    }
+
+    clergymen = {
+        culture = basque
+        religion = allaamie
+        size = 1061
+    }
+
+    bureaucrats = {
+        culture = basque
+        religion = allaamie
+        size = 147
+    }
+
+    officers = {
+        culture = basque
+        religion = allaamie
+        size = 237
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = allaamie
+        size = 1028
+    }
+
+    farmers = {
+        culture = basque
+        religion = allaamie
+        size = 23758
+    }
+
+}
+
+#Logrono
+494 = {
+    soldiers = {
+        culture = visigothic
+        religion = kharijite
+        size = 528
+    }
+
+    artisans = {
+        culture = visigothic
+        religion = kharijite
+        size = 1846
+    }
+
+    clergymen = {
+        culture = visigothic
+        religion = kharijite
+        size = 171
+    }
+
+    bureaucrats = {
+        culture = visigothic
+        religion = kharijite
+        size = 24
+    }
+
+    officers = {
+        culture = visigothic
+        religion = kharijite
+        size = 17
+    }
+
+    aristocrats = {
+        culture = visigothic
+        religion = kharijite
+        size = 332
+    }
+
+    farmers = {
+        culture = visigothic
+        religion = kharijite
+        size = 23458
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 381
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 4513
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 419
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 58
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 42
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 812
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 12820
+    }
+
+}
+
+#Zaragoza
+495 = {
+    soldiers = {
+        culture = visigothic
+        religion = lollard
+        size = 11126
+    }
+
+    artisans = {
+        culture = visigothic
+        religion = lollard
+        size = 8465
+    }
+
+    clergymen = {
+        culture = visigothic
+        religion = lollard
+        size = 786
+    }
+
+    bureaucrats = {
+        culture = visigothic
+        religion = lollard
+        size = 109
+    }
+
+    officers = {
+        culture = visigothic
+        religion = lollard
+        size = 175
+    }
+
+    aristocrats = {
+        culture = visigothic
+        religion = lollard
+        size = 762
+    }
+
+    farmers = {
+        culture = visigothic
+        religion = lollard
+        size = 99510
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 5719
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 17168
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1594
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 221
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 355
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1545
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 35561
+    }
+
+}
+
+#Huesca
+496 = {
+    soldiers = {
+        culture = basque
+        religion = lollard
+        size = 3291
+    }
+
+    artisans = {
+        culture = basque
+        religion = lollard
+        size = 4114
+    }
+
+    clergymen = {
+        culture = basque
+        religion = lollard
+        size = 382
+    }
+
+    bureaucrats = {
+        culture = basque
+        religion = lollard
+        size = 53
+    }
+
+    officers = {
+        culture = basque
+        religion = lollard
+        size = 62
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = lollard
+        size = 370
+    }
+
+    farmers = {
+        culture = basque
+        religion = lollard
+        size = 50497
+    }
+
+    soldiers = {
+        culture = basque
+        religion = allaamie
+        size = 1871
+    }
+
+    artisans = {
+        culture = basque
+        religion = allaamie
+        size = 8791
+    }
+
+    clergymen = {
+        culture = basque
+        religion = allaamie
+        size = 816
+    }
+
+    bureaucrats = {
+        culture = basque
+        religion = allaamie
+        size = 113
+    }
+
+    officers = {
+        culture = basque
+        religion = allaamie
+        size = 132
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = allaamie
+        size = 791
+    }
+
+    farmers = {
+        culture = basque
+        religion = allaamie
+        size = 20895
+    }
+
+}
+
+#Teruel
+497 = {
+    soldiers = {
+        culture = visigothic
+        religion = catholic
+        size = 5093
+    }
+
+    artisans = {
+        culture = visigothic
+        religion = catholic
+        size = 6366
+    }
+
+    clergymen = {
+        culture = visigothic
+        religion = catholic
+        size = 591
+    }
+
+    bureaucrats = {
+        culture = visigothic
+        religion = catholic
+        size = 82
+    }
+
+    officers = {
+        culture = visigothic
+        religion = catholic
+        size = 95
+    }
+
+    aristocrats = {
+        culture = visigothic
+        religion = catholic
+        size = 573
+    }
+
+    farmers = {
+        culture = visigothic
+        religion = catholic
+        size = 78140
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 659
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 8014
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 744
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 103
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 120
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 721
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1411
+    }
+
+}
+
+#Barcelona
+498 = {
+    soldiers = {
+        culture = catalan
+        religion = cathar
+        size = 4531
+    }
+
+    artisans = {
+        culture = catalan
+        religion = cathar
+        size = 5664
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = cathar
+        size = 526
+    }
+
+    bureaucrats = {
+        culture = catalan
+        religion = cathar
+        size = 73
+    }
+
+    officers = {
+        culture = catalan
+        religion = cathar
+        size = 85
+    }
+
+    aristocrats = {
+        culture = catalan
+        religion = cathar
+        size = 510
+    }
+
+    farmers = {
+        culture = catalan
+        religion = cathar
+        size = 69525
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 2793
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 12646
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1174
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 163
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 190
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1138
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 31767
+    }
+
+}
+
+#Gerona
+499 = {
+    soldiers = {
+        culture = visigothic
+        religion = cathar
+        size = 1923
+    }
+
+    artisans = {
+        culture = visigothic
+        religion = cathar
+        size = 687
+    }
+
+    clergymen = {
+        culture = visigothic
+        religion = cathar
+        size = 223
+    }
+
+    bureaucrats = {
+        culture = visigothic
+        religion = cathar
+        size = 31
+    }
+
+    officers = {
+        culture = visigothic
+        religion = cathar
+        size = 36
+    }
+
+    aristocrats = {
+        culture = visigothic
+        religion = cathar
+        size = 144
+    }
+
+    farmers = {
+        culture = visigothic
+        religion = cathar
+        size = 31292
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 2471
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 2452
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 797
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 110
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 129
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 515
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 37656
+    }
+
+}
+
+#Lerida
+500 = {
+    soldiers = {
+        culture = catalan
+        religion = cathar
+        size = 2957
+    }
+
+    artisans = {
+        culture = catalan
+        religion = cathar
+        size = 3696
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = cathar
+        size = 343
+    }
+
+    bureaucrats = {
+        culture = catalan
+        religion = cathar
+        size = 48
+    }
+
+    officers = {
+        culture = catalan
+        religion = cathar
+        size = 55
+    }
+
+    aristocrats = {
+        culture = catalan
+        religion = cathar
+        size = 333
+    }
+
+    farmers = {
+        culture = catalan
+        religion = cathar
+        size = 45371
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1784
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 8157
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 757
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 105
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 122
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 734
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 20204
+    }
+
+}
+
+#Tarragona
+501 = {
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1952
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 13661
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1269
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 254
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 127
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 2459
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 77859
+    }
+
+}
+
+#Balearic Islands
+502 = {
+    soldiers = {
+        culture = visigothic
+        religion = sunni
+        size = 1284
+    }
+
+    artisans = {
+        culture = visigothic
+        religion = sunni
+        size = 4491
+    }
+
+    clergymen = {
+        culture = visigothic
+        religion = sunni
+        size = 417
+    }
+
+    bureaucrats = {
+        culture = visigothic
+        religion = sunni
+        size = 33
+    }
+
+    officers = {
+        culture = visigothic
+        religion = sunni
+        size = 42
+    }
+
+    aristocrats = {
+        culture = visigothic
+        religion = sunni
+        size = 809
+    }
+
+    farmers = {
+        culture = visigothic
+        religion = sunni
+        size = 57093
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1741
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 16680
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1548
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 118
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 156
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 3002
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 63812
+    }
+
+}
+
+#Valencia
+503 = {
+    soldiers = {
+        culture = visigothic
+        religion = catholic
+        size = 15474
+    }
+
+    artisans = {
+        culture = visigothic
+        religion = catholic
+        size = 11774
+    }
+
+    clergymen = {
+        culture = visigothic
+        religion = catholic
+        size = 1093
+    }
+
+    bureaucrats = {
+        culture = visigothic
+        religion = catholic
+        size = 185
+    }
+
+    officers = {
+        culture = visigothic
+        religion = catholic
+        size = 244
+    }
+
+    aristocrats = {
+        culture = visigothic
+        religion = catholic
+        size = 1059
+    }
+
+    farmers = {
+        culture = visigothic
+        religion = catholic
+        size = 138369
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 2667
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 15834
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1471
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 249
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 328
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1425
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 7023
+    }
+
+}
+
+#Castellon
+504 = {
+    soldiers = {
+        culture = visigothic
+        religion = sunni
+        size = 2373
+    }
+
+    artisans = {
+        culture = visigothic
+        religion = sunni
+        size = 848
+    }
+
+    clergymen = {
+        culture = visigothic
+        religion = sunni
+        size = 275
+    }
+
+    bureaucrats = {
+        culture = visigothic
+        religion = sunni
+        size = 55
+    }
+
+    officers = {
+        culture = visigothic
+        religion = sunni
+        size = 44
+    }
+
+    aristocrats = {
+        culture = visigothic
+        religion = sunni
+        size = 534
+    }
+
+    farmers = {
+        culture = visigothic
+        religion = sunni
+        size = 38251
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 2944
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 2951
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 959
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 192
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 155
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1859
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 43517
+    }
+
+}
+
+#Alicante
+505 = {
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 2301
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 16104
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1495
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 207
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 150
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1449
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 93325
+    }
+
+}
+
+#Cartagena
+506 = {
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 9374
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 4076
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1325
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 183
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 295
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 2568
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 84067
+    }
+
+}
+
+#Murcia
+507 = {
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 1472
+    }
+
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 1840
+    }
+
+    clergymen = {
+        culture = spanish
+        religion = catholic
+        size = 171
+    }
+
+    bureaucrats = {
+        culture = spanish
+        religion = catholic
+        size = 34
+    }
+
+    officers = {
+        culture = spanish
+        religion = catholic
+        size = 28
+    }
+
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 331
+    }
+
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 22411
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1131
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 4669
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 434
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 87
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 70
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 840
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 12973
+    }
+
+}
+
+#Albacete
+508 = {
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 1900
+    }
+
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 2374
+    }
+
+    clergymen = {
+        culture = spanish
+        religion = catholic
+        size = 220
+    }
+
+    bureaucrats = {
+        culture = spanish
+        religion = catholic
+        size = 44
+    }
+
+    officers = {
+        culture = spanish
+        religion = catholic
+        size = 36
+    }
+
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 427
+    }
+
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 28920
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1460
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 6024
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 559
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 112
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 90
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1084
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 16741
+    }
+
+}
+
+#Seville
+509 = {
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 13120
+    }
+
+    craftsmen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 8170
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 19965
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1854
+    }
+
+    clerks = {
+        culture = alaybirih
+        religion = allaamie
+        size = 493
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 371
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 414
+    }
+
+    capitalists = {
+        culture = alaybirih
+        religion = allaamie
+        size = 250
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 3594
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 94373
+    }
+
+}
+
+#Cordoba
+510 = {
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 9897
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 15061
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1399
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 237
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 312
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1356
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 79319
+    }
+
+}
+
+#Huelva
+511 = {
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1776
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 12433
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1155
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 160
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 115
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1119
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 72051
+    }
+
+}
+
+#Cadiz
+512 = {
+    soldiers = {
+        culture = andalucian
+        religion = sunni
+        size = 1958
+    }
+
+    artisans = {
+        culture = andalucian
+        religion = sunni
+        size = 1030
+    }
+
+    clergymen = {
+        culture = andalucian
+        religion = sunni
+        size = 335
+    }
+
+    bureaucrats = {
+        culture = andalucian
+        religion = sunni
+        size = 67
+    }
+
+    officers = {
+        culture = andalucian
+        religion = sunni
+        size = 44
+    }
+
+    aristocrats = {
+        culture = andalucian
+        religion = sunni
+        size = 325
+    }
+
+    farmers = {
+        culture = andalucian
+        religion = sunni
+        size = 47755
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 2298
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 3449
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1121
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 224
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 147
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1086
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 52144
+    }
+
+}
+
+#Granada
+513 = {
+    soldiers = {
+        culture = visigothic
+        religion = sunni
+        size = 2679
+    }
+
+    artisans = {
+        culture = visigothic
+        religion = sunni
+        size = 3349
+    }
+
+    clergymen = {
+        culture = visigothic
+        religion = sunni
+        size = 311
+    }
+
+    bureaucrats = {
+        culture = visigothic
+        religion = sunni
+        size = 53
+    }
+
+    officers = {
+        culture = visigothic
+        religion = sunni
+        size = 50
+    }
+
+    aristocrats = {
+        culture = visigothic
+        religion = sunni
+        size = 201
+    }
+
+    farmers = {
+        culture = visigothic
+        religion = sunni
+        size = 41205
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 3189
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 11322
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1051
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 178
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 170
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 679
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 40360
+    }
+
+}
+
+#Malaga
+514 = {
+    soldiers = {
+        culture = visigothic
+        religion = sunni
+        size = 1499
+    }
+
+    artisans = {
+        culture = visigothic
+        religion = sunni
+        size = 2761
+    }
+
+    clergymen = {
+        culture = visigothic
+        religion = sunni
+        size = 256
+    }
+
+    bureaucrats = {
+        culture = visigothic
+        religion = sunni
+        size = 36
+    }
+
+    officers = {
+        culture = visigothic
+        religion = sunni
+        size = 34
+    }
+
+    aristocrats = {
+        culture = visigothic
+        religion = sunni
+        size = 166
+    }
+
+    farmers = {
+        culture = visigothic
+        religion = sunni
+        size = 34695
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1713
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 9073
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 842
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 117
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 110
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 544
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 32683
+    }
+
+}
+
+#Almeria
+515 = {
+    soldiers = {
+        culture = visigothic
+        religion = sunni
+        size = 795
+    }
+
+    artisans = {
+        culture = visigothic
+        religion = sunni
+        size = 2782
+    }
+
+    clergymen = {
+        culture = visigothic
+        religion = sunni
+        size = 258
+    }
+
+    bureaucrats = {
+        culture = visigothic
+        religion = sunni
+        size = 36
+    }
+
+    officers = {
+        culture = visigothic
+        religion = sunni
+        size = 26
+    }
+
+    aristocrats = {
+        culture = visigothic
+        religion = sunni
+        size = 501
+    }
+
+    farmers = {
+        culture = visigothic
+        religion = sunni
+        size = 35350
+    }
+
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 955
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 9467
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 879
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 122
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 88
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1704
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 34534
+    }
+
+}
+
+#Jaen
+516 = {
+    soldiers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 10851
+    }
+
+    artisans = {
+        culture = alaybirih
+        religion = allaamie
+        size = 16512
+    }
+
+    clergymen = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1533
+    }
+
+    bureaucrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 307
+    }
+
+    officers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 342
+    }
+
+    aristocrats = {
+        culture = alaybirih
+        religion = allaamie
+        size = 1486
+    }
+
+    farmers = {
+        culture = alaybirih
+        religion = allaamie
+        size = 86914
+    }
+
+}
+
+#Canary Islands
+2136 = {
+    soldiers = {
+        culture = berber
+        religion = allaamie
+        size = 3133
+    }
+
+    artisans = {
+        culture = berber
+        religion = allaamie
+        size = 7833
+    }
+
+    clergymen = {
+        culture = berber
+        religion = allaamie
+        size = 727
+    }
+
+    bureaucrats = {
+        culture = berber
+        religion = allaamie
+        size = 78
+    }
+
+    officers = {
+        culture = berber
+        religion = allaamie
+        size = 118
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = allaamie
+        size = 470
+    }
+
+    farmers = {
+        culture = berber
+        religion = allaamie
+        size = 43591
+    }
+
+}
+

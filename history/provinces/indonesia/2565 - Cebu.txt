@@ -1,0 +1,10 @@
+owner=GER
+controller=GER
+add_core=CEB
+add_core=PHL
+add_core=TDO
+trade_goods = fish
+life_rating = 35
+colonial=2
+naval_base = 2
+fort = 1

@@ -1,0 +1,200 @@
+676 = {
+	soldiers=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 2635
+	}
+
+	clergymen=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 264
+	}
+
+	bureaucrats=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 48
+	}
+
+	officers=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 549
+	}
+
+	farmers=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 31562
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 1840
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 7571
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 758
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 138
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 181
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 1576
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 24648
+	}
+
+}
+677 = {
+	soldiers=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 2528
+	}
+
+	clergymen=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 259
+	}
+
+	bureaucrats=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 47
+	}
+
+	officers=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 539
+	}
+
+	farmers=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 30376
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 1805
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 7261
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 743
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 135
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 178
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 1547
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 23808
+	}
+
+}

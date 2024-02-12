@@ -1,0 +1,144 @@
+alliance=
+{
+	first="SIA"
+	second="TDO"
+	start_date="1794.7.22"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ETH"
+	second="MLC"
+	start_date="1789.10.2"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ETH"
+	second="FRA"
+	start_date="1803.1.19"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ENG"
+	second="ITA"
+	start_date="1553.3.30"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ENG"
+	second="X01"
+	start_date="1809.8.30"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="GER"
+	second="ENG"
+	start_date="1798.6.19"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="GER"
+	second="ENS"
+	start_date="1800.10.23"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ITA"
+	second="PER"
+	start_date="1691.7.17"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ITA"
+	second="RUS"
+	start_date="1749.5.16"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="MYA"
+	second="X03"
+	start_date="1709.1.3"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="RUS"
+	second="PER"
+	start_date="1453.11.21"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="RUS"
+	second="ENS"
+	start_date="1801.1.9"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="IBR"
+	second="ITA"
+	start_date="1444.11.30"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="IBR"
+	second="ENG"
+	start_date="1506.1.9"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="IBR"
+	second="X05"
+	start_date="1714.9.20"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="IBR"
+	second="ENS"
+	start_date="1799.11.19"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="TDO"
+	second="SUL"
+	start_date="1464.7.13"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ENS"
+	second="USA"
+	start_date="1800.2.16"
+	end_date="1936.1.1"
+}
+

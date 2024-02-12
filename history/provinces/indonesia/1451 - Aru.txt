@@ -1,0 +1,8 @@
+owner=ENG
+controller=ENG
+add_core=TTE
+add_core=X13
+trade_goods = fish
+life_rating = 31
+colonial=2
+naval_base = 1

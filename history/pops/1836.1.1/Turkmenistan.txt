@@ -1,0 +1,794 @@
+686 = {
+	soldiers=
+	{
+		culture = turkmen
+		religion = jain
+		size= 855
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = jain
+		size= 255
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = jain
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = jain
+		size= 6
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = jain
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = jain
+		size= 72
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = jain
+		size= 14069
+	}
+
+	soldiers=
+	{
+		culture = turkmen
+		religion = gnostic
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = gnostic
+		size= 99
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = gnostic
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = gnostic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = gnostic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = gnostic
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = gnostic
+		size= 284
+	}
+
+	soldiers=
+	{
+		culture = turkmen
+		religion = zoroastrian
+		size= 572
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = zoroastrian
+		size= 813
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = zoroastrian
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = zoroastrian
+		size= 20
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = zoroastrian
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = zoroastrian
+		size= 228
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = zoroastrian
+		size= 8506
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 5436
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 393
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 133
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 127
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 1523
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 35684
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = jain
+		size= 950
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = jain
+		size= 191
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = jain
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = jain
+		size= 5
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = jain
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = jain
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = jain
+		size= 15752
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = gnostic
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = gnostic
+		size= 251
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = gnostic
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = gnostic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = gnostic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = gnostic
+		size= 70
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = gnostic
+		size= 2186
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = zoroastrian
+		size= 612
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = zoroastrian
+		size= 934
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = zoroastrian
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = zoroastrian
+		size= 23
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = zoroastrian
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = zoroastrian
+		size= 261
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = zoroastrian
+		size= 9002
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 22733
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 5776
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 418
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 142
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 134
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 1616
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 18390
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = gnostic
+		size= 134
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = gnostic
+		size= 245
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = gnostic
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = gnostic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = gnostic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = gnostic
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = gnostic
+		size= 1915
+	}
+
+}
+1196 = {
+	soldiers=
+	{
+		culture = tajik
+		religion = gnostic
+		size= 473
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = gnostic
+		size= 84
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = gnostic
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = gnostic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = gnostic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = gnostic
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = gnostic
+		size= 7844
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 955
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 155
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 33
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 15100
+	}
+
+}
+1204 = {
+	soldiers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 1695
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 1210
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 196
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 67
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 509
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 26521
+	}
+
+}
+1205 = {
+	soldiers=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 1264
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 3159
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 147
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 23
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 189
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 17735
+	}
+
+}
+1206 = {
+	soldiers=
+	{
+		culture = persian
+		religion = sunni
+		size= 1018
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = sunni
+		size= 318
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = sunni
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = sunni
+		size= 5
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = sunni
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = sunni
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = sunni
+		size= 16776
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = gnostic
+		size= 131
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = gnostic
+		size= 400
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = gnostic
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = gnostic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = gnostic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = gnostic
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = gnostic
+		size= 1721
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 5425
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 252
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 85
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 81
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 651
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 9642
+	}
+
+}

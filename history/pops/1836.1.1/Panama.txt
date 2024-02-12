@@ -1,0 +1,381 @@
+1723 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 628
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 261
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = allaamie
+		size= 6550
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 2117
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 431
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 70
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 89
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 23
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 550
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 21
+	}
+
+}
+2204 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 433
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 77
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 873
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = allaamie
+		size= 4518
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 8213
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 632
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 102
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 132
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 31
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 33
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 808
+	}
+
+}
+2205 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 462
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 180
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2571
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = allaamie
+		size= 3116
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 15942
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 1210
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 994
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 161
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 208
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 49
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 52
+	}
+
+}
+2206 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 455
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 153
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2119
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = allaamie
+		size= 3133
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 13425
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 861
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 140
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 180
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 1051
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 42
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 44
+	}
+
+}
+2208 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 171
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2884
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 18926
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 1372
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 223
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 288
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 68
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 72
+	}
+
+}

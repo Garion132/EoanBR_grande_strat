@@ -1,0 +1,8 @@
+owner=ITA
+controller=ITA
+add_core=MAD
+trade_goods = grain
+life_rating = 35
+terrain = jungle
+colonial=2
+fort = 1

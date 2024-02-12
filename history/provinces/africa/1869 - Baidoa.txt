@@ -1,0 +1,8 @@
+owner=GER
+controller=GER
+add_core=ETH
+add_core=SOM
+trade_goods = fruit
+life_rating = 35
+terrain = savanna
+colonial=2

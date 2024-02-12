@@ -1,0 +1,14 @@
+owner=GER
+controller=GER
+add_core=GER
+add_core=ROM
+add_core=SIE
+trade_goods = wool
+life_rating = 35
+fort = 1
+state_building=
+{
+	level=1
+	building = explosives_factory
+	upgrade = yes
+}

@@ -1,0 +1,107 @@
+2126 = {
+	slaves=
+	{
+		culture = afro_norse
+		religion = norse_pagan_reformed
+		size= 20472
+	}
+
+	soldiers=
+	{
+		culture = svart
+		religion = norse_pagan_reformed
+		size= 357
+	}
+
+	farmers=
+	{
+		culture = svart
+		religion = norse_pagan_reformed
+		size= 12279
+	}
+
+	artisans=
+	{
+		culture = svart
+		religion = norse_pagan_reformed
+		size= 2508
+	}
+
+	clergymen=
+	{
+		culture = svart
+		religion = norse_pagan_reformed
+		size= 232
+	}
+
+	aristocrats=
+	{
+		culture = svart
+		religion = norse_pagan_reformed
+		size= 301
+	}
+
+	bureaucrats=
+	{
+		culture = svart
+		religion = norse_pagan_reformed
+		size= 35
+	}
+
+	officers=
+	{
+		culture = svart
+		religion = norse_pagan_reformed
+		size= 23
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 6089
+	}
+
+	soldiers=
+	{
+		culture = svart
+		religion = protestant
+		size= 107
+	}
+
+	artisans=
+	{
+		culture = svart
+		religion = protestant
+		size= 3999
+	}
+
+	clergymen=
+	{
+		culture = svart
+		religion = protestant
+		size= 371
+	}
+
+	bureaucrats=
+	{
+		culture = svart
+		religion = protestant
+		size= 57
+	}
+
+	officers=
+	{
+		culture = svart
+		religion = protestant
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = svart
+		religion = protestant
+		size= 480
+	}
+
+}

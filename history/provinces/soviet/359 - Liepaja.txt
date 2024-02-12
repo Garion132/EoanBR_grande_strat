@@ -1,0 +1,8 @@
+owner=ENS
+controller=ENS
+add_core=ENS
+add_core=LAT
+add_core=UBD
+add_core=X02
+trade_goods = grain
+life_rating = 35

@@ -1,0 +1,6 @@
+owner=RUS
+controller=RUS
+add_core=ZUN
+trade_goods = sulphur
+life_rating = 32
+colonial=2

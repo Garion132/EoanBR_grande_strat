@@ -1,0 +1,8 @@
+owner=TIB
+controller=TIB
+add_core=TIB
+add_core=CHI
+add_core=YAN
+trade_goods = cattle
+life_rating = 32
+colonial=2

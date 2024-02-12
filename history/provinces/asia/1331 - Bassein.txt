@@ -1,0 +1,8 @@
+owner=GER
+controller=GER
+add_core=BUR
+add_core=IDO
+add_core=PEG
+trade_goods = fish
+life_rating = 35
+colonial=2

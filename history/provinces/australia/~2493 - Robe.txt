@@ -1,0 +1,7 @@
+owner=ENG
+controller=ENG
+add_core=AUK
+trade_goods = fish
+life_rating = 32
+terrain = savanna
+colonial=2

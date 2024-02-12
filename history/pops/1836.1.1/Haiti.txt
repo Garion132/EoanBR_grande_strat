@@ -1,0 +1,228 @@
+2213 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 17596
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 493
+	}
+
+	slaves=
+	{
+		culture = afro_italian
+		religion = catholic
+		size= 173230
+	}
+
+	soldiers=
+	{
+		culture = mesican
+		religion = catholic
+		size= 4848
+	}
+
+	artisans=
+	{
+		culture = mesican
+		religion = catholic
+		size= 26714
+	}
+
+	aristocrats=
+	{
+		culture = mesican
+		religion = catholic
+		size= 4808
+	}
+
+	clergymen=
+	{
+		culture = mesican
+		religion = catholic
+		size= 2479
+	}
+
+	bureaucrats=
+	{
+		culture = mesican
+		religion = catholic
+		size= 877
+	}
+
+	officers=
+	{
+		culture = mesican
+		religion = catholic
+		size= 400
+	}
+
+}
+2215 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 11883
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 332
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = norse_pagan_reformed
+		size= 41110
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 1150
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 6242
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 1122
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 579
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 205
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 93
+	}
+
+	slaves=
+	{
+		culture = afro_italian
+		religion = catholic
+		size= 14841
+	}
+
+	soldiers=
+	{
+		culture = mesican
+		religion = catholic
+		size= 413
+	}
+
+	artisans=
+	{
+		culture = mesican
+		religion = catholic
+		size= 1628
+	}
+
+	aristocrats=
+	{
+		culture = mesican
+		religion = catholic
+		size= 293
+	}
+
+	clergymen=
+	{
+		culture = mesican
+		religion = catholic
+		size= 151
+	}
+
+	bureaucrats=
+	{
+		culture = mesican
+		religion = catholic
+		size= 52
+	}
+
+	officers=
+	{
+		culture = mesican
+		religion = catholic
+		size= 24
+	}
+
+	slaves=
+	{
+		culture = afro_italian
+		religion = protestant
+		size= 81343
+	}
+
+	soldiers=
+	{
+		culture = mesican
+		religion = protestant
+		size= 2278
+	}
+
+	artisans=
+	{
+		culture = mesican
+		religion = protestant
+		size= 13016
+	}
+
+	clergymen=
+	{
+		culture = mesican
+		religion = protestant
+		size= 1209
+	}
+
+	bureaucrats=
+	{
+		culture = mesican
+		religion = protestant
+		size= 428
+	}
+
+	officers=
+	{
+		culture = mesican
+		religion = protestant
+		size= 195
+	}
+
+	aristocrats=
+	{
+		culture = mesican
+		religion = protestant
+		size= 2343
+	}
+
+}

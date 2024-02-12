@@ -1,0 +1,5 @@
+owner=IBR
+controller=IBR
+add_core=CMA
+trade_goods = fish
+life_rating = 35

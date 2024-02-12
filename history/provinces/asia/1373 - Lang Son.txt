@@ -1,0 +1,7 @@
+owner=JAP
+controller=JAP
+add_core=DAI
+add_core=IDO
+add_core=JAP
+trade_goods = grain
+life_rating = 34

@@ -1,0 +1,5 @@
+owner=IBR
+controller=IBR
+trade_goods = tropical_wood
+life_rating = 35
+colonial=2

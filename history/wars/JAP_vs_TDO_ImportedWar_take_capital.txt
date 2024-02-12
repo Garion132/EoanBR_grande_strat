@@ -1,0 +1,15 @@
+name = "Japanese-Tondoan Imperialist War"
+
+1820.3.8 = {
+	add_attacker = JAP
+	add_defender = TDO
+	add_defender = SIA
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = JAP
+		receiver = TDO
+		country = TDO
+		state_province_id = 1433
+	}
+}

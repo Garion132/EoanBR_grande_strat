@@ -1,0 +1,7 @@
+owner=GER
+controller=GER
+add_core=SOM
+trade_goods = cotton
+life_rating = 31
+terrain = semidesert
+colonial=2

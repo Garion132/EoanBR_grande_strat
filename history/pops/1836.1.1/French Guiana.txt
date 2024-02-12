@@ -1,0 +1,144 @@
+2241 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1605
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 106
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 184
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = orthodox
+		size= 11668
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 355
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 627
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 769
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 203
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 131
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 59
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 24
+	}
+
+}
+2246 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1590
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 10667
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 557
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 682
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 181
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 117
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 53
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 22
+	}
+
+}

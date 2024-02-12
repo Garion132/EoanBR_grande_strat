@@ -1,0 +1,6 @@
+owner=IBR
+controller=IBR
+trade_goods = wool
+life_rating = 35
+colonial=2
+naval_base = 1

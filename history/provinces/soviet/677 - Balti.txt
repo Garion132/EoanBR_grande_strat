@@ -1,0 +1,6 @@
+owner=WAL
+controller=WAL
+add_core=PCH
+add_core=WAL
+trade_goods = fruit
+life_rating = 35

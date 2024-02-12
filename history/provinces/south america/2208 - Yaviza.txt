@@ -1,0 +1,5 @@
+owner=IBR
+controller=IBR
+add_core=CLM
+trade_goods = fruit
+life_rating = 33

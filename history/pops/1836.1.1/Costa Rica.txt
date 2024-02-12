@@ -1,0 +1,195 @@
+2201 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 199
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 3362
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 19051
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 1214
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 1010
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 163
+	}
+
+	aristocrats=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 212
+	}
+
+	bureaucrats=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 50
+	}
+
+	officers=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 52
+	}
+
+}
+2202 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 162
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2734
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 15958
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 841
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 136
+	}
+
+	aristocrats=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 176
+	}
+
+	bureaucrats=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 41
+	}
+
+	officers=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 44
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 1012
+	}
+
+}
+2203 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 146
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2464
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 15330
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 802
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 130
+	}
+
+	aristocrats=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 168
+	}
+
+	bureaucrats=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 39
+	}
+
+	officers=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 41
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 974
+	}
+
+}

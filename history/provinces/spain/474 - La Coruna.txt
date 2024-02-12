@@ -1,0 +1,7 @@
+owner=IBR
+controller=IBR
+add_core=IBR
+trade_goods = fish
+life_rating = 35
+naval_base = 1
+fort = 1

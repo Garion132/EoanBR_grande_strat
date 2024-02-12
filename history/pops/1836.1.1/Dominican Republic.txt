@@ -1,0 +1,158 @@
+2214 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 11983
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 800
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 15791
+	}
+
+	slaves=
+	{
+		culture = afro_italian
+		religion = catholic
+		size= 113866
+	}
+
+	soldiers=
+	{
+		culture = mesican
+		religion = catholic
+		size= 19633
+	}
+
+	farmers=
+	{
+		culture = mesican
+		religion = catholic
+		size= 85044
+	}
+
+	artisans=
+	{
+		culture = mesican
+		religion = catholic
+		size= 42011
+	}
+
+	aristocrats=
+	{
+		culture = mesican
+		religion = catholic
+		size= 7560
+	}
+
+	clergymen=
+	{
+		culture = mesican
+		religion = catholic
+		size= 3899
+	}
+
+	bureaucrats=
+	{
+		culture = mesican
+		religion = catholic
+		size= 1379
+	}
+
+	officers=
+	{
+		culture = mesican
+		religion = catholic
+		size= 630
+	}
+
+}
+2216 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 6243
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 448
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 9314
+	}
+
+	farmers=
+	{
+		culture = mesican
+		religion = catholic
+		size= 62246
+	}
+
+	slaves=
+	{
+		culture = afro_italian
+		religion = catholic
+		size= 62722
+	}
+
+	soldiers=
+	{
+		culture = mesican
+		religion = catholic
+		size= 4498
+	}
+
+	artisans=
+	{
+		culture = mesican
+		religion = catholic
+		size= 24753
+	}
+
+	aristocrats=
+	{
+		culture = mesican
+		religion = catholic
+		size= 4454
+	}
+
+	clergymen=
+	{
+		culture = mesican
+		religion = catholic
+		size= 2297
+	}
+
+	bureaucrats=
+	{
+		culture = mesican
+		religion = catholic
+		size= 812
+	}
+
+	officers=
+	{
+		culture = mesican
+		religion = catholic
+		size= 370
+	}
+
+}

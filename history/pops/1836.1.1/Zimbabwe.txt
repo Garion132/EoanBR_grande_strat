@@ -1,0 +1,686 @@
+2068 = {
+	soldiers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 178
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = shamanism
+		size= 141
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = shamanism
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 4
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 5961
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 539
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 884
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 287
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 22
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 186
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 17300
+	}
+
+}
+2069 = {
+	soldiers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 221
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = shamanism
+		size= 158
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = shamanism
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 4
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 7423
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 554
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 950
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 309
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 24
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 199
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 17704
+	}
+
+}
+2070 = {
+	aristocrats=
+	{
+		culture = shona
+		religion = animist
+		size= 425
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = animist
+		size= 225
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = animist
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = animist
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = animist
+		size= 20025
+	}
+
+	aristocrats=
+	{
+		culture = southern_bantu
+		religion = animist
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = southern_bantu
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = southern_bantu
+		religion = animist
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = southern_bantu
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = southern_bantu
+		religion = animist
+		size= 1800
+	}
+
+}
+2071 = {
+	soldiers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 321
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = shamanism
+		size= 229
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = shamanism
+		size= 74
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 8
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 64
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 10746
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 946
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 1581
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 514
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 55
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 83
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 443
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 30178
+	}
+
+}
+2072 = {
+	aristocrats=
+	{
+		culture = shona
+		religion = animist
+		size= 200
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = animist
+		size= 400
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = animist
+		size= 150
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = animist
+		size= 10950
+	}
+
+	aristocrats=
+	{
+		culture = southern_bantu
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = southern_bantu
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = southern_bantu
+		religion = animist
+		size= 500
+	}
+
+	soldiers=
+	{
+		culture = southern_bantu
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = southern_bantu
+		religion = animist
+		size= 9150
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = animist
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = animist
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = animist
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = animist
+		size= 2000
+	}
+
+}
+2073 = {
+	soldiers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = shamanism
+		size= 143
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = shamanism
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 5
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 6709
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 591
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 987
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 321
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 35
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 276
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = norse_pagan_reformed
+		size= 18840
+	}
+
+}
+2635 = {
+	aristocrats=
+	{
+		culture = southern_bantu
+		religion = animist
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = southern_bantu
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = southern_bantu
+		religion = animist
+		size= 300
+	}
+
+	soldiers=
+	{
+		culture = southern_bantu
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = southern_bantu
+		religion = animist
+		size= 5525
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = animist
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = animist
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = animist
+		size= 1800
+	}
+
+	aristocrats=
+	{
+		culture = sena
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = sena
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = sena
+		religion = animist
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = sena
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = sena
+		religion = animist
+		size= 900
+	}
+
+}

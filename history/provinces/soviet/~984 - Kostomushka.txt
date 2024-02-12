@@ -1,0 +1,9 @@
+owner=ENS
+controller=RUS
+add_core=ENS
+add_core=FIN
+add_core=SCA
+trade_goods = timber
+life_rating = 10
+terrain = boreal
+fort = 1

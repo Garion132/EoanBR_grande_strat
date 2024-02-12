@@ -1,0 +1,10 @@
+owner=MLC
+controller=MLC
+add_core=JAV
+add_core=MJP
+add_core=MLC
+add_core=TDO
+trade_goods = sulphur
+life_rating = 35
+naval_base = 2
+fort = 1

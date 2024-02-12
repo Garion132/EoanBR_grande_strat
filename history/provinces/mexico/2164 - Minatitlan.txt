@@ -1,0 +1,6 @@
+owner=IBR
+controller=IBR
+add_core=YOK
+trade_goods = iron
+life_rating = 35
+colonial=2

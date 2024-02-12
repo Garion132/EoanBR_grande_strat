@@ -1,0 +1,900 @@
+603 = {
+	soldiers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 5844
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = catholic
+		size= 4456
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = catholic
+		size= 398
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 90
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 93
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 1056
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 51852
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 10253
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 20091
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 1792
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 404
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 418
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 4760
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 74041
+	}
+
+}
+604 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 8019
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 6102
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 567
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 123
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size= 126
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 2196
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 70039
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = waldensian
+		size= 10463
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = waldensian
+		size= 22024
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = waldensian
+		size= 2045
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = waldensian
+		size= 440
+	}
+
+	officers=
+	{
+		culture = french
+		religion = waldensian
+		size= 456
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = waldensian
+		size= 7928
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = waldensian
+		size= 70369
+	}
+
+}
+605 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 4828
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 3674
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 341
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 73
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 661
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 42830
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = waldensian
+		size= 6980
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = waldensian
+		size= 14296
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = waldensian
+		size= 1328
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = waldensian
+		size= 286
+	}
+
+	officers=
+	{
+		culture = french
+		religion = waldensian
+		size= 296
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = waldensian
+		size= 2573
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = waldensian
+		size= 50115
+	}
+
+}
+606 = {
+	soldiers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 2809
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = catholic
+		size= 2137
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = catholic
+		size= 198
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 43
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 256
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 25041
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 4888
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 9575
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 889
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 191
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 198
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 1149
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 36236
+	}
+
+}
+607 = {
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size= 2659
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size= 1012
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size= 94
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size= 20
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size= 182
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size= 24919
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 1140
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 1879
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 175
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 38
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 338
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 8785
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = waldensian
+		size= 3977
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = waldensian
+		size= 8943
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = waldensian
+		size= 830
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = waldensian
+		size= 179
+	}
+
+	officers=
+	{
+		culture = french
+		religion = waldensian
+		size= 185
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = waldensian
+		size= 1610
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = waldensian
+		size= 27505
+	}
+
+}
+608 = {
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size= 1634
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size= 621
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size= 12
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size= 112
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size= 15307
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 700
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 1154
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 107
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 208
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 5397
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = waldensian
+		size= 2443
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = waldensian
+		size= 5494
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = waldensian
+		size= 510
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = waldensian
+		size= 110
+	}
+
+	officers=
+	{
+		culture = french
+		religion = waldensian
+		size= 114
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = waldensian
+		size= 989
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = waldensian
+		size= 16894
+	}
+
+}
+609 = {
+	soldiers=
+	{
+		culture = french
+		religion = waldensian
+		size= 7263
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = waldensian
+		size= 10952
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = waldensian
+		size= 1017
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = waldensian
+		size= 219
+	}
+
+	officers=
+	{
+		culture = french
+		religion = waldensian
+		size= 227
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = waldensian
+		size= 3943
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = waldensian
+		size= 55320
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 1316
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 2103
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 195
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 42
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 757
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 9846
+	}
+
+}
+611 = {
+	soldiers=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 5471
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 8325
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 774
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 166
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 172
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 1998
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 42560
+	}
+
+}
+2568 = {
+	soldiers=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 5773
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 8785
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 815
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 175
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 182
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 2109
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = waldensian
+		size= 44914
+	}
+
+}

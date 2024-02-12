@@ -1,0 +1,8 @@
+owner=ENS
+controller=ENS
+add_core=ENS
+add_core=FRA
+add_core=NRM
+trade_goods = coal
+life_rating = 35
+terrain = mining_district

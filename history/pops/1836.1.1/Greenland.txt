@@ -1,0 +1,424 @@
+251 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = inuit
+		religion = totemism
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = inuit
+		religion = totemism
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = inuit
+		religion = totemism
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 1137
+	}
+
+	soldiers=
+	{
+		culture = inuit
+		religion = norse_pagan_reformed
+		size= 112
+	}
+
+	artisans=
+	{
+		culture = inuit
+		religion = norse_pagan_reformed
+		size= 1613
+	}
+
+	clergymen=
+	{
+		culture = inuit
+		religion = norse_pagan_reformed
+		size= 150
+	}
+
+	bureaucrats=
+	{
+		culture = inuit
+		religion = norse_pagan_reformed
+		size= 12
+	}
+
+	officers=
+	{
+		culture = inuit
+		religion = norse_pagan_reformed
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = inuit
+		religion = norse_pagan_reformed
+		size= 97
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = norse_pagan_reformed
+		size= 9170
+	}
+
+	farmers=
+	{
+		culture = americano
+		religion = allaamie
+		size= 162
+	}
+
+	artisans=
+	{
+		culture = americano
+		religion = allaamie
+		size= 24
+	}
+
+	soldiers=
+	{
+		culture = americano
+		religion = allaamie
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = americano
+		religion = allaamie
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = americano
+		religion = allaamie
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = americano
+		religion = norse_pagan_reformed
+		size= 54
+	}
+
+	artisans=
+	{
+		culture = americano
+		religion = norse_pagan_reformed
+		size= 403
+	}
+
+	clergymen=
+	{
+		culture = americano
+		religion = norse_pagan_reformed
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = americano
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = americano
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = americano
+		religion = norse_pagan_reformed
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = americano
+		religion = norse_pagan_reformed
+		size= 4897
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 508
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 30
+	}
+
+}
+2636 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = inuit
+		religion = totemism
+		size= 48
+	}
+
+	clergymen=
+	{
+		culture = inuit
+		religion = totemism
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = inuit
+		religion = totemism
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 1108
+	}
+
+	soldiers=
+	{
+		culture = inuit
+		religion = norse_pagan_reformed
+		size= 109
+	}
+
+	artisans=
+	{
+		culture = inuit
+		religion = norse_pagan_reformed
+		size= 1571
+	}
+
+	clergymen=
+	{
+		culture = inuit
+		religion = norse_pagan_reformed
+		size= 146
+	}
+
+	bureaucrats=
+	{
+		culture = inuit
+		religion = norse_pagan_reformed
+		size= 11
+	}
+
+	officers=
+	{
+		culture = inuit
+		religion = norse_pagan_reformed
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = inuit
+		religion = norse_pagan_reformed
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = norse_pagan_reformed
+		size= 8932
+	}
+
+	farmers=
+	{
+		culture = americano
+		religion = allaamie
+		size= 157
+	}
+
+	artisans=
+	{
+		culture = americano
+		religion = allaamie
+		size= 24
+	}
+
+	soldiers=
+	{
+		culture = americano
+		religion = allaamie
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = americano
+		religion = allaamie
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = americano
+		religion = allaamie
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = americano
+		religion = norse_pagan_reformed
+		size= 53
+	}
+
+	artisans=
+	{
+		culture = americano
+		religion = norse_pagan_reformed
+		size= 393
+	}
+
+	clergymen=
+	{
+		culture = americano
+		religion = norse_pagan_reformed
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = americano
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = americano
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = americano
+		religion = norse_pagan_reformed
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = americano
+		religion = norse_pagan_reformed
+		size= 4768
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 495
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 30
+	}
+
+}

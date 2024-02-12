@@ -1,0 +1,58 @@
+1876 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = allaamie
+		size= 9170
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = allaamie
+		size= 873
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = allaamie
+		size= 27158
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = allaamie
+		size= 6128
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = allaamie
+		size= 569
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = allaamie
+		size= 367
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = allaamie
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = allaamie
+		size= 43
+	}
+
+}

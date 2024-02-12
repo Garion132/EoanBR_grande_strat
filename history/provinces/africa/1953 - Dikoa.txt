@@ -1,0 +1,5 @@
+add_core=HAU
+trade_goods = fruit
+life_rating = 10
+terrain = semidesert
+colonial=2

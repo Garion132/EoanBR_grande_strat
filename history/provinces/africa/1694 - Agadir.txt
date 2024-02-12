@@ -1,0 +1,14 @@
+owner=IBR
+controller=IBR
+add_core=MOR
+trade_goods = fish
+life_rating = 32
+terrain = semidesert
+colonial=2
+naval_base = 2
+state_building=
+{
+	level=1
+	building = cement_factory
+	upgrade = yes
+}

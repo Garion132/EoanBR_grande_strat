@@ -1,0 +1,309 @@
+2197 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 262
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 4417
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 26850
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 1407
+	}
+
+	aristocrats=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 295
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 228
+	}
+
+	bureaucrats=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 70
+	}
+
+	officers=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 73
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 1706
+	}
+
+}
+2198 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 117
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1970
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 11975
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 628
+	}
+
+	aristocrats=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 131
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 31
+	}
+
+	officers=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 33
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 761
+	}
+
+}
+2199 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 255
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 4170
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 92
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 18
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = allaamie
+		size= 1067
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = allaamie
+		size= 853
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = allaamie
+		size= 139
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = allaamie
+		size= 21
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = allaamie
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = allaamie
+		size= 179
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = allaamie
+		size= 16754
+	}
+
+}
+2200 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1427
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 207
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 5833
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = allaamie
+		size= 9479
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 19447
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 16533
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 2281
+	}
+
+	aristocrats=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 1437
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 370
+	}
+
+	bureaucrats=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 169
+	}
+
+	officers=
+	{
+		culture = central_american
+		religion = allaamie
+		size= 117
+	}
+
+}

@@ -1,0 +1,8 @@
+owner=GER
+controller=SIA
+add_core=CAM
+add_core=IDO
+add_core=SIA
+trade_goods = grain
+life_rating = 40
+colonial=2

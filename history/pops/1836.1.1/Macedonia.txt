@@ -1,0 +1,349 @@
+806 = {
+	soldiers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 3005
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 1823
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 165
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 35
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 102
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 49025
+	}
+
+	soldiers=
+	{
+		culture = anglika
+		religion = orthodox
+		size= 2404
+	}
+
+	artisans=
+	{
+		culture = anglika
+		religion = orthodox
+		size= 4740
+	}
+
+	clergymen=
+	{
+		culture = anglika
+		religion = orthodox
+		size= 430
+	}
+
+	bureaucrats=
+	{
+		culture = anglika
+		religion = orthodox
+		size= 92
+	}
+
+	officers=
+	{
+		culture = anglika
+		religion = orthodox
+		size= 74
+	}
+
+	aristocrats=
+	{
+		culture = anglika
+		religion = orthodox
+		size= 267
+	}
+
+	farmers=
+	{
+		culture = anglika
+		religion = orthodox
+		size= 35179
+	}
+
+	soldiers=
+	{
+		culture = anglika
+		religion = protestant
+		size= 741
+	}
+
+	artisans=
+	{
+		culture = anglika
+		religion = protestant
+		size= 8361
+	}
+
+	clergymen=
+	{
+		culture = anglika
+		religion = protestant
+		size= 757
+	}
+
+	bureaucrats=
+	{
+		culture = anglika
+		religion = protestant
+		size= 163
+	}
+
+	officers=
+	{
+		culture = anglika
+		religion = protestant
+		size= 131
+	}
+
+	aristocrats=
+	{
+		culture = anglika
+		religion = protestant
+		size= 469
+	}
+
+	farmers=
+	{
+		culture = anglika
+		religion = protestant
+		size= 2307
+	}
+
+}
+807 = {
+	soldiers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 2323
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 2796
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 238
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 56
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 181
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 36735
+	}
+
+	soldiers=
+	{
+		culture = macedonian
+		religion = protestant
+		size= 385
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = protestant
+		size= 3723
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = protestant
+		size= 315
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = protestant
+		size= 74
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = protestant
+		size= 60
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = protestant
+		size= 240
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = protestant
+		size= 1963
+	}
+
+}
+1780 = {
+	soldiers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 1763
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 2203
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 204
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 41
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 132
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 27097
+	}
+
+	soldiers=
+	{
+		culture = macedonian
+		religion = protestant
+		size= 292
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = protestant
+		size= 2934
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = protestant
+		size= 272
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = protestant
+		size= 54
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = protestant
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = protestant
+		size= 176
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = protestant
+		size= 1448
+	}
+
+}

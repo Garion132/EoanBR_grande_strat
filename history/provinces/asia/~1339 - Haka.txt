@@ -1,0 +1,8 @@
+owner=MYA
+controller=GER
+add_core=HND
+add_core=MNP
+trade_goods = fruit
+life_rating = 35
+colonial=2
+fort = 1

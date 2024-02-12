@@ -1,0 +1,6 @@
+owner=ENS
+controller=ENS
+add_core=MLY
+trade_goods = fruit
+life_rating = 32
+colonial=2

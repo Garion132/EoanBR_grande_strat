@@ -1,0 +1,88 @@
+guarantee=
+{
+	first="ENG"
+	second="FRA"
+	start_date="1802.3.18"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="ENG"
+	second="X01"
+	start_date="1802.4.11"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="GER"
+	second="ENS"
+	start_date="1656.4.11"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="GER"
+	second="X01"
+	start_date="1802.3.13"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="ITA"
+	second="FRA"
+	start_date="1795.5.11"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="ITA"
+	second="X01"
+	start_date="1797.6.6"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="RUS"
+	second="X01"
+	start_date="1797.8.12"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="IBR"
+	second="FRA"
+	start_date="1727.8.11"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="IBR"
+	second="X05"
+	start_date="1763.4.4"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="IBR"
+	second="X01"
+	start_date="1797.12.16"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="USA"
+	second="X01"
+	start_date="1809.8.17"
+	end_date="1936.1.1"
+}
+

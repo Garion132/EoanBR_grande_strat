@@ -1,0 +1,6 @@
+owner=ENS
+controller=ENS
+trade_goods = fruit
+life_rating = 20
+terrain = small_island
+naval_base = 1

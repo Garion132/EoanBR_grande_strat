@@ -1,0 +1,8 @@
+owner=JAP
+controller=TDO
+add_core=JAP
+add_core=JAV
+add_core=MLC
+add_core=TDO
+trade_goods = fish
+life_rating = 35

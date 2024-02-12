@@ -1,0 +1,17 @@
+owner=IBR
+controller=IBR
+add_core=IBR
+trade_goods = cattle
+life_rating = 49
+state_building=
+{
+	level=1
+	building = small_arms_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = winery
+	upgrade = yes
+}

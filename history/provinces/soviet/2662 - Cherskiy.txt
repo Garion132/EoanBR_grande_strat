@@ -1,0 +1,8 @@
+owner=ENG
+controller=ENG
+add_core=ACO
+add_core=PUE
+trade_goods = grain
+life_rating = 30
+terrain = semidesert
+colonial=2

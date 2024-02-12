@@ -1,0 +1,6 @@
+owner=TDO
+controller=TDO
+add_core=MKS
+add_core=TDO
+trade_goods = grain
+life_rating = 31

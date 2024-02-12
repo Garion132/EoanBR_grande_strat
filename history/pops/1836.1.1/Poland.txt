@@ -1,0 +1,4264 @@
+#Stettin
+546 = {
+    soldiers = {
+        culture = danish
+        religion = norse_pagan_reformed
+        size = 5374
+    }
+
+    artisans = {
+        culture = danish
+        religion = norse_pagan_reformed
+        size = 2030
+    }
+
+    clergymen = {
+        culture = danish
+        religion = norse_pagan_reformed
+        size = 182
+    }
+
+    bureaucrats = {
+        culture = danish
+        religion = norse_pagan_reformed
+        size = 41
+    }
+
+    officers = {
+        culture = danish
+        religion = norse_pagan_reformed
+        size = 34
+    }
+
+    aristocrats = {
+        culture = danish
+        religion = norse_pagan_reformed
+        size = 362
+    }
+
+    farmers = {
+        culture = danish
+        religion = norse_pagan_reformed
+        size = 50580
+    }
+
+    soldiers = {
+        culture = danish
+        religion = waldensian
+        size = 951
+    }
+
+    artisans = {
+        culture = danish
+        religion = waldensian
+        size = 2748
+    }
+
+    clergymen = {
+        culture = danish
+        religion = waldensian
+        size = 246
+    }
+
+    bureaucrats = {
+        culture = danish
+        religion = waldensian
+        size = 56
+    }
+
+    officers = {
+        culture = danish
+        religion = waldensian
+        size = 45
+    }
+
+    aristocrats = {
+        culture = danish
+        religion = waldensian
+        size = 489
+    }
+
+    farmers = {
+        culture = danish
+        religion = waldensian
+        size = 5774
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 7261
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 15748
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 1408
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 320
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 255
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 2800
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 51057
+    }
+
+}
+
+#Kolberg
+679 = {
+    soldiers = {
+        culture = north_german
+        religion = animist
+        size = 5442
+    }
+
+    artisans = {
+        culture = north_german
+        religion = animist
+        size = 4141
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = animist
+        size = 385
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = animist
+        size = 83
+    }
+
+    officers = {
+        culture = north_german
+        religion = animist
+        size = 86
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = animist
+        size = 497
+    }
+
+    farmers = {
+        culture = north_german
+        religion = animist
+        size = 48516
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 8476
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 17037
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 1583
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 340
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 353
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 2045
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 62288
+    }
+
+}
+
+#Koslin
+680 = {
+    soldiers = {
+        culture = north_german
+        religion = animist
+        size = 1905
+    }
+
+    artisans = {
+        culture = north_german
+        religion = animist
+        size = 2381
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = animist
+        size = 221
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = animist
+        size = 48
+    }
+
+    officers = {
+        culture = north_german
+        religion = animist
+        size = 36
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = animist
+        size = 286
+    }
+
+    farmers = {
+        culture = north_german
+        religion = animist
+        size = 29143
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 2972
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 9812
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 911
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 196
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 147
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 1177
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 37858
+    }
+
+}
+
+#Kustrin
+681 = {
+    soldiers = {
+        culture = polish
+        religion = animist
+        size = 3846
+    }
+
+    artisans = {
+        culture = polish
+        religion = animist
+        size = 1469
+    }
+
+    clergymen = {
+        culture = polish
+        religion = animist
+        size = 128
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = animist
+        size = 30
+    }
+
+    officers = {
+        culture = polish
+        religion = animist
+        size = 31
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = animist
+        size = 177
+    }
+
+    farmers = {
+        culture = polish
+        religion = animist
+        size = 36441
+    }
+
+    soldiers = {
+        culture = polish
+        religion = waldensian
+        size = 2330
+    }
+
+    artisans = {
+        culture = polish
+        religion = waldensian
+        size = 3247
+    }
+
+    clergymen = {
+        culture = polish
+        religion = waldensian
+        size = 283
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = waldensian
+        size = 65
+    }
+
+    officers = {
+        culture = polish
+        religion = waldensian
+        size = 68
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = waldensian
+        size = 392
+    }
+
+    farmers = {
+        culture = polish
+        religion = waldensian
+        size = 19106
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 3606
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 10221
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 887
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 206
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 213
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 1235
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 23018
+    }
+
+}
+
+#Breslau
+682 = {
+    soldiers = {
+        culture = polish
+        religion = animist
+        size = 13380
+    }
+
+    artisans = {
+        culture = polish
+        religion = animist
+        size = 4922
+    }
+
+    clergymen = {
+        culture = polish
+        religion = animist
+        size = 463
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = animist
+        size = 102
+    }
+
+    officers = {
+        culture = polish
+        religion = animist
+        size = 106
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = animist
+        size = 908
+    }
+
+    farmers = {
+        culture = polish
+        religion = animist
+        size = 125572
+    }
+
+    soldiers = {
+        culture = polish
+        religion = waldensian
+        size = 3524
+    }
+
+    artisans = {
+        culture = polish
+        religion = waldensian
+        size = 7515
+    }
+
+    clergymen = {
+        culture = polish
+        religion = waldensian
+        size = 705
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = waldensian
+        size = 156
+    }
+
+    officers = {
+        culture = polish
+        religion = waldensian
+        size = 161
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = waldensian
+        size = 1386
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 9387
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 26250
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 2464
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 545
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 564
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 4838
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 57081
+    }
+
+    farmers = {
+        culture = polish
+        religion = waldensian
+        size = 25357
+    }
+
+}
+
+#Liegnitz
+683 = {
+    soldiers = {
+        culture = polish
+        religion = animist
+        size = 4483
+    }
+
+    artisans = {
+        culture = polish
+        religion = animist
+        size = 1706
+    }
+
+    clergymen = {
+        culture = polish
+        religion = animist
+        size = 158
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = animist
+        size = 34
+    }
+
+    officers = {
+        culture = polish
+        religion = animist
+        size = 35
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = animist
+        size = 205
+    }
+
+    farmers = {
+        culture = polish
+        religion = animist
+        size = 42110
+    }
+
+    soldiers = {
+        culture = polish
+        religion = waldensian
+        size = 2778
+    }
+
+    artisans = {
+        culture = polish
+        religion = waldensian
+        size = 3819
+    }
+
+    clergymen = {
+        culture = polish
+        religion = waldensian
+        size = 355
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = waldensian
+        size = 76
+    }
+
+    officers = {
+        culture = polish
+        religion = waldensian
+        size = 79
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = waldensian
+        size = 458
+    }
+
+    farmers = {
+        culture = polish
+        religion = waldensian
+        size = 22630
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 4353
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 12148
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 1128
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 243
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 252
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 1458
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 27729
+    }
+
+}
+
+#Oppeln
+684 = {
+    soldiers = {
+        culture = slovak
+        religion = norse_pagan_reformed
+        size = 4090
+    }
+
+    artisans = {
+        culture = slovak
+        religion = norse_pagan_reformed
+        size = 1479
+    }
+
+    clergymen = {
+        culture = slovak
+        religion = norse_pagan_reformed
+        size = 138
+    }
+
+    bureaucrats = {
+        culture = slovak
+        religion = norse_pagan_reformed
+        size = 31
+    }
+
+    officers = {
+        culture = slovak
+        religion = norse_pagan_reformed
+        size = 32
+    }
+
+    aristocrats = {
+        culture = slovak
+        religion = norse_pagan_reformed
+        size = 376
+    }
+
+    farmers = {
+        culture = slovak
+        religion = norse_pagan_reformed
+        size = 38201
+    }
+
+    soldiers = {
+        culture = slovak
+        religion = animist
+        size = 667
+    }
+
+    artisans = {
+        culture = slovak
+        religion = animist
+        size = 1961
+    }
+
+    clergymen = {
+        culture = slovak
+        religion = animist
+        size = 183
+    }
+
+    bureaucrats = {
+        culture = slovak
+        religion = animist
+        size = 42
+    }
+
+    officers = {
+        culture = slovak
+        religion = animist
+        size = 43
+    }
+
+    aristocrats = {
+        culture = slovak
+        religion = animist
+        size = 499
+    }
+
+    farmers = {
+        culture = slovak
+        religion = animist
+        size = 3742
+    }
+
+    soldiers = {
+        culture = slovak
+        religion = waldensian
+        size = 7778
+    }
+
+    artisans = {
+        culture = slovak
+        religion = waldensian
+        size = 14687
+    }
+
+    clergymen = {
+        culture = slovak
+        religion = waldensian
+        size = 1366
+    }
+
+    bureaucrats = {
+        culture = slovak
+        religion = waldensian
+        size = 312
+    }
+
+    officers = {
+        culture = slovak
+        religion = waldensian
+        size = 323
+    }
+
+    aristocrats = {
+        culture = slovak
+        religion = waldensian
+        size = 3739
+    }
+
+    farmers = {
+        culture = slovak
+        religion = waldensian
+        size = 55491
+    }
+
+}
+
+#Kattowitz
+685 = {
+    soldiers = {
+        culture = polish
+        religion = animist
+        size = 4877
+    }
+
+    artisans = {
+        culture = polish
+        religion = animist
+        size = 1855
+    }
+
+    clergymen = {
+        culture = polish
+        religion = animist
+        size = 172
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = animist
+        size = 37
+    }
+
+    officers = {
+        culture = polish
+        religion = animist
+        size = 38
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = animist
+        size = 334
+    }
+
+    farmers = {
+        culture = polish
+        religion = animist
+        size = 45695
+    }
+
+    soldiers = {
+        culture = polish
+        religion = waldensian
+        size = 3328
+    }
+
+    artisans = {
+        culture = polish
+        religion = waldensian
+        size = 4387
+    }
+
+    clergymen = {
+        culture = polish
+        religion = waldensian
+        size = 407
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = waldensian
+        size = 88
+    }
+
+    officers = {
+        culture = polish
+        religion = waldensian
+        size = 91
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = waldensian
+        size = 790
+    }
+
+    farmers = {
+        culture = polish
+        religion = waldensian
+        size = 27080
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 4658
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 13330
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 1238
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 267
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 276
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 2399
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 28459
+    }
+
+}
+
+#Danzig
+690 = {
+    soldiers = {
+        culture = north_german
+        religion = norse_pagan_reformed
+        size = 3131
+    }
+
+    artisans = {
+        culture = north_german
+        religion = norse_pagan_reformed
+        size = 2392
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = norse_pagan_reformed
+        size = 204
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = norse_pagan_reformed
+        size = 48
+    }
+
+    officers = {
+        culture = north_german
+        religion = norse_pagan_reformed
+        size = 50
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = norse_pagan_reformed
+        size = 414
+    }
+
+    farmers = {
+        culture = north_german
+        religion = norse_pagan_reformed
+        size = 28079
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 4619
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 9452
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 806
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 191
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 197
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 1637
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 33598
+    }
+
+}
+
+#Tuchel
+691 = {
+    soldiers = {
+        culture = north_german
+        religion = norse_pagan_reformed
+        size = 3890
+    }
+
+    artisans = {
+        culture = north_german
+        religion = norse_pagan_reformed
+        size = 2960
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = norse_pagan_reformed
+        size = 275
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = norse_pagan_reformed
+        size = 59
+    }
+
+    officers = {
+        culture = north_german
+        religion = norse_pagan_reformed
+        size = 61
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = norse_pagan_reformed
+        size = 1066
+    }
+
+    farmers = {
+        culture = north_german
+        religion = norse_pagan_reformed
+        size = 33972
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 5818
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 11813
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 1097
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 236
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 245
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 4253
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 39774
+    }
+
+}
+
+#Deutsch Krone
+692 = {
+    soldiers = {
+        culture = north_german
+        religion = animist
+        size = 4419
+    }
+
+    artisans = {
+        culture = north_german
+        religion = animist
+        size = 3362
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = animist
+        size = 312
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = animist
+        size = 68
+    }
+
+    officers = {
+        culture = north_german
+        religion = animist
+        size = 70
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = animist
+        size = 807
+    }
+
+    farmers = {
+        culture = north_german
+        religion = animist
+        size = 39002
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 7295
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 14464
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 1343
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 290
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 300
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 3471
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 52127
+    }
+
+}
+
+#Elbing
+693 = {
+    soldiers = {
+        culture = pruthenian
+        religion = animist
+        size = 3825
+    }
+
+    artisans = {
+        culture = pruthenian
+        religion = animist
+        size = 1455
+    }
+
+    clergymen = {
+        culture = pruthenian
+        religion = animist
+        size = 135
+    }
+
+    bureaucrats = {
+        culture = pruthenian
+        religion = animist
+        size = 33
+    }
+
+    officers = {
+        culture = pruthenian
+        religion = animist
+        size = 30
+    }
+
+    aristocrats = {
+        culture = pruthenian
+        religion = animist
+        size = 262
+    }
+
+    farmers = {
+        culture = pruthenian
+        religion = animist
+        size = 36154
+    }
+
+    soldiers = {
+        culture = pruthenian
+        religion = waldensian
+        size = 2069
+    }
+
+    artisans = {
+        culture = pruthenian
+        religion = waldensian
+        size = 3029
+    }
+
+    clergymen = {
+        culture = pruthenian
+        religion = waldensian
+        size = 281
+    }
+
+    bureaucrats = {
+        culture = pruthenian
+        religion = waldensian
+        size = 69
+    }
+
+    officers = {
+        culture = pruthenian
+        religion = waldensian
+        size = 63
+    }
+
+    aristocrats = {
+        culture = pruthenian
+        religion = waldensian
+        size = 545
+    }
+
+    farmers = {
+        culture = pruthenian
+        religion = waldensian
+        size = 16435
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 3534
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 9863
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 916
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 225
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 204
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 1775
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 21900
+    }
+
+}
+
+#Torun
+694 = {
+    soldiers = {
+        culture = pruthenian
+        religion = animist
+        size = 3769
+    }
+
+    artisans = {
+        culture = pruthenian
+        religion = animist
+        size = 1440
+    }
+
+    clergymen = {
+        culture = pruthenian
+        religion = animist
+        size = 126
+    }
+
+    bureaucrats = {
+        culture = pruthenian
+        religion = animist
+        size = 29
+    }
+
+    officers = {
+        culture = pruthenian
+        religion = animist
+        size = 30
+    }
+
+    aristocrats = {
+        culture = pruthenian
+        religion = animist
+        size = 522
+    }
+
+    farmers = {
+        culture = pruthenian
+        religion = animist
+        size = 35369
+    }
+
+    soldiers = {
+        culture = pruthenian
+        religion = waldensian
+        size = 2085
+    }
+
+    artisans = {
+        culture = pruthenian
+        religion = waldensian
+        size = 3031
+    }
+
+    clergymen = {
+        culture = pruthenian
+        religion = waldensian
+        size = 263
+    }
+
+    bureaucrats = {
+        culture = pruthenian
+        religion = waldensian
+        size = 61
+    }
+
+    officers = {
+        culture = pruthenian
+        religion = waldensian
+        size = 63
+    }
+
+    aristocrats = {
+        culture = pruthenian
+        religion = waldensian
+        size = 1098
+    }
+
+    farmers = {
+        culture = pruthenian
+        religion = waldensian
+        size = 16208
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 3701
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 10120
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 877
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 204
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 211
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 3668
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 21650
+    }
+
+}
+
+#Allenstein
+696 = {
+    soldiers = {
+        culture = pruthenian
+        religion = animist
+        size = 7913
+    }
+
+    artisans = {
+        culture = pruthenian
+        religion = animist
+        size = 3011
+    }
+
+    clergymen = {
+        culture = pruthenian
+        religion = animist
+        size = 280
+    }
+
+    bureaucrats = {
+        culture = pruthenian
+        religion = animist
+        size = 60
+    }
+
+    officers = {
+        culture = pruthenian
+        religion = animist
+        size = 62
+    }
+
+    aristocrats = {
+        culture = pruthenian
+        religion = animist
+        size = 542
+    }
+
+    farmers = {
+        culture = pruthenian
+        religion = animist
+        size = 74145
+    }
+
+    soldiers = {
+        culture = pruthenian
+        religion = waldensian
+        size = 4144
+    }
+
+    artisans = {
+        culture = pruthenian
+        religion = waldensian
+        size = 6163
+    }
+
+    clergymen = {
+        culture = pruthenian
+        religion = waldensian
+        size = 572
+    }
+
+    bureaucrats = {
+        culture = pruthenian
+        religion = waldensian
+        size = 123
+    }
+
+    officers = {
+        culture = pruthenian
+        religion = waldensian
+        size = 128
+    }
+
+    aristocrats = {
+        culture = pruthenian
+        religion = waldensian
+        size = 1110
+    }
+
+    farmers = {
+        culture = pruthenian
+        religion = waldensian
+        size = 32801
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 7720
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 20922
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 1942
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 418
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 434
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 3766
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 48720
+    }
+
+}
+
+#Posen
+699 = {
+    soldiers = {
+        culture = polish
+        religion = animist
+        size = 4940
+    }
+
+    artisans = {
+        culture = polish
+        religion = animist
+        size = 1827
+    }
+
+    clergymen = {
+        culture = polish
+        religion = animist
+        size = 167
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = animist
+        size = 38
+    }
+
+    officers = {
+        culture = polish
+        religion = animist
+        size = 39
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = animist
+        size = 218
+    }
+
+    farmers = {
+        culture = polish
+        religion = animist
+        size = 46532
+    }
+
+    soldiers = {
+        culture = polish
+        religion = waldensian
+        size = 2855
+    }
+
+    artisans = {
+        culture = polish
+        religion = waldensian
+        size = 3938
+    }
+
+    clergymen = {
+        culture = polish
+        religion = waldensian
+        size = 359
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = waldensian
+        size = 82
+    }
+
+    officers = {
+        culture = polish
+        religion = waldensian
+        size = 85
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = waldensian
+        size = 470
+    }
+
+    farmers = {
+        culture = polish
+        religion = waldensian
+        size = 23161
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 4991
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 13145
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 1197
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 273
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 282
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 1567
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 32398
+    }
+
+}
+
+#Bromberg
+700 = {
+    soldiers = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 6695
+    }
+
+    artisans = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 2513
+    }
+
+    clergymen = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 229
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 52
+    }
+
+    officers = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 53
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 922
+    }
+
+    farmers = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 62371
+    }
+
+    soldiers = {
+        culture = polish
+        religion = waldensian
+        size = 3574
+    }
+
+    artisans = {
+        culture = polish
+        religion = waldensian
+        size = 5195
+    }
+
+    clergymen = {
+        culture = polish
+        religion = waldensian
+        size = 472
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = waldensian
+        size = 106
+    }
+
+    officers = {
+        culture = polish
+        religion = waldensian
+        size = 110
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = waldensian
+        size = 1907
+    }
+
+    farmers = {
+        culture = polish
+        religion = waldensian
+        size = 27448
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 6638
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 17671
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 1604
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 360
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 373
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 6487
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 38815
+    }
+
+}
+
+#Gniezno
+701 = {
+    soldiers = {
+        culture = polish
+        religion = animist
+        size = 4776
+    }
+
+    artisans = {
+        culture = polish
+        religion = animist
+        size = 1779
+    }
+
+    clergymen = {
+        culture = polish
+        religion = animist
+        size = 161
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = animist
+        size = 37
+    }
+
+    officers = {
+        culture = polish
+        religion = animist
+        size = 38
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = animist
+        size = 220
+    }
+
+    farmers = {
+        culture = polish
+        religion = animist
+        size = 44990
+    }
+
+    soldiers = {
+        culture = polish
+        religion = waldensian
+        size = 2833
+    }
+
+    artisans = {
+        culture = polish
+        religion = waldensian
+        size = 3888
+    }
+
+    clergymen = {
+        culture = polish
+        religion = waldensian
+        size = 352
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = waldensian
+        size = 80
+    }
+
+    officers = {
+        culture = polish
+        religion = waldensian
+        size = 83
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = waldensian
+        size = 480
+    }
+
+    farmers = {
+        culture = polish
+        religion = waldensian
+        size = 23041
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 4841
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 12878
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 1162
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 265
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 275
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 1591
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 31375
+    }
+
+}
+
+#Krakow
+703 = {
+    soldiers = {
+        culture = polish
+        religion = catholic
+        size = 3387
+    }
+
+    artisans = {
+        culture = polish
+        religion = catholic
+        size = 1219
+    }
+
+    clergymen = {
+        culture = polish
+        religion = catholic
+        size = 104
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = catholic
+        size = 26
+    }
+
+    officers = {
+        culture = polish
+        religion = catholic
+        size = 27
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = catholic
+        size = 149
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 31848
+    }
+
+    soldiers = {
+        culture = polish
+        religion = waldensian
+        size = 1807
+    }
+
+    artisans = {
+        culture = polish
+        religion = waldensian
+        size = 2520
+    }
+
+    clergymen = {
+        culture = polish
+        religion = waldensian
+        size = 215
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = waldensian
+        size = 54
+    }
+
+    officers = {
+        culture = polish
+        religion = waldensian
+        size = 56
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = waldensian
+        size = 307
+    }
+
+    farmers = {
+        culture = polish
+        religion = waldensian
+        size = 14508
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 3304
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 8495
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 721
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 184
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 190
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 1034
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 21378
+    }
+
+}
+
+#Novy Sacz
+704 = {
+    soldiers = {
+        culture = polish
+        religion = animist
+        size = 3795
+    }
+
+    artisans = {
+        culture = polish
+        religion = animist
+        size = 1033
+    }
+
+    clergymen = {
+        culture = polish
+        religion = animist
+        size = 125
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = animist
+        size = 29
+    }
+
+    officers = {
+        culture = polish
+        religion = animist
+        size = 30
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = animist
+        size = 166
+    }
+
+    farmers = {
+        culture = polish
+        religion = animist
+        size = 32436
+    }
+
+    soldiers = {
+        culture = polish
+        religion = waldensian
+        size = 2443
+    }
+
+    artisans = {
+        culture = polish
+        religion = waldensian
+        size = 2361
+    }
+
+    clergymen = {
+        culture = polish
+        religion = waldensian
+        size = 284
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = waldensian
+        size = 67
+    }
+
+    officers = {
+        culture = polish
+        religion = waldensian
+        size = 69
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = waldensian
+        size = 380
+    }
+
+    farmers = {
+        culture = polish
+        religion = waldensian
+        size = 18169
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 3815
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 7544
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 906
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 214
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 221
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 1214
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 22226
+    }
+
+}
+
+#Przemysl
+705 = {
+    soldiers = {
+        culture = polish
+        religion = animist
+        size = 5569
+    }
+
+    artisans = {
+        culture = polish
+        religion = animist
+        size = 1706
+    }
+
+    clergymen = {
+        culture = polish
+        religion = animist
+        size = 187
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = animist
+        size = 43
+    }
+
+    officers = {
+        culture = polish
+        religion = animist
+        size = 44
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = animist
+        size = 768
+    }
+
+    farmers = {
+        culture = polish
+        religion = animist
+        size = 48364
+    }
+
+    soldiers = {
+        culture = polish
+        religion = waldensian
+        size = 3564
+    }
+
+    artisans = {
+        culture = polish
+        religion = waldensian
+        size = 3890
+    }
+
+    clergymen = {
+        culture = polish
+        religion = waldensian
+        size = 426
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = waldensian
+        size = 97
+    }
+
+    officers = {
+        culture = polish
+        religion = waldensian
+        size = 101
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = waldensian
+        size = 1751
+    }
+
+    farmers = {
+        culture = polish
+        religion = waldensian
+        size = 26108
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 5698
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 12576
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 1374
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 314
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 326
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 5661
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 30721
+    }
+
+}
+
+#Warsaw
+706 = {
+    soldiers = {
+        culture = polish
+        religion = animist
+        size = 6759
+    }
+
+    artisans = {
+        culture = polish
+        religion = animist
+        size = 1620
+    }
+
+    clergymen = {
+        culture = polish
+        religion = animist
+        size = 223
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = animist
+        size = 52
+    }
+
+    officers = {
+        culture = polish
+        religion = animist
+        size = 45
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = animist
+        size = 459
+    }
+
+    farmers = {
+        culture = polish
+        religion = animist
+        size = 59104
+    }
+
+    soldiers = {
+        culture = polish
+        religion = waldensian
+        size = 3867
+    }
+
+    artisans = {
+        culture = polish
+        religion = waldensian
+        size = 3473
+    }
+
+    clergymen = {
+        culture = polish
+        religion = waldensian
+        size = 476
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = waldensian
+        size = 112
+    }
+
+    officers = {
+        culture = polish
+        religion = waldensian
+        size = 95
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = waldensian
+        size = 983
+    }
+
+    farmers = {
+        culture = polish
+        religion = waldensian
+        size = 28852
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 6587
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 11404
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 1563
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 366
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 310
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 3228
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 38475
+    }
+
+}
+
+#Suwalki
+707 = {
+    soldiers = {
+        culture = lithuanian
+        religion = animist
+        size = 473
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = animist
+        size = 881
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = animist
+        size = 99
+    }
+
+    bureaucrats = {
+        culture = lithuanian
+        religion = animist
+        size = 9
+    }
+
+    officers = {
+        culture = lithuanian
+        religion = animist
+        size = 19
+    }
+
+    aristocrats = {
+        culture = lithuanian
+        religion = animist
+        size = 154
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = animist
+        size = 14945
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = norse_pagan_reformed
+        size = 1033
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = norse_pagan_reformed
+        size = 3490
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = norse_pagan_reformed
+        size = 393
+    }
+
+    bureaucrats = {
+        culture = lithuanian
+        religion = norse_pagan_reformed
+        size = 36
+    }
+
+    officers = {
+        culture = lithuanian
+        religion = norse_pagan_reformed
+        size = 76
+    }
+
+    aristocrats = {
+        culture = lithuanian
+        religion = norse_pagan_reformed
+        size = 610
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = norse_pagan_reformed
+        size = 18182
+    }
+
+}
+
+#Plock
+708 = {
+    soldiers = {
+        culture = polish
+        religion = animist
+        size = 6289
+    }
+
+    artisans = {
+        culture = polish
+        religion = animist
+        size = 2096
+    }
+
+    clergymen = {
+        culture = polish
+        religion = animist
+        size = 216
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = animist
+        size = 48
+    }
+
+    officers = {
+        culture = polish
+        religion = animist
+        size = 50
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = animist
+        size = 866
+    }
+
+    farmers = {
+        culture = polish
+        religion = animist
+        size = 56905
+    }
+
+    soldiers = {
+        culture = polish
+        religion = waldensian
+        size = 4657
+    }
+
+    artisans = {
+        culture = polish
+        religion = waldensian
+        size = 5202
+    }
+
+    clergymen = {
+        culture = polish
+        religion = waldensian
+        size = 533
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = waldensian
+        size = 120
+    }
+
+    officers = {
+        culture = polish
+        religion = waldensian
+        size = 123
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = waldensian
+        size = 2149
+    }
+
+    farmers = {
+        culture = polish
+        religion = waldensian
+        size = 36095
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 6815
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 16383
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 1677
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 376
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 390
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 6769
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 38263
+    }
+
+}
+
+#Lomza
+709 = {
+    soldiers = {
+        culture = polish
+        religion = animist
+        size = 4010
+    }
+
+    artisans = {
+        culture = polish
+        religion = animist
+        size = 1330
+    }
+
+    clergymen = {
+        culture = polish
+        religion = animist
+        size = 134
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = animist
+        size = 30
+    }
+
+    officers = {
+        culture = polish
+        religion = animist
+        size = 32
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = animist
+        size = 277
+    }
+
+    farmers = {
+        culture = polish
+        religion = animist
+        size = 35382
+    }
+
+    soldiers = {
+        culture = polish
+        religion = waldensian
+        size = 2503
+    }
+
+    artisans = {
+        culture = polish
+        religion = waldensian
+        size = 2989
+    }
+
+    clergymen = {
+        culture = polish
+        religion = waldensian
+        size = 301
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = waldensian
+        size = 69
+    }
+
+    officers = {
+        culture = polish
+        religion = waldensian
+        size = 72
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = waldensian
+        size = 623
+    }
+
+    farmers = {
+        culture = polish
+        religion = waldensian
+        size = 19018
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 4224
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 9920
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 998
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 230
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 238
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 2068
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 25177
+    }
+
+}
+
+#Skierniewicz
+710 = {
+    soldiers = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 3278
+    }
+
+    artisans = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 1083
+    }
+
+    clergymen = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 113
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 25
+    }
+
+    officers = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 26
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 301
+    }
+
+    farmers = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 29642
+    }
+
+    soldiers = {
+        culture = polish
+        religion = waldensian
+        size = 5225
+    }
+
+    artisans = {
+        culture = polish
+        religion = waldensian
+        size = 6608
+    }
+
+    clergymen = {
+        culture = polish
+        religion = waldensian
+        size = 689
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = waldensian
+        size = 153
+    }
+
+    officers = {
+        culture = polish
+        religion = waldensian
+        size = 158
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = waldensian
+        size = 1834
+    }
+
+    farmers = {
+        culture = polish
+        religion = waldensian
+        size = 39778
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 9444
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 22244
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 2319
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 514
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 533
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 6172
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 56129
+    }
+
+    soldiers = {
+        culture = polish
+        religion = animist
+        size = 6275
+    }
+
+    artisans = {
+        culture = polish
+        religion = animist
+        size = 2074
+    }
+
+    clergymen = {
+        culture = polish
+        religion = animist
+        size = 216
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = animist
+        size = 47
+    }
+
+    officers = {
+        culture = polish
+        religion = animist
+        size = 49
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = animist
+        size = 576
+    }
+
+    farmers = {
+        culture = polish
+        religion = animist
+        size = 56741
+    }
+
+}
+
+#Siedlice
+711 = {
+    soldiers = {
+        culture = ukrainian
+        religion = orthodox
+        size = 4845
+    }
+
+    artisans = {
+        culture = ukrainian
+        religion = orthodox
+        size = 2735
+    }
+
+    clergymen = {
+        culture = ukrainian
+        religion = orthodox
+        size = 372
+    }
+
+    bureaucrats = {
+        culture = ukrainian
+        religion = orthodox
+        size = 48
+    }
+
+    officers = {
+        culture = ukrainian
+        religion = orthodox
+        size = 77
+    }
+
+    aristocrats = {
+        culture = ukrainian
+        religion = orthodox
+        size = 223
+    }
+
+    farmers = {
+        culture = ukrainian
+        religion = orthodox
+        size = 39927
+    }
+
+    soldiers = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 6664
+    }
+
+    artisans = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 10257
+    }
+
+    clergymen = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 1396
+    }
+
+    bureaucrats = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 179
+    }
+
+    officers = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 289
+    }
+
+    aristocrats = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 837
+    }
+
+    farmers = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 45236
+    }
+
+}
+
+#Lodz
+712 = {
+    soldiers = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 3720
+    }
+
+    artisans = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 628
+    }
+
+    clergymen = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 62
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 14
+    }
+
+    officers = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 15
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 253
+    }
+
+    farmers = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 34704
+    }
+
+    soldiers = {
+        culture = polish
+        religion = animist
+        size = 506
+    }
+
+    artisans = {
+        culture = polish
+        religion = animist
+        size = 799
+    }
+
+    clergymen = {
+        culture = polish
+        religion = animist
+        size = 79
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = animist
+        size = 18
+    }
+
+    officers = {
+        culture = polish
+        religion = animist
+        size = 19
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = animist
+        size = 322
+    }
+
+    farmers = {
+        culture = polish
+        religion = animist
+        size = 3547
+    }
+
+    soldiers = {
+        culture = polish
+        religion = waldensian
+        size = 2522
+    }
+
+    artisans = {
+        culture = polish
+        religion = waldensian
+        size = 3128
+    }
+
+    clergymen = {
+        culture = polish
+        religion = waldensian
+        size = 310
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = waldensian
+        size = 71
+    }
+
+    officers = {
+        culture = polish
+        religion = waldensian
+        size = 74
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = waldensian
+        size = 1261
+    }
+
+    farmers = {
+        culture = polish
+        religion = waldensian
+        size = 19092
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 4293
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 10347
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 1024
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 235
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 244
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 4168
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 24274
+    }
+
+}
+
+#Radom
+713 = {
+    soldiers = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 4516
+    }
+
+    craftsmen = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 3119
+    }
+
+    artisans = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 1299
+    }
+
+    clergymen = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 150
+    }
+
+    clerks = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 47
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 35
+    }
+
+    officers = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 36
+    }
+
+    capitalists = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 30
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 208
+    }
+
+    farmers = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 35748
+    }
+
+    soldiers = {
+        culture = polish
+        religion = waldensian
+        size = 2696
+    }
+
+    craftsmen = {
+        culture = polish
+        religion = waldensian
+        size = 1861
+    }
+
+    artisans = {
+        culture = polish
+        religion = waldensian
+        size = 2849
+    }
+
+    clergymen = {
+        culture = polish
+        religion = waldensian
+        size = 327
+    }
+
+    clerks = {
+        culture = polish
+        religion = waldensian
+        size = 103
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = waldensian
+        size = 76
+    }
+
+    officers = {
+        culture = polish
+        religion = waldensian
+        size = 79
+    }
+
+    capitalists = {
+        culture = polish
+        religion = waldensian
+        size = 65
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = waldensian
+        size = 456
+    }
+
+    farmers = {
+        culture = polish
+        religion = waldensian
+        size = 18092
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 4618
+    }
+
+    craftsmen = {
+        culture = north_german
+        religion = waldensian
+        size = 3189
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 9458
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 1086
+    }
+
+    clerks = {
+        culture = north_german
+        religion = waldensian
+        size = 343
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 252
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 261
+    }
+
+    capitalists = {
+        culture = north_german
+        religion = waldensian
+        size = 217
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 1514
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 23838
+    }
+
+}
+
+#Tarnow
+714 = {
+    soldiers = {
+        culture = polish
+        religion = animist
+        size = 3980
+    }
+
+    artisans = {
+        culture = polish
+        religion = animist
+        size = 1189
+    }
+
+    clergymen = {
+        culture = polish
+        religion = animist
+        size = 133
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = animist
+        size = 31
+    }
+
+    officers = {
+        culture = polish
+        religion = animist
+        size = 32
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = animist
+        size = 183
+    }
+
+    farmers = {
+        culture = polish
+        religion = animist
+        size = 35833
+    }
+
+    soldiers = {
+        culture = polish
+        religion = waldensian
+        size = 2561
+    }
+
+    artisans = {
+        culture = polish
+        religion = waldensian
+        size = 2718
+    }
+
+    clergymen = {
+        culture = polish
+        religion = waldensian
+        size = 304
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = waldensian
+        size = 70
+    }
+
+    officers = {
+        culture = polish
+        religion = waldensian
+        size = 72
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = waldensian
+        size = 419
+    }
+
+    farmers = {
+        culture = polish
+        religion = waldensian
+        size = 20071
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 4001
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 8684
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 969
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 223
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 231
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 1340
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 24554
+    }
+
+}
+
+#Lublin
+715 = {
+    soldiers = {
+        culture = polish
+        religion = animist
+        size = 4213
+    }
+
+    artisans = {
+        culture = polish
+        religion = animist
+        size = 1225
+    }
+
+    clergymen = {
+        culture = polish
+        religion = animist
+        size = 140
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = animist
+        size = 32
+    }
+
+    officers = {
+        culture = polish
+        religion = animist
+        size = 25
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = animist
+        size = 186
+    }
+
+    farmers = {
+        culture = polish
+        religion = animist
+        size = 36513
+    }
+
+    soldiers = {
+        culture = polish
+        religion = waldensian
+        size = 3397
+    }
+
+    artisans = {
+        culture = polish
+        religion = waldensian
+        size = 3198
+    }
+
+    clergymen = {
+        culture = polish
+        religion = waldensian
+        size = 364
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = waldensian
+        size = 84
+    }
+
+    officers = {
+        culture = polish
+        religion = waldensian
+        size = 65
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = waldensian
+        size = 485
+    }
+
+    farmers = {
+        culture = polish
+        religion = waldensian
+        size = 26090
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 4625
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 9798
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 1115
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 259
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 199
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 1484
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 27274
+    }
+
+}
+
+#Kielce
+716 = {
+    soldiers = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 4899
+    }
+
+    artisans = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 1442
+    }
+
+    clergymen = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 163
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 38
+    }
+
+    officers = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 39
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 339
+    }
+
+    farmers = {
+        culture = polish
+        religion = norse_pagan_reformed
+        size = 42518
+    }
+
+    soldiers = {
+        culture = polish
+        religion = waldensian
+        size = 2819
+    }
+
+    artisans = {
+        culture = polish
+        religion = waldensian
+        size = 3101
+    }
+
+    clergymen = {
+        culture = polish
+        religion = waldensian
+        size = 350
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = waldensian
+        size = 81
+    }
+
+    officers = {
+        culture = polish
+        religion = waldensian
+        size = 84
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = waldensian
+        size = 729
+    }
+
+    farmers = {
+        culture = polish
+        religion = waldensian
+        size = 20887
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 4942
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 10360
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 1170
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 270
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 280
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 2434
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 28884
+    }
+
+}
+
+#Kalisz
+717 = {
+    soldiers = {
+        culture = polish
+        religion = animist
+        size = 7169
+    }
+
+    artisans = {
+        culture = polish
+        religion = animist
+        size = 2589
+    }
+
+    clergymen = {
+        culture = polish
+        religion = animist
+        size = 246
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = animist
+        size = 55
+    }
+
+    officers = {
+        culture = polish
+        religion = animist
+        size = 57
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = animist
+        size = 494
+    }
+
+    farmers = {
+        culture = polish
+        religion = animist
+        size = 66470
+    }
+
+    soldiers = {
+        culture = polish
+        religion = waldensian
+        size = 4217
+    }
+
+    artisans = {
+        culture = polish
+        religion = waldensian
+        size = 5633
+    }
+
+    clergymen = {
+        culture = polish
+        religion = waldensian
+        size = 534
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = waldensian
+        size = 119
+    }
+
+    officers = {
+        culture = polish
+        religion = waldensian
+        size = 124
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = waldensian
+        size = 1074
+    }
+
+    farmers = {
+        culture = polish
+        religion = waldensian
+        size = 33462
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = waldensian
+        size = 7268
+    }
+
+    artisans = {
+        culture = north_german
+        religion = waldensian
+        size = 18716
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = waldensian
+        size = 1772
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = waldensian
+        size = 397
+    }
+
+    officers = {
+        culture = north_german
+        religion = waldensian
+        size = 411
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = waldensian
+        size = 3568
+    }
+
+    farmers = {
+        culture = north_german
+        religion = waldensian
+        size = 45336
+    }
+
+}
+
+#Bialystock
+719 = {
+    soldiers = {
+        culture = lithuanian
+        religion = orthodox
+        size = 4502
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = orthodox
+        size = 1587
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = orthodox
+        size = 174
+    }
+
+    bureaucrats = {
+        culture = lithuanian
+        religion = orthodox
+        size = 22
+    }
+
+    officers = {
+        culture = lithuanian
+        religion = orthodox
+        size = 36
+    }
+
+    aristocrats = {
+        culture = lithuanian
+        religion = orthodox
+        size = 93
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = orthodox
+        size = 38194
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = norse_pagan_reformed
+        size = 484
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = norse_pagan_reformed
+        size = 1928
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = norse_pagan_reformed
+        size = 212
+    }
+
+    bureaucrats = {
+        culture = lithuanian
+        religion = norse_pagan_reformed
+        size = 27
+    }
+
+    officers = {
+        culture = lithuanian
+        religion = norse_pagan_reformed
+        size = 44
+    }
+
+    aristocrats = {
+        culture = lithuanian
+        religion = norse_pagan_reformed
+        size = 113
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = norse_pagan_reformed
+        size = 2050
+    }
+
+    soldiers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 4798
+    }
+
+    artisans = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 10277
+    }
+
+    clergymen = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 1127
+    }
+
+    bureaucrats = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 144
+    }
+
+    officers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 232
+    }
+
+    aristocrats = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 598
+    }
+
+    farmers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 30672
+    }
+
+}
+
+#Bielsko
+2584 = {
+    soldiers = {
+        culture = slovak
+        religion = animist
+        size = 2009
+    }
+
+    artisans = {
+        culture = slovak
+        religion = animist
+        size = 764
+    }
+
+    clergymen = {
+        culture = slovak
+        religion = animist
+        size = 71
+    }
+
+    bureaucrats = {
+        culture = slovak
+        religion = animist
+        size = 15
+    }
+
+    officers = {
+        culture = slovak
+        religion = animist
+        size = 16
+    }
+
+    aristocrats = {
+        culture = slovak
+        religion = animist
+        size = 92
+    }
+
+    farmers = {
+        culture = slovak
+        religion = animist
+        size = 18873
+    }
+
+    soldiers = {
+        culture = slovak
+        religion = norse_pagan_reformed
+        size = 582
+    }
+
+    artisans = {
+        culture = slovak
+        religion = norse_pagan_reformed
+        size = 1207
+    }
+
+    clergymen = {
+        culture = slovak
+        religion = norse_pagan_reformed
+        size = 112
+    }
+
+    bureaucrats = {
+        culture = slovak
+        religion = norse_pagan_reformed
+        size = 24
+    }
+
+    officers = {
+        culture = slovak
+        religion = norse_pagan_reformed
+        size = 25
+    }
+
+    aristocrats = {
+        culture = slovak
+        religion = norse_pagan_reformed
+        size = 145
+    }
+
+    farmers = {
+        culture = slovak
+        religion = norse_pagan_reformed
+        size = 4234
+    }
+
+    soldiers = {
+        culture = slovak
+        religion = waldensian
+        size = 3500
+    }
+
+    artisans = {
+        culture = slovak
+        religion = waldensian
+        size = 7298
+    }
+
+    clergymen = {
+        culture = slovak
+        religion = waldensian
+        size = 678
+    }
+
+    bureaucrats = {
+        culture = slovak
+        religion = waldensian
+        size = 146
+    }
+
+    officers = {
+        culture = slovak
+        religion = waldensian
+        size = 151
+    }
+
+    aristocrats = {
+        culture = slovak
+        religion = waldensian
+        size = 876
+    }
+
+    farmers = {
+        culture = slovak
+        religion = waldensian
+        size = 25392
+    }
+
+}
+

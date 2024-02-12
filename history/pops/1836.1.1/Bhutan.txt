@@ -1,0 +1,282 @@
+1329 = {
+	slaves=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 2531
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 396
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 142
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 10
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 11019
+	}
+
+	slaves=
+	{
+		culture = tibetan
+		religion = jain
+		size= 1921
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 301
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = jain
+		size= 547
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = jain
+		size= 88
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = jain
+		size= 38
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = jain
+		size= 115
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 7702
+	}
+
+	slaves=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 3284
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 514
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 1614
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 262
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 114
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 84
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 340
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 12154
+	}
+
+	slaves=
+	{
+		culture = assamese
+		religion = gelugpa
+		size= 2505
+	}
+
+	soldiers=
+	{
+		culture = assamese
+		religion = gelugpa
+		size= 392
+	}
+
+	artisans=
+	{
+		culture = assamese
+		religion = gelugpa
+		size= 70
+	}
+
+	clergymen=
+	{
+		culture = assamese
+		religion = gelugpa
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = assamese
+		religion = gelugpa
+		size= 5
+	}
+
+	officers=
+	{
+		culture = assamese
+		religion = gelugpa
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = assamese
+		religion = gelugpa
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = assamese
+		religion = gelugpa
+		size= 11011
+	}
+
+	slaves=
+	{
+		culture = assamese
+		religion = jain
+		size= 909
+	}
+
+	soldiers=
+	{
+		culture = assamese
+		religion = jain
+		size= 142
+	}
+
+	artisans=
+	{
+		culture = assamese
+		religion = jain
+		size= 121
+	}
+
+	clergymen=
+	{
+		culture = assamese
+		religion = jain
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = assamese
+		religion = jain
+		size= 8
+	}
+
+	officers=
+	{
+		culture = assamese
+		religion = jain
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = assamese
+		religion = jain
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = assamese
+		religion = jain
+		size= 3853
+	}
+
+}

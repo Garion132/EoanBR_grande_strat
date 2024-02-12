@@ -1,0 +1,8 @@
+owner=WAL
+controller=WAL
+add_core=PCH
+add_core=WAL
+trade_goods = fish
+life_rating = 35
+naval_base = 1
+fort = 1

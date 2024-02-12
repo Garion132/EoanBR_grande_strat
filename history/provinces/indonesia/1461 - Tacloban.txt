@@ -1,0 +1,8 @@
+owner=FRA
+controller=FRA
+add_core=CEB
+add_core=FRA
+add_core=TDO
+trade_goods = grain
+life_rating = 35
+colonial=2

@@ -1,0 +1,6 @@
+owner=ENS
+controller=ENS
+add_core=ENS
+add_core=NET
+trade_goods = fish
+life_rating = 35

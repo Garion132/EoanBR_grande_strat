@@ -1,0 +1,1763 @@
+2247 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = inti
+		size= 3509
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 4458
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = inti
+		size= 3184
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = inti
+		size= 517
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 80
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 167
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 1003
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 66686
+	}
+
+}
+2248 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 113
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 140
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2198
+	}
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 28
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 84
+	}
+
+	slaves=
+	{
+		culture = carribean
+		religion = inti
+		size= 964
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = inti
+		size= 1187
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = inti
+		size= 901
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = inti
+		size= 146
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = inti
+		size= 45
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = inti
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = inti
+		size= 378
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = inti
+		size= 17530
+	}
+
+}
+2249 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 2230
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = inti
+		size= 5576
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = inti
+		size= 259
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 40
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 84
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 335
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 31303
+	}
+
+}
+2250 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 374
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 6303
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 36226
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 2622
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 7497
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 347
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 449
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 107
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 112
+	}
+
+}
+2251 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 297
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4999
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 22995
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 1673
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 4928
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 229
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 295
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 70
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 73
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 1971
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = inti
+		size= 4928
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = inti
+		size= 229
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 70
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 74
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 296
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 27632
+	}
+
+}
+2252 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1662
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 513
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 6921
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = allaamie
+		size= 13899
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 4292
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 44107
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 12001
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 2159
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 557
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 171
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 179
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 309
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 95
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 60
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1224
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 66
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 12
+	}
+
+	slaves=
+	{
+		culture = chibchan
+		religion = inti
+		size= 4060
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 1254
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = inti
+		size= 3260
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = inti
+		size= 151
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 47
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 587
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 12978
+	}
+
+}
+2253 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 7968
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 765
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4927
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = allaamie
+		size= 73730
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 15931
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 13433
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 19606
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 2352
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 1820
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 391
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 292
+	}
+
+}
+2254 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 5513
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 531
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3445
+	}
+
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 184
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 115
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = allaamie
+		size= 43742
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 21911
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 4211
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 3403
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 1429
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 552
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 169
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 178
+	}
+
+}
+2255 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1624
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 279
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 3076
+	}
+
+	slaves=
+	{
+		culture = afro_italian
+		religion = catholic
+		size= 37854
+	}
+
+	farmers=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 50021
+	}
+
+	soldiers=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 6501
+	}
+
+	artisans=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 18963
+	}
+
+	clergymen=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 1759
+	}
+
+	aristocrats=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 1706
+	}
+
+	bureaucrats=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 622
+	}
+
+	officers=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 216
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 7511
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1289
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 14227
+	}
+
+	slaves=
+	{
+		culture = afro_italian
+		religion = protestant
+		size= 13216
+	}
+
+	soldiers=
+	{
+		culture = aravacian
+		religion = protestant
+		size= 2269
+	}
+
+	farmers=
+	{
+		culture = aravacian
+		religion = protestant
+		size= 17240
+	}
+
+	artisans=
+	{
+		culture = aravacian
+		religion = protestant
+		size= 6876
+	}
+
+	clergymen=
+	{
+		culture = aravacian
+		religion = protestant
+		size= 639
+	}
+
+	aristocrats=
+	{
+		culture = aravacian
+		religion = protestant
+		size= 618
+	}
+
+	bureaucrats=
+	{
+		culture = aravacian
+		religion = protestant
+		size= 226
+	}
+
+	officers=
+	{
+		culture = aravacian
+		religion = protestant
+		size= 78
+	}
+
+}
+2256 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 721
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 311
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4518
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = allaamie
+		size= 5591
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 26631
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 2411
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 6807
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 1224
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 632
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 135
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 102
+	}
+
+}
+2257 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 353
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 5941
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 27225
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 6781
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 813
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 314
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 96
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 101
+	}
+
+}
+2258 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3092
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 272
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1495
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = allaamie
+		size= 24005
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 4239
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 2111
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 5961
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 553
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 1073
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 119
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 89
+	}
+
+}
+2259 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 385
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 6490
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 65
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 16533
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 67267
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 16175
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 749
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 969
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 277
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 241
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 415
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 6990
+	}
+
+}
+2260 = {
+	soldiers=
+	{
+		culture = maranon
+		religion = animist
+		size= 147
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = animist
+		size= 2469
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 203
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3421
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 42004
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 3085
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 9014
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 1081
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 417
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 127
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 134
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 168
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2829
+	}
+
+}
+2261 = {
+	soldiers=
+	{
+		culture = maranon
+		religion = animist
+		size= 142
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = animist
+		size= 2393
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 197
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3314
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 40713
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 2989
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 8736
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 1047
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 404
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 124
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 129
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 162
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2742
+	}
+
+}
+2262 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 1217
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 341
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 4527
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2416
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 677
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 8980
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = allaamie
+		size= 20124
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 5626
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 56327
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 16622
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 1993
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 771
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 283
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 248
+	}
+
+}
+2263 = {
+	soldiers=
+	{
+		culture = maranon
+		religion = animist
+		size= 151
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = animist
+		size= 2550
+	}
+
+	farmers=
+	{
+		culture = south_andean
+		religion = allaamie
+		size= 11665
+	}
+
+	soldiers=
+	{
+		culture = south_andean
+		religion = allaamie
+		size= 846
+	}
+
+	artisans=
+	{
+		culture = south_andean
+		religion = allaamie
+		size= 2499
+	}
+
+	clergymen=
+	{
+		culture = south_andean
+		religion = allaamie
+		size= 116
+	}
+
+	aristocrats=
+	{
+		culture = south_andean
+		religion = allaamie
+		size= 149
+	}
+
+	bureaucrats=
+	{
+		culture = south_andean
+		religion = allaamie
+		size= 35
+	}
+
+	officers=
+	{
+		culture = south_andean
+		religion = allaamie
+		size= 37
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 144
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2419
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 12230
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 2604
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 120
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 156
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 37
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = allaamie
+		size= 38
+	}
+
+}

@@ -1,0 +1,7 @@
+owner=ENG
+controller=ENG
+add_core=ABO
+add_core=AUA
+trade_goods = coal
+life_rating = 20
+terrain = savanna

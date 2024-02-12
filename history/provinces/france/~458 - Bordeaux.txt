@@ -1,0 +1,10 @@
+owner=IBR
+controller=IBR
+add_core=BSQ
+add_core=IBR
+add_core=SPA
+trade_goods = wool
+life_rating = 31
+terrain = forest
+naval_base = 2
+fort = 1

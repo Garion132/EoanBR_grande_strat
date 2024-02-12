@@ -1,0 +1,9 @@
+owner=IBR
+controller=IBR
+add_core=FRA
+add_core=IBR
+add_core=OCC
+add_core=BSQ
+trade_goods = grain
+life_rating = 31
+fort = 1

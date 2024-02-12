@@ -1,0 +1,7 @@
+owner=GER
+controller=GER
+add_core=AWS
+trade_goods = grain
+life_rating = 10
+terrain = desert
+colonial=2

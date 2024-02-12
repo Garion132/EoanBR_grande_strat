@@ -1,0 +1,792 @@
+1098 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = monophysite
+		size= 798
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = monophysite
+		size= 71
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = monophysite
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = monophysite
+		size= 3
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = monophysite
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = monophysite
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = monophysite
+		size= 13247
+	}
+
+	soldiers=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 356
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 135
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 6
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 5744
+	}
+
+	soldiers=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 227
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 287
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 108
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 13
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 3326
+	}
+
+	soldiers=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 609
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 928
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 348
+	}
+
+	bureaucrats=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 42
+	}
+
+	officers=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 195
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 8650
+	}
+
+}
+1099 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = monophysite
+		size= 693
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = monophysite
+		size= 62
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = monophysite
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = monophysite
+		size= 3
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = monophysite
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = monophysite
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = monophysite
+		size= 11569
+	}
+
+	soldiers=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 309
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 117
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 5
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 5017
+	}
+
+	soldiers=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 197
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 249
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 93
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 11
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 52
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 2906
+	}
+
+	soldiers=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 529
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 806
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 302
+	}
+
+	bureaucrats=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 36
+	}
+
+	officers=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 169
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 7554
+	}
+
+}
+1100 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = coptic
+		size= 542
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = coptic
+		size= 169
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = coptic
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = coptic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = coptic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = coptic
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = coptic
+		size= 8923
+	}
+
+	soldiers=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 234
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 316
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 4
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 3545
+	}
+
+	soldiers=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 427
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 1019
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 109
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 13
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 122
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 5928
+	}
+
+	soldiers=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 139
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 1851
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 198
+	}
+
+	bureaucrats=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 24
+	}
+
+	officers=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 222
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 17
+	}
+
+}
+1101 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = coptic
+		size= 576
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = coptic
+		size= 180
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = coptic
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = coptic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = coptic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = coptic
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = coptic
+		size= 9476
+	}
+
+	soldiers=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 248
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 335
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 4
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = zoroastrian
+		size= 3767
+	}
+
+	soldiers=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 454
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 1082
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 116
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 14
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 130
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = norse_pagan_reformed
+		size= 6295
+	}
+
+	soldiers=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 147
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 1966
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 211
+	}
+
+	bureaucrats=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 25
+	}
+
+	officers=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 236
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = norse_pagan_reformed
+		size= 19
+	}
+
+}

@@ -1,0 +1,7 @@
+owner=ENS
+controller=ENS
+add_core=DEN
+add_core=ENS
+add_core=SCA
+trade_goods = fruit
+life_rating = 35

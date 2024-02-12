@@ -1,0 +1,1172 @@
+#Minsk
+718 = {
+    soldiers = {
+        culture = byelorussian
+        religion = animist
+        size = 3014
+    }
+
+    artisans = {
+        culture = byelorussian
+        religion = animist
+        size = 2184
+    }
+
+    clergymen = {
+        culture = byelorussian
+        religion = animist
+        size = 238
+    }
+
+    bureaucrats = {
+        culture = byelorussian
+        religion = animist
+        size = 30
+    }
+
+    officers = {
+        culture = byelorussian
+        religion = animist
+        size = 38
+    }
+
+    aristocrats = {
+        culture = byelorussian
+        religion = animist
+        size = 267
+    }
+
+    farmers = {
+        culture = byelorussian
+        religion = animist
+        size = 24737
+    }
+
+    soldiers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 14640
+    }
+
+    artisans = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 23409
+    }
+
+    clergymen = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 2541
+    }
+
+    bureaucrats = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 318
+    }
+
+    officers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 400
+    }
+
+    aristocrats = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 2860
+    }
+
+    farmers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 104597
+    }
+
+}
+
+#Grodno
+936 = {
+    soldiers = {
+        culture = lithuanian
+        religion = animist
+        size = 3974
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = animist
+        size = 1402
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = animist
+        size = 154
+    }
+
+    bureaucrats = {
+        culture = lithuanian
+        religion = animist
+        size = 20
+    }
+
+    officers = {
+        culture = lithuanian
+        religion = animist
+        size = 22
+    }
+
+    aristocrats = {
+        culture = lithuanian
+        religion = animist
+        size = 82
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = animist
+        size = 33742
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = norse_pagan_reformed
+        size = 519
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = norse_pagan_reformed
+        size = 1768
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = norse_pagan_reformed
+        size = 194
+    }
+
+    bureaucrats = {
+        culture = lithuanian
+        religion = norse_pagan_reformed
+        size = 25
+    }
+
+    officers = {
+        culture = lithuanian
+        religion = norse_pagan_reformed
+        size = 28
+    }
+
+    aristocrats = {
+        culture = lithuanian
+        religion = norse_pagan_reformed
+        size = 104
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = norse_pagan_reformed
+        size = 2555
+    }
+
+    soldiers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 5387
+    }
+
+    artisans = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 10768
+    }
+
+    clergymen = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 1180
+    }
+
+    bureaucrats = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 151
+    }
+
+    officers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 166
+    }
+
+    aristocrats = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 627
+    }
+
+    farmers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 35383
+    }
+
+}
+
+#Brest-Litovsk
+937 = {
+    soldiers = {
+        culture = ukrainian
+        religion = animist
+        size = 3349
+    }
+
+    artisans = {
+        culture = ukrainian
+        religion = animist
+        size = 2368
+    }
+
+    clergymen = {
+        culture = ukrainian
+        religion = animist
+        size = 260
+    }
+
+    bureaucrats = {
+        culture = ukrainian
+        religion = animist
+        size = 33
+    }
+
+    officers = {
+        culture = ukrainian
+        religion = animist
+        size = 53
+    }
+
+    aristocrats = {
+        culture = ukrainian
+        religion = animist
+        size = 155
+    }
+
+    farmers = {
+        culture = ukrainian
+        religion = animist
+        size = 26611
+    }
+
+    soldiers = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 6039
+    }
+
+    artisans = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 10907
+    }
+
+    clergymen = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 1192
+    }
+
+    bureaucrats = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 153
+    }
+
+    officers = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 246
+    }
+
+    aristocrats = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 714
+    }
+
+    farmers = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 40388
+    }
+
+}
+
+#Lida
+938 = {
+    soldiers = {
+        culture = byelorussian
+        religion = animist
+        size = 2726
+    }
+
+    artisans = {
+        culture = byelorussian
+        religion = animist
+        size = 1972
+    }
+
+    clergymen = {
+        culture = byelorussian
+        religion = animist
+        size = 209
+    }
+
+    bureaucrats = {
+        culture = byelorussian
+        religion = animist
+        size = 27
+    }
+
+    officers = {
+        culture = byelorussian
+        religion = animist
+        size = 43
+    }
+
+    aristocrats = {
+        culture = byelorussian
+        religion = animist
+        size = 126
+    }
+
+    farmers = {
+        culture = byelorussian
+        religion = animist
+        size = 22394
+    }
+
+    soldiers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 5294
+    }
+
+    artisans = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 9634
+    }
+
+    clergymen = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 1016
+    }
+
+    bureaucrats = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 132
+    }
+
+    officers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 212
+    }
+
+    aristocrats = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 615
+    }
+
+    farmers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 36782
+    }
+
+}
+
+#Baranovichi
+939 = {
+    soldiers = {
+        culture = ukrainian
+        religion = animist
+        size = 2992
+    }
+
+    artisans = {
+        culture = ukrainian
+        religion = animist
+        size = 2200
+    }
+
+    clergymen = {
+        culture = ukrainian
+        religion = animist
+        size = 230
+    }
+
+    bureaucrats = {
+        culture = ukrainian
+        religion = animist
+        size = 30
+    }
+
+    officers = {
+        culture = ukrainian
+        religion = animist
+        size = 48
+    }
+
+    aristocrats = {
+        culture = ukrainian
+        religion = animist
+        size = 138
+    }
+
+    farmers = {
+        culture = ukrainian
+        religion = animist
+        size = 25459
+    }
+
+    soldiers = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 5669
+    }
+
+    artisans = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 10532
+    }
+
+    clergymen = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 1100
+    }
+
+    bureaucrats = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 142
+    }
+
+    officers = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 228
+    }
+
+    aristocrats = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 662
+    }
+
+    farmers = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 40716
+    }
+
+}
+
+#Pinsk
+940 = {
+    soldiers = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 9136
+    }
+
+    artisans = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 13305
+    }
+
+    clergymen = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 1406
+    }
+
+    bureaucrats = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 181
+    }
+
+    officers = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 191
+    }
+
+    aristocrats = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 743
+    }
+
+    farmers = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 68154
+    }
+
+    aristocrats = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    officers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 750
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 6125
+    }
+
+}
+
+#Slutsk
+941 = {
+    soldiers = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 14554
+    }
+
+    artisans = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 21550
+    }
+
+    clergymen = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 2290
+    }
+
+    bureaucrats = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 286
+    }
+
+    officers = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 462
+    }
+
+    aristocrats = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 1338
+    }
+
+    farmers = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 111729
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 750
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 6125
+    }
+
+}
+
+#Mozyr
+942 = {
+    soldiers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 7668
+    }
+
+    artisans = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 11219
+    }
+
+    clergymen = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 1211
+    }
+
+    bureaucrats = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 151
+    }
+
+    officers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 243
+    }
+
+    aristocrats = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 1409
+    }
+
+    farmers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 59504
+    }
+
+    soldiers = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 8501
+    }
+
+    artisans = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 12438
+    }
+
+    clergymen = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 1343
+    }
+
+    bureaucrats = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 167
+    }
+
+    officers = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 270
+    }
+
+    aristocrats = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 1562
+    }
+
+    farmers = {
+        culture = ukrainian
+        religion = norse_pagan_reformed
+        size = 65971
+    }
+
+}
+
+#Orsha
+944 = {
+    soldiers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 7448
+    }
+
+    artisans = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 10236
+    }
+
+    clergymen = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 1131
+    }
+
+    bureaucrats = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 148
+    }
+
+    officers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 138
+    }
+
+    aristocrats = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 589
+    }
+
+    farmers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 55075
+    }
+
+    aristocrats = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    officers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1250
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 5625
+    }
+
+}
+
+#Vitebsk
+945 = {
+    soldiers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 9526
+    }
+
+    artisans = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 13148
+    }
+
+    clergymen = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 1469
+    }
+
+    bureaucrats = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 188
+    }
+
+    officers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 303
+    }
+
+    aristocrats = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 1758
+    }
+
+    farmers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 70187
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1500
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 6350
+    }
+
+}
+
+#Polotsk
+946 = {
+    soldiers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 10117
+    }
+
+    artisans = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 13200
+    }
+
+    clergymen = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 1507
+    }
+
+    bureaucrats = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 202
+    }
+
+    officers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 325
+    }
+
+    aristocrats = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 942
+    }
+
+    farmers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 66848
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 175
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 2500
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 200
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 16125
+    }
+
+}
+
+#Pastavy
+947 = {
+    soldiers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 6991
+    }
+
+    artisans = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 9291
+    }
+
+    clergymen = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 1056
+    }
+
+    bureaucrats = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 139
+    }
+
+    officers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 224
+    }
+
+    aristocrats = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 647
+    }
+
+    farmers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 48705
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1500
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 8325
+    }
+
+}
+
+#Mogilev
+948 = {
+    soldiers = {
+        culture = byelorussian
+        religion = animist
+        size = 3670
+    }
+
+    artisans = {
+        culture = byelorussian
+        religion = animist
+        size = 2604
+    }
+
+    clergymen = {
+        culture = byelorussian
+        religion = animist
+        size = 285
+    }
+
+    bureaucrats = {
+        culture = byelorussian
+        religion = animist
+        size = 36
+    }
+
+    officers = {
+        culture = byelorussian
+        religion = animist
+        size = 58
+    }
+
+    aristocrats = {
+        culture = byelorussian
+        religion = animist
+        size = 169
+    }
+
+    farmers = {
+        culture = byelorussian
+        religion = animist
+        size = 30659
+    }
+
+    soldiers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 7041
+    }
+
+    artisans = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 12597
+    }
+
+    clergymen = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 1379
+    }
+
+    bureaucrats = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 175
+    }
+
+    officers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 282
+    }
+
+    aristocrats = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 818
+    }
+
+    farmers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 49688
+    }
+
+}
+
+#Gomel
+949 = {
+    soldiers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 7330
+    }
+
+    artisans = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 9882
+    }
+
+    clergymen = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 1095
+    }
+
+    bureaucrats = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 146
+    }
+
+    officers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 236
+    }
+
+    aristocrats = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 683
+    }
+
+    farmers = {
+        culture = byelorussian
+        religion = norse_pagan_reformed
+        size = 48928
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 125
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1500
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 150
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 11225
+    }
+
+}
+

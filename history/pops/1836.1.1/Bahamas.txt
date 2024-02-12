@@ -1,0 +1,193 @@
+2219 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 6093
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 401
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 674
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = norse_pagan_reformed
+		size= 33000
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 2177
+	}
+
+	farmers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 3218
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 298
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 386
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 87
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 48
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 26070
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 1718
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 7513
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 698
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 204
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 113
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 902
+	}
+
+}
+2220 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 5208
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 292
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = norse_pagan_reformed
+		size= 49360
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 2763
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 7639
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 916
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 354
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 207
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 114
+	}
+
+}

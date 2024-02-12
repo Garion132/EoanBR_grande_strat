@@ -1,0 +1,193 @@
+2237 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 3006
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 64
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 236
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_italian
+		religion = catholic
+		size= 23861
+	}
+
+	farmers=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 2677
+	}
+
+	clergymen=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 193
+	}
+
+	aristocrats=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 250
+	}
+
+	bureaucrats=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 101
+	}
+
+	officers=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 23
+	}
+
+	soldiers=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 523
+	}
+
+}
+2238 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 2826
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 55
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 21
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 163
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3
+	}
+
+	slaves=
+	{
+		culture = afro_italian
+		religion = catholic
+		size= 22437
+	}
+
+	farmers=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 2350
+	}
+
+	clergymen=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 169
+	}
+
+	aristocrats=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 219
+	}
+
+	bureaucrats=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 88
+	}
+
+	officers=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 21
+	}
+
+	soldiers=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 459
+	}
+
+}

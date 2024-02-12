@@ -1,0 +1,198 @@
+2244 = {
+	soldiers=
+	{
+		culture = wandernorse
+		religion = norse_pagan_reformed
+		size= 165
+	}
+
+	farmers=
+	{
+		culture = wandernorse
+		religion = norse_pagan_reformed
+		size= 15949
+	}
+
+	artisans=
+	{
+		culture = wandernorse
+		religion = norse_pagan_reformed
+		size= 584
+	}
+
+	aristocrats=
+	{
+		culture = wandernorse
+		religion = norse_pagan_reformed
+		size= 70
+	}
+
+	clergymen=
+	{
+		culture = wandernorse
+		religion = norse_pagan_reformed
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = wandernorse
+		religion = norse_pagan_reformed
+		size= 8
+	}
+
+	officers=
+	{
+		culture = wandernorse
+		religion = norse_pagan_reformed
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = wandernorse
+		religion = protestant
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = wandernorse
+		religion = protestant
+		size= 755
+	}
+
+	clergymen=
+	{
+		culture = wandernorse
+		religion = protestant
+		size= 70
+	}
+
+	bureaucrats=
+	{
+		culture = wandernorse
+		religion = protestant
+		size= 11
+	}
+
+	officers=
+	{
+		culture = wandernorse
+		religion = protestant
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = wandernorse
+		religion = protestant
+		size= 91
+	}
+
+	farmers=
+	{
+		culture = wandernorse
+		religion = protestant
+		size= 1476
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 126
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 4181
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 388
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 60
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 502
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 153
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 1069
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 128
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 13801
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 8340
+	}
+
+}

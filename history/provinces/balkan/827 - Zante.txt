@@ -1,0 +1,8 @@
+owner=ITA
+controller=ITA
+add_core=GRE
+add_core=ITA
+trade_goods = iron
+life_rating = 34
+terrain = small_island
+naval_base = 1

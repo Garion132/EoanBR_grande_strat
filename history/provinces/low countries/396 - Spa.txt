@@ -1,0 +1,7 @@
+owner=ENS
+controller=ENS
+add_core=BEL
+add_core=ENS
+add_core=FLA
+trade_goods = coal
+life_rating = 35

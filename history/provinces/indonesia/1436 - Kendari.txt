@@ -1,0 +1,7 @@
+owner=JAP
+controller=JAP
+add_core=JAP
+add_core=TDO
+trade_goods = dye
+life_rating = 31
+naval_base = 2

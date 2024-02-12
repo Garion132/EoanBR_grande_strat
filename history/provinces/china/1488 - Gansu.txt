@@ -1,0 +1,9 @@
+owner=TIB
+controller=TIB
+add_core=TIB
+add_core=CHI
+add_core=XIN
+add_core=YAN
+trade_goods = cotton
+life_rating = 32
+colonial=2

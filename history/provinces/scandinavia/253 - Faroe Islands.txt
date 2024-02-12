@@ -1,0 +1,8 @@
+owner=ENS
+controller=ENS
+add_core=ENS
+add_core=ICL
+add_core=SCA
+trade_goods = coal
+life_rating = 30
+terrain = small_island

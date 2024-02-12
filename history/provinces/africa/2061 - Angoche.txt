@@ -1,0 +1,7 @@
+owner=ENS
+controller=ENS
+add_core=SWA
+trade_goods = fish
+life_rating = 35
+colonial=2
+naval_base = 1

@@ -1,0 +1,2050 @@
+1209 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = theravada
+		size= 12834
+	}
+
+	soldiers=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 4264
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 381
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 10
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 120
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 58455
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = sikh
+		size= 2326
+	}
+
+	soldiers=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 773
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 519
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 84
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 13
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 163
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 9896
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = zoroastrian
+		size= 18927
+	}
+
+	soldiers=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 3884
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 2287
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 372
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 57
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 120
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 720
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 50225
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 2405
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 4904
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 797
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 123
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 257
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 1545
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 25675
+	}
+
+}
+1210 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = theravada
+		size= 2893
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = theravada
+		size= 3841
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = theravada
+		size= 470
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = theravada
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = theravada
+		size= 11
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = theravada
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = theravada
+		size= 88
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = theravada
+		size= 34396
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = sikh
+		size= 403
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = sikh
+		size= 535
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = sikh
+		size= 600
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = sikh
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = sikh
+		size= 15
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = sikh
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = sikh
+		size= 112
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = sikh
+		size= 4081
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = zoroastrian
+		size= 3756
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 4987
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 8089
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 584
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 197
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 261
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 1510
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 34827
+	}
+
+}
+1211 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = jain
+		size= 3602
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = jain
+		size= 2044
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = jain
+		size= 311
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = jain
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = jain
+		size= 8
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = jain
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = jain
+		size= 58
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = jain
+		size= 21564
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = gnostic
+		size= 3573
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = gnostic
+		size= 2027
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = gnostic
+		size= 927
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = gnostic
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = gnostic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = gnostic
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = gnostic
+		size= 173
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = gnostic
+		size= 20578
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = zoroastrian
+		size= 9626
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 5460
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 10355
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 749
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 253
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 288
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 1933
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 45133
+	}
+
+}
+1212 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 2706
+	}
+
+	soldiers=
+	{
+		culture = baluchi
+		religion = sunni
+		size= 3174
+	}
+
+	artisans=
+	{
+		culture = baluchi
+		religion = sunni
+		size= 776
+	}
+
+	clergymen=
+	{
+		culture = baluchi
+		religion = sunni
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = baluchi
+		religion = sunni
+		size= 16
+	}
+
+	officers=
+	{
+		culture = baluchi
+		religion = sunni
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = baluchi
+		religion = sunni
+		size= 109
+	}
+
+	farmers=
+	{
+		culture = baluchi
+		religion = sunni
+		size= 27635
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = zoroastrian
+		size= 3788
+	}
+
+	soldiers=
+	{
+		culture = baluchi
+		religion = zoroastrian
+		size= 2384
+	}
+
+	artisans=
+	{
+		culture = baluchi
+		religion = zoroastrian
+		size= 1942
+	}
+
+	clergymen=
+	{
+		culture = baluchi
+		religion = zoroastrian
+		size= 140
+	}
+
+	bureaucrats=
+	{
+		culture = baluchi
+		religion = zoroastrian
+		size= 39
+	}
+
+	officers=
+	{
+		culture = baluchi
+		religion = zoroastrian
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = baluchi
+		religion = zoroastrian
+		size= 272
+	}
+
+	farmers=
+	{
+		culture = baluchi
+		religion = zoroastrian
+		size= 19039
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 2060
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 4733
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 342
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 95
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 153
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 663
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 12587
+	}
+
+}
+1213 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 2478
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = sunni
+		size= 1396
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = sunni
+		size= 125
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = sunni
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = sunni
+		size= 4
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = sunni
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = sunni
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = sunni
+		size= 20874
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = gnostic
+		size= 226
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = gnostic
+		size= 127
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = gnostic
+		size= 147
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = gnostic
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = gnostic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = gnostic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = gnostic
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = gnostic
+		size= 1703
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = zoroastrian
+		size= 3531
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 1989
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 2237
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 364
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 78
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 118
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 470
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 26730
+	}
+
+}
+1214 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = zoroastrian
+		size= 18593
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 13433
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 4068
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 1322
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 224
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 213
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 1708
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 38410
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 6175
+	}
+
+	soldiers=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 1038
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 185
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 10
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 78
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 13618
+	}
+
+	soldiers=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 778
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 463
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 151
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 25
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 195
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 9615
+	}
+
+	soldiers=
+	{
+		culture = baluchi
+		religion = sunni
+		size= 778
+	}
+
+	artisans=
+	{
+		culture = baluchi
+		religion = sunni
+		size= 139
+	}
+
+	clergymen=
+	{
+		culture = baluchi
+		religion = sunni
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = baluchi
+		religion = sunni
+		size= 8
+	}
+
+	officers=
+	{
+		culture = baluchi
+		religion = sunni
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = baluchi
+		religion = sunni
+		size= 58
+	}
+
+	farmers=
+	{
+		culture = baluchi
+		religion = sunni
+		size= 10213
+	}
+
+	soldiers=
+	{
+		culture = baluchi
+		religion = zoroastrian
+		size= 580
+	}
+
+	artisans=
+	{
+		culture = baluchi
+		religion = zoroastrian
+		size= 346
+	}
+
+	clergymen=
+	{
+		culture = baluchi
+		religion = zoroastrian
+		size= 112
+	}
+
+	bureaucrats=
+	{
+		culture = baluchi
+		religion = zoroastrian
+		size= 19
+	}
+
+	officers=
+	{
+		culture = baluchi
+		religion = zoroastrian
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = baluchi
+		religion = zoroastrian
+		size= 145
+	}
+
+	farmers=
+	{
+		culture = baluchi
+		religion = zoroastrian
+		size= 7166
+	}
+
+}
+1215 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 1197
+	}
+
+	soldiers=
+	{
+		culture = baluchi
+		religion = sunni
+		size= 879
+	}
+
+	artisans=
+	{
+		culture = baluchi
+		religion = sunni
+		size= 353
+	}
+
+	clergymen=
+	{
+		culture = baluchi
+		religion = sunni
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = baluchi
+		religion = sunni
+		size= 5
+	}
+
+	officers=
+	{
+		culture = baluchi
+		religion = sunni
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = baluchi
+		religion = sunni
+		size= 66
+	}
+
+	farmers=
+	{
+		culture = baluchi
+		religion = sunni
+		size= 13850
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = zoroastrian
+		size= 1634
+	}
+
+	soldiers=
+	{
+		culture = baluchi
+		religion = zoroastrian
+		size= 612
+	}
+
+	artisans=
+	{
+		culture = baluchi
+		religion = zoroastrian
+		size= 845
+	}
+
+	clergymen=
+	{
+		culture = baluchi
+		religion = zoroastrian
+		size= 61
+	}
+
+	bureaucrats=
+	{
+		culture = baluchi
+		religion = zoroastrian
+		size= 13
+	}
+
+	officers=
+	{
+		culture = baluchi
+		religion = zoroastrian
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = baluchi
+		religion = zoroastrian
+		size= 158
+	}
+
+	farmers=
+	{
+		culture = baluchi
+		religion = zoroastrian
+		size= 8876
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 5023
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 363
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 78
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 117
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 938
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 9149
+	}
+
+	soldiers=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 1203
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 483
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 8
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 90
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 18964
+	}
+
+	soldiers=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 906
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 1212
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 88
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 19
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 226
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 13184
+	}
+
+}
+1216 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = theravada
+		size= 1055
+	}
+
+	soldiers=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 1134
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 228
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 3
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 43
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 17757
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = sikh
+		size= 233
+	}
+
+	soldiers=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 251
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 328
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 4
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 3566
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = zoroastrian
+		size= 1528
+	}
+
+	soldiers=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 981
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 1344
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 97
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 15
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 251
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 13886
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 661
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 2964
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 214
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 33
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 69
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 553
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 6703
+	}
+
+}
+1217 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = theravada
+		size= 990
+	}
+
+	soldiers=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 1417
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 127
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 6
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 22682
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = sikh
+		size= 198
+	}
+
+	soldiers=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 283
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 177
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 8
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 74
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 4278
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = zoroastrian
+		size= 1467
+	}
+
+	soldiers=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 1329
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 778
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 126
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 35
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 327
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 20160
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 769
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 1631
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 265
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 73
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 86
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 685
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 9690
+	}
+
+}
+2133 = {
+	soldiers=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 949
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 191
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 2
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = theravada
+		size= 15769
+	}
+
+	soldiers=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 231
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 3
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = sikh
+		size= 1404
+	}
+
+	soldiers=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 659
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 951
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 69
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 11
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 89
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = zoroastrian
+		size= 9971
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 614
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 2359
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 170
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 26
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 220
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 7522
+	}
+
+}

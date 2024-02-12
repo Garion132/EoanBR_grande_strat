@@ -1,0 +1,102 @@
+2125 = {
+	soldiers=
+	{
+		culture = morado
+		religion = allaamie
+		size= 899
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = allaamie
+		size= 41375
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = allaamie
+		size= 1802
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = allaamie
+		size= 586
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = allaamie
+		size= 568
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = allaamie
+		size= 81
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = allaamie
+		size= 58
+	}
+
+}
+2128 = {
+	soldiers=
+	{
+		culture = wandernorse
+		religion = norse_pagan_reformed
+		size= 185
+	}
+
+	farmers=
+	{
+		culture = wandernorse
+		religion = norse_pagan_reformed
+		size= 15937
+	}
+
+	artisans=
+	{
+		culture = wandernorse
+		religion = norse_pagan_reformed
+		size= 2607
+	}
+
+	clergymen=
+	{
+		culture = wandernorse
+		religion = norse_pagan_reformed
+		size= 241
+	}
+
+	aristocrats=
+	{
+		culture = wandernorse
+		religion = norse_pagan_reformed
+		size= 156
+	}
+
+	bureaucrats=
+	{
+		culture = wandernorse
+		religion = norse_pagan_reformed
+		size= 55
+	}
+
+	officers=
+	{
+		culture = wandernorse
+		religion = norse_pagan_reformed
+		size= 24
+	}
+
+}

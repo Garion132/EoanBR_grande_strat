@@ -1,0 +1,8 @@
+owner=IBR
+controller=IBR
+add_core=FRR
+add_core=BSQ
+add_core=IBR
+trade_goods = cattle
+life_rating = 31
+fort = 1

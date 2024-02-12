@@ -1,0 +1,147 @@
+vassal=
+{
+	first="ENG"
+	second="EIC"
+	start_date="1569.8.14"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ENG"
+	second="NEP"
+	start_date="1702.10.16"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ENG"
+	second="WSI"
+	start_date="1569.8.14"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="ENG"
+	second="BHU"
+	start_date="1569.8.14"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="ENG"
+	second="CHL"
+	start_date="1569.8.14"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="ENG"
+	second="CHL"
+	start_date="1569.8.14"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="ENG"
+	second="MLY"
+	start_date="1569.8.14"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ITA"
+	second="X03"
+	start_date="1650.7.9"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="RUS"
+	second="WAL"
+	start_date="1498.10.25"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="RUS"
+	second="BUL"
+	start_date="1518.5.4"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="RUS"
+	second="TIB"
+	start_date="1518.5.4"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="RUS"
+	second="ZHR"
+	start_date="1518.5.4"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="RUS"
+	second="CXI"
+	start_date="1518.5.4"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="RUS"
+	second="SZC"
+	start_date="1518.5.4"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="IBR"
+	second="HAB"
+	start_date="1518.5.4"
+	end_date="1936.1.1"
+}
+substate=
+{
+	first="GER"
+	second="POL"
+	start_date="1518.5.4"
+	end_date="1936.1.1"
+}
+substate=
+{
+	first="GER"
+	second="SIE"
+	start_date="1518.5.4"
+	end_date="1936.1.1"
+}
+substate=
+{
+	first="GER"
+	second="HUN"
+	start_date="1518.5.4"
+	end_date="1936.1.1"
+}
+substate=
+{
+	first="GER"
+	second="SLV"
+	start_date="1518.5.4"
+	end_date="1936.1.1"
+}
+substate=
+{
+	first="GER"
+	second="X16"
+	start_date="1518.5.4"
+	end_date="1936.1.1"
+}
+

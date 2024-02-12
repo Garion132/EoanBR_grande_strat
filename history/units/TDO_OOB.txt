@@ -1,0 +1,446 @@
+#Sphere of Influence
+
+ARG = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DGB = {
+	value = 0
+	level = 2
+}
+EIC = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+ENS = {
+	value = -144
+	level = 2
+}
+ETH = {
+	value = 219
+	military_access = yes
+	influence_value = 62
+	level = 5
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = -57
+	level = 2
+}
+IBR = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAJ = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = -26
+	level = 2
+}
+KIT = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MYA = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 204
+	influence_value = 38
+	level = 4
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 207
+	influence_value = 39
+	level = 4
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+YAO = {
+	value = 0
+	level = 2
+}
+YKT = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Gambang Sentosa"
+	date="1789.1.2"
+	type=sea
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Suko II Tondo"
+	date="1813.7.27"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Lontok Agung"
+	date="1811.8.1"
+	type=sea
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Timamanukum Agung"
+	date="1813.7.29"
+	type=land
+	personality="disciplined"
+	background="generals_aide"
+}
+
+leader = {
+	name="Bagtas Sentosa"
+	date="1815.6.12"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+
+#Armies
+army = {
+	name="9th Army"
+	location=1440
+	regiment = {
+		name="1st Bone Infantry"
+		type=infantry
+		home=1431
+	}
+	regiment = {
+		name="1st Makassar Infantry"
+		type=infantry
+		home=1430
+	}
+	regiment = {
+		name="1st Makassar Artillery"
+		type=artillery
+		home=1430
+	}
+	regiment = {
+		name="2nd Makassar Infantry"
+		type=infantry
+		home=1430
+	}
+	regiment = {
+		name="1st Madura Infantry"
+		type=infantry
+		home=1421
+	}
+	regiment = {
+		name="1st Palawan Artillery"
+		type=artillery
+		home=1459
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1418
+	ship = {
+		name="2nd Nagoya Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cebu Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=1459
+	ship = {
+		name="1st Mindoro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Mindoro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bone Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bone Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st La Rochelle Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Mindoro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bone Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Vigan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Hamburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Davao Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1449
+	regiment = {
+		name="1st Mamuju Artillery"
+		type=artillery
+		home=1432
+	}
+	regiment = {
+		name="1st Bone Artillery"
+		type=artillery
+		home=1431
+	}
+	regiment = {
+		name="2nd Mamuju Artillery"
+		type=artillery
+		home=1432
+	}
+	regiment = {
+		name="2nd Bone Artillery"
+		type=artillery
+		home=1431
+	}
+	regiment = {
+		name="3rd Bone Artillery"
+		type=artillery
+		home=1431
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1459
+	ship = {
+		name="9th Heligoland Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th Heligoland Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Stettin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Stettin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Wakayama Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Tanjungpinang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Tanjungpinang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Stralsund Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bosaso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Tanjungpinang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Tanjungpinang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Vigan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Tanjungpinang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kwangju Clipper Transport"
+		type=clipper_transport
+	}
+}
+

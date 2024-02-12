@@ -1,0 +1,399 @@
+#Sphere of Influence
+
+ALM = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = -15
+	level = 2
+}
+ARW = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DGB = {
+	value = 0
+	level = 2
+}
+EIC = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -17
+	level = 2
+}
+ENS = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 100
+	influence_value = 12
+	level = 4
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = -78
+	level = 2
+}
+IBR = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+JAJ = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 168
+	military_access = yes
+	influence_value = 29
+	level = 2
+}
+KIT = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MSK = {
+	value = 0
+	level = 2
+}
+MYA = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+PAW = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TUA = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 1
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+YAO = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Nicolas-Henri de Maurepas"
+	date="1798.1.25"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Jean de La Porte"
+	date="1803.1.3"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Claude Duquesne"
+	date="1809.10.19"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Denis de La Ferrandie"
+	date="1817.10.12"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Denis de Béthune"
+	date="1818.11.23"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="Armée de West Timor"
+	location=1443
+	regiment = {
+		name="1st Ellice Islands Infantry"
+		type=infantry
+		home=2541
+	}
+	regiment = {
+		name="1st Koepang Cavalry"
+		type=cavalry
+		home=1445
+	}
+	regiment = {
+		name="1st Ellice Islands Artillery"
+		type=artillery
+		home=2541
+	}
+	regiment = {
+		name="1st Rote Artillery"
+		type=artillery
+		home=1443
+	}
+	regiment = {
+		name="1st Dili Artillery"
+		type=artillery
+		home=1446
+	}
+	regiment = {
+		name="1st Sumba Artillery"
+		type=artillery
+		home=1441
+	}
+	regiment = {
+		name="1st Koepang Infantry"
+		type=infantry
+		home=1445
+	}
+	regiment = {
+		name="1st Sumba Cavalry"
+		type=cavalry
+		home=1441
+	}
+	regiment = {
+		name="1st Iloilo Artillery"
+		type=artillery
+		home=1460
+	}
+}
+
+navy = {
+	name="Escadre Blanche"
+	location=1443
+	ship = {
+		name="Alexandre"
+		type=manowar
+	}
+	ship = {
+		name="Condor"
+		type=frigate
+	}
+	ship = {
+		name="Epervier"
+		type=frigate
+	}
+	ship = {
+		name="Faucon"
+		type=frigate
+	}
+	ship = {
+		name="Vautour"
+		type=frigate
+	}
+	ship = {
+		name="Wattignies"
+		type=frigate
+	}
+	ship = {
+		name="1st Koepang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Amiens Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Vannes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Amiens Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Amiens Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Vannes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Flores Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Breslaw"
+		type=manowar
+	}
+	ship = {
+		name="Cassini"
+		type=frigate
+	}
+	ship = {
+		name="1st St Brieuc Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="Escadre de l'Atlantique"
+	location=2808
+	ship = {
+		name="Levrier"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2856
+	ship = {
+		name="Casablanca"
+		type=frigate
+	}
+	ship = {
+		name="D'Iberville"
+		type=frigate
+	}
+}
+

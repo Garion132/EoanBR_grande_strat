@@ -1,0 +1,6 @@
+owner=ENS
+controller=ENS
+add_core=ENS
+add_core=GER
+trade_goods = cattle
+life_rating = 40

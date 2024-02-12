@@ -1,0 +1,6 @@
+owner=IBR
+controller=IBR
+add_core=SWA
+trade_goods = precious_goods
+life_rating = 40
+colonial=2

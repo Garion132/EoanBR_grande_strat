@@ -1,0 +1,6 @@
+owner=ENG
+controller=ENG
+add_core=X13
+trade_goods = tea
+life_rating = 31
+terrain = savanna

@@ -1,0 +1,9 @@
+owner=GER
+controller=GER
+add_core=IDO
+add_core=SIA
+trade_goods = iron
+life_rating = 35
+colonial=2
+naval_base = 1
+fort = 1

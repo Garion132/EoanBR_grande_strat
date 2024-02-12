@@ -1,0 +1,137 @@
+2240 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4984
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 286
+	}
+
+	slaves=
+	{
+		culture = afro_italian
+		religion = catholic
+		size= 44112
+	}
+
+	soldiers=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 2531
+	}
+
+	farmers=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 2015
+	}
+
+	clergymen=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 655
+	}
+
+	aristocrats=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 423
+	}
+
+	bureaucrats=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 190
+	}
+
+	officers=
+	{
+		culture = aravacian
+		religion = catholic
+		size= 80
+	}
+
+}
+2245 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 179
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3022
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 18981
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 1229
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 1008
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 327
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 423
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 96
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = orthodox
+		size= 40
+	}
+
+}

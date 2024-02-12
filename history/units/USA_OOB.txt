@@ -1,0 +1,1442 @@
+#Sphere of Influence
+
+ALM = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARW = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = -100
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+DGB = {
+	value = 0
+	level = 2
+}
+EIC = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -25
+	level = 2
+}
+ENS = {
+	value = 169
+	influence_value = 29
+	level = 3
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = 0
+	level = 2
+}
+IBR = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAJ = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KIT = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 80
+	influence_value = 7
+	level = 2
+}
+MEX = {
+	value = -19
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MSK = {
+	value = 0
+	level = 2
+}
+MYA = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+PAW = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 23
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+TUA = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+WIC = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 50
+	level = 3
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = -139
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+YAO = {
+	value = 0
+	level = 2
+}
+YKT = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Pelka "
+	date="1787.3.27"
+	type=land
+	personality="stalwart"
+	background="brownnoser"
+}
+
+leader = {
+	name="Arnoul "
+	date="1793.8.3"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Geirr "
+	date="1793.9.7"
+	type=land
+	personality="resolute"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Fredrik "
+	date="1795.8.26"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Erdvilas "
+	date="1801.2.11"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Öysteinn "
+	date="1801.2.18"
+	type=land
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Styrbjörn "
+	date="1804.2.22"
+	type=sea
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Päevalemb "
+	date="1807.10.11"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Toste "
+	date="1808.2.5"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Jedvard "
+	date="1809.10.22"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="1st Army"
+	location=178
+	regiment = {
+		name="1st Burlington Infantry"
+		type=infantry
+		home=246
+	}
+	regiment = {
+		name="1st Binghamton Infantry"
+		type=infantry
+		home=235
+	}
+	regiment = {
+		name="1st Pittsfield Infantry"
+		type=infantry
+		home=245
+	}
+	regiment = {
+		name="1st Kingston Infantry"
+		type=infantry
+		home=56
+	}
+	regiment = {
+		name="1st Barrie Infantry"
+		type=infantry
+		home=53
+	}
+	regiment = {
+		name="1st Cedar Rapids Infantry"
+		type=infantry
+		home=153
+	}
+	regiment = {
+		name="1st Quebec City Infantry"
+		type=infantry
+		home=65
+	}
+}
+
+army = {
+	name="24th Army"
+	location=151
+	regiment = {
+		name="2nd Kingston Infantry"
+		type=infantry
+		home=56
+	}
+	regiment = {
+		name="2nd Barrie Infantry"
+		type=infantry
+		home=53
+	}
+	regiment = {
+		name="1st Marquette Infantry"
+		type=infantry
+		home=177
+	}
+	regiment = {
+		name="1st Thunder Bay Infantry"
+		type=infantry
+		home=50
+	}
+	regiment = {
+		name="1st Bytown Infantry"
+		type=infantry
+		home=57
+	}
+	regiment = {
+		name="1st Traverse City Infantry"
+		type=infantry
+		home=176
+	}
+	regiment = {
+		name="2nd Rochester Infantry"
+		type=infantry
+		home=237
+	}
+}
+
+army = {
+	name="6th Army"
+	location=146
+	regiment = {
+		name="1st Lewiston Infantry"
+		type=infantry
+		home=248
+	}
+	regiment = {
+		name="1st Fort Van Buren Infantry"
+		type=infantry
+		home=116
+	}
+	regiment = {
+		name="2nd Fort Van Buren Infantry"
+		type=infantry
+		home=116
+	}
+	regiment = {
+		name="3rd Fort Van Buren Infantry"
+		type=infantry
+		home=116
+	}
+	regiment = {
+		name="1st New Bedford Infantry"
+		type=infantry
+		home=244
+	}
+	regiment = {
+		name="1st Syracuse Infantry"
+		type=infantry
+		home=238
+	}
+	regiment = {
+		name="1st Temiscaming Artillery"
+		type=artillery
+		home=63
+	}
+	regiment = {
+		name="1st Montreal Artillery"
+		type=artillery
+		home=58
+	}
+	regiment = {
+		name="1st Sherbrooke Artillery"
+		type=artillery
+		home=66
+	}
+	regiment = {
+		name="1st Burlington Artillery"
+		type=artillery
+		home=246
+	}
+	regiment = {
+		name="1st Hamilton Artillery"
+		type=artillery
+		home=55
+	}
+	regiment = {
+		name="1st Bytown Artillery"
+		type=artillery
+		home=57
+	}
+	regiment = {
+		name="2nd Sherbrooke Artillery"
+		type=artillery
+		home=66
+	}
+	regiment = {
+		name="3rd Montreal Infantry"
+		type=infantry
+		home=58
+	}
+	regiment = {
+		name="4th Kingston Artillery"
+		type=artillery
+		home=56
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2946
+	ship = {
+		name="Adams"
+		type=frigate
+	}
+	ship = {
+		name="Boston"
+		type=frigate
+	}
+	ship = {
+		name="Brandywine"
+		type=frigate
+	}
+	ship = {
+		name="Chesapeake"
+		type=frigate
+	}
+	ship = {
+		name="Columbia"
+		type=frigate
+	}
+	ship = {
+		name="Congress"
+		type=frigate
+	}
+	ship = {
+		name="Constellation"
+		type=frigate
+	}
+	ship = {
+		name="Constitution"
+		type=frigate
+	}
+	ship = {
+		name="Cumberland"
+		type=frigate
+	}
+	ship = {
+		name="Essex"
+		type=frigate
+	}
+	ship = {
+		name="General Greene"
+		type=frigate
+	}
+	ship = {
+		name="Guirriere"
+		type=frigate
+	}
+	ship = {
+		name="Hudson"
+		type=frigate
+	}
+	ship = {
+		name="Independence"
+		type=frigate
+	}
+	ship = {
+		name="1st Petit-Sault Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=232
+	regiment = {
+		name="1st New York Infantry"
+		type=infantry
+		home=232
+	}
+	regiment = {
+		name="2nd Bytown Infantry"
+		type=infantry
+		home=57
+	}
+	regiment = {
+		name="1st Hartford Infantry"
+		type=infantry
+		home=241
+	}
+	regiment = {
+		name="1st Orillia Infantry"
+		type=infantry
+		home=52
+	}
+	regiment = {
+		name="1st Montreal Infantry"
+		type=infantry
+		home=58
+	}
+	regiment = {
+		name="1st Temiscaming Infantry"
+		type=infantry
+		home=63
+	}
+	regiment = {
+		name="3rd Sherbrooke Artillery"
+		type=artillery
+		home=66
+	}
+	regiment = {
+		name="1st Watertown Artillery"
+		type=artillery
+		home=239
+	}
+	regiment = {
+		name="2nd Watertown Artillery"
+		type=artillery
+		home=239
+	}
+	regiment = {
+		name="1st Kingston Artillery"
+		type=artillery
+		home=56
+	}
+	regiment = {
+		name="1st Albany Artillery"
+		type=artillery
+		home=234
+	}
+	regiment = {
+		name="1st Fort Van Buren Artillery"
+		type=artillery
+		home=116
+	}
+	regiment = {
+		name="2nd Temiscaming Artillery"
+		type=artillery
+		home=63
+	}
+	regiment = {
+		name="3rd Kingston Infantry"
+		type=infantry
+		home=56
+	}
+	regiment = {
+		name="5th Kingston Artillery"
+		type=artillery
+		home=56
+	}
+}
+
+army = {
+	name="39th Army"
+	location=181
+	regiment = {
+		name="4th Fort Van Buren Infantry"
+		type=infantry
+		home=116
+	}
+	regiment = {
+		name="1st Fort Kiowa Infantry"
+		type=infantry
+		home=120
+	}
+	regiment = {
+		name="1st Gallatin Valley Infantry"
+		type=infantry
+		home=113
+	}
+	regiment = {
+		name="1st Salt Lake City Infantry"
+		type=infantry
+		home=97
+	}
+	regiment = {
+		name="2nd Fort Kiowa Infantry"
+		type=infantry
+		home=120
+	}
+	regiment = {
+		name="1st Fort Ellice Infantry"
+		type=infantry
+		home=41
+	}
+	regiment = {
+		name="3rd Fort Ripley Infantry"
+		type=infantry
+		home=157
+	}
+}
+
+army = {
+	name="11th Army"
+	location=151
+	regiment = {
+		name="1st Fort Benton Artillery"
+		type=artillery
+		home=115
+	}
+	regiment = {
+		name="1st Fort Cedar Artillery"
+		type=artillery
+		home=121
+	}
+	regiment = {
+		name="1st Fort Kiowa Artillery"
+		type=artillery
+		home=120
+	}
+	regiment = {
+		name="2nd Fort Benton Artillery"
+		type=artillery
+		home=115
+	}
+	regiment = {
+		name="1st Fort Laramie Artillery"
+		type=artillery
+		home=112
+	}
+	regiment = {
+		name="2nd Fort Van Buren Artillery"
+		type=artillery
+		home=116
+	}
+	regiment = {
+		name="2nd Fort Kiowa Artillery"
+		type=artillery
+		home=120
+	}
+	regiment = {
+		name="1st Regina Artillery"
+		type=artillery
+		home=30
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2940
+	ship = {
+		name="Insurgent"
+		type=frigate
+	}
+	ship = {
+		name="Java"
+		type=frigate
+	}
+	ship = {
+		name="John Adams"
+		type=frigate
+	}
+	ship = {
+		name="Macedonian"
+		type=frigate
+	}
+}
+
+army = {
+	name="37th Army"
+	location=236
+	regiment = {
+		name="1st Pinawa Artillery"
+		type=artillery
+		home=36
+	}
+	regiment = {
+		name="1st Sioux City Artillery"
+		type=artillery
+		home=154
+	}
+	regiment = {
+		name="1st Fort Ripley Artillery"
+		type=artillery
+		home=157
+	}
+	regiment = {
+		name="1st Madison Artillery"
+		type=artillery
+		home=162
+	}
+	regiment = {
+		name="3rd Fort Van Buren Artillery"
+		type=artillery
+		home=116
+	}
+	regiment = {
+		name="1st Rockford Artillery"
+		type=artillery
+		home=164
+	}
+	regiment = {
+		name="1st Fort Clark Artillery"
+		type=artillery
+		home=117
+	}
+}
+
+army = {
+	name="12th Army"
+	location=2
+	regiment = {
+		name="1st San Francisco Infantry"
+		type=infantry
+		home=104
+	}
+	regiment = {
+		name="1st Fort James Infantry"
+		type=infantry
+		home=118
+	}
+	regiment = {
+		name="1st Fort Owen Infantry"
+		type=infantry
+		home=114
+	}
+	regiment = {
+		name="1st Fort Renville Infantry"
+		type=infantry
+		home=156
+	}
+	regiment = {
+		name="3rd Fort Kiowa Infantry"
+		type=infantry
+		home=120
+	}
+}
+
+army = {
+	name="15th Army"
+	location=170
+	regiment = {
+		name="1st Concord Infantry"
+		type=infantry
+		home=247
+	}
+	regiment = {
+		name="3rd Bytown Infantry"
+		type=infantry
+		home=57
+	}
+	regiment = {
+		name="1st Plattsburgh Infantry"
+		type=infantry
+		home=240
+	}
+	regiment = {
+		name="2nd Concord Infantry"
+		type=infantry
+		home=247
+	}
+	regiment = {
+		name="2nd Marquette Infantry"
+		type=infantry
+		home=177
+	}
+	regiment = {
+		name="2nd Orillia Infantry"
+		type=infantry
+		home=52
+	}
+	regiment = {
+		name="3rd Concord Infantry"
+		type=infantry
+		home=247
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2954
+	ship = {
+		name="Mohawk"
+		type=frigate
+	}
+	ship = {
+		name="New York"
+		type=frigate
+	}
+	ship = {
+		name="Philadelphia"
+		type=frigate
+	}
+	ship = {
+		name="Plattsburg"
+		type=frigate
+	}
+	ship = {
+		name="Potomac"
+		type=frigate
+	}
+	ship = {
+		name="President"
+		type=frigate
+	}
+	ship = {
+		name="United States"
+		type=frigate
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=169
+	regiment = {
+		name="1st Albany Infantry"
+		type=infantry
+		home=234
+	}
+	regiment = {
+		name="2nd New York Infantry"
+		type=infantry
+		home=232
+	}
+	regiment = {
+		name="1st Rochester Infantry"
+		type=infantry
+		home=237
+	}
+	regiment = {
+		name="1st Truro Infantry"
+		type=infantry
+		home=72
+	}
+	regiment = {
+		name="1st Windsor Infantry"
+		type=infantry
+		home=54
+	}
+	regiment = {
+		name="2nd Hartford Infantry"
+		type=infantry
+		home=241
+	}
+	regiment = {
+		name="3rd Pittsfield Infantry"
+		type=infantry
+		home=245
+	}
+}
+
+army = {
+	name="7th Army"
+	location=236
+	regiment = {
+		name="5th Fort Van Buren Infantry"
+		type=infantry
+		home=116
+	}
+	regiment = {
+		name="6th Fort Van Buren Infantry"
+		type=infantry
+		home=116
+	}
+	regiment = {
+		name="1st Milwaukee Infantry"
+		type=infantry
+		home=159
+	}
+	regiment = {
+		name="1st Chicago Infantry"
+		type=infantry
+		home=163
+	}
+	regiment = {
+		name="1st Peoria Infantry"
+		type=infantry
+		home=166
+	}
+	regiment = {
+		name="2nd Fort Renville Infantry"
+		type=infantry
+		home=156
+	}
+	regiment = {
+		name="1st Fort Benton Infantry"
+		type=infantry
+		home=115
+	}
+}
+
+army = {
+	name="4th Army"
+	location=179
+	regiment = {
+		name="2nd Kingston Artillery"
+		type=artillery
+		home=56
+	}
+	regiment = {
+		name="1st Green Bay Artillery"
+		type=artillery
+		home=161
+	}
+	regiment = {
+		name="1st Marquette Artillery"
+		type=artillery
+		home=177
+	}
+	regiment = {
+		name="1st Grand Rapids Artillery"
+		type=artillery
+		home=174
+	}
+	regiment = {
+		name="2nd Rockford Artillery"
+		type=artillery
+		home=164
+	}
+	regiment = {
+		name="1st Chicago Artillery"
+		type=artillery
+		home=163
+	}
+	regiment = {
+		name="2nd Grand Rapids Artillery"
+		type=artillery
+		home=174
+	}
+}
+
+army = {
+	name="8th Army"
+	location=167
+	regiment = {
+		name="1st Fort Cedar Infantry"
+		type=infantry
+		home=121
+	}
+	regiment = {
+		name="1st Grand Portage Infantry"
+		type=infantry
+		home=158
+	}
+	regiment = {
+		name="4th Fort Kiowa Infantry"
+		type=infantry
+		home=120
+	}
+	regiment = {
+		name="1st Indianapolis Infantry"
+		type=infantry
+		home=169
+	}
+	regiment = {
+		name="5th Fort Kiowa Infantry"
+		type=infantry
+		home=120
+	}
+	regiment = {
+		name="2nd Chicago Infantry"
+		type=infantry
+		home=163
+	}
+	regiment = {
+		name="3rd Des Moines Infantry"
+		type=infantry
+		home=151
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=104
+	ship = {
+		name="America"
+		type=manowar
+	}
+	ship = {
+		name="Columbus"
+		type=manowar
+	}
+	ship = {
+		name="Franklin"
+		type=manowar
+	}
+	ship = {
+		name="Washington"
+		type=manowar
+	}
+	ship = {
+		name="Chipewa"
+		type=manowar
+	}
+	ship = {
+		name="New Orleans"
+		type=manowar
+	}
+	ship = {
+		name="Pennsylvania"
+		type=manowar
+	}
+	ship = {
+		name="Delaware"
+		type=manowar
+	}
+	ship = {
+		name="Vermont"
+		type=manowar
+	}
+	ship = {
+		name="New Hampshire"
+		type=manowar
+	}
+	ship = {
+		name="Virginia"
+		type=manowar
+	}
+	ship = {
+		name="Ohio"
+		type=manowar
+	}
+	ship = {
+		name="North Carolina"
+		type=manowar
+	}
+	ship = {
+		name="7th Boston Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="Martha Custis Washington"
+		type=clipper_transport
+	}
+	ship = {
+		name="Abigail Adams"
+		type=clipper_transport
+	}
+	ship = {
+		name="Martha Jefferson"
+		type=clipper_transport
+	}
+	ship = {
+		name="Dolley Todd Madison"
+		type=clipper_transport
+	}
+	ship = {
+		name="Letitia Tyler"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2954
+	ship = {
+		name="Raritan"
+		type=frigate
+	}
+	ship = {
+		name="Sabine"
+		type=frigate
+	}
+	ship = {
+		name="Santee"
+		type=frigate
+	}
+	ship = {
+		name="Savannah"
+		type=frigate
+	}
+	ship = {
+		name="St. Lawrence"
+		type=frigate
+	}
+	ship = {
+		name="Superior"
+		type=frigate
+	}
+	ship = {
+		name="3rd Long Island Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="5th Army"
+	location=167
+	regiment = {
+		name="1st Olney Artillery"
+		type=artillery
+		home=168
+	}
+	regiment = {
+		name="1st Oskaloosa Artillery"
+		type=artillery
+		home=152
+	}
+	regiment = {
+		name="2nd Green Bay Artillery"
+		type=artillery
+		home=161
+	}
+	regiment = {
+		name="2nd Marquette Artillery"
+		type=artillery
+		home=177
+	}
+	regiment = {
+		name="1st Superior Artillery"
+		type=artillery
+		home=160
+	}
+	regiment = {
+		name="1st Cleveland Artillery"
+		type=artillery
+		home=178
+	}
+	regiment = {
+		name="1st Columbus Artillery"
+		type=artillery
+		home=179
+	}
+}
+
+army = {
+	name="9th Army"
+	location=172
+	regiment = {
+		name="1st Champaign Artillery"
+		type=artillery
+		home=165
+	}
+	regiment = {
+		name="3rd Kingston Artillery"
+		type=artillery
+		home=56
+	}
+	regiment = {
+		name="2nd Olney Artillery"
+		type=artillery
+		home=168
+	}
+	regiment = {
+		name="2nd Oskaloosa Artillery"
+		type=artillery
+		home=152
+	}
+	regiment = {
+		name="1st Buffalo Artillery"
+		type=artillery
+		home=236
+	}
+	regiment = {
+		name="1st Cincinnati Artillery"
+		type=artillery
+		home=182
+	}
+	regiment = {
+		name="3rd Green Bay Artillery"
+		type=artillery
+		home=161
+	}
+}
+
+army = {
+	name="13th Army"
+	location=37
+	regiment = {
+		name="7th Fort Van Buren Infantry"
+		type=infantry
+		home=116
+	}
+	regiment = {
+		name="1st Fort Robidoux Infantry"
+		type=infantry
+		home=123
+	}
+	regiment = {
+		name="8th Fort Van Buren Infantry"
+		type=infantry
+		home=116
+	}
+	regiment = {
+		name="3rd Marquette Infantry"
+		type=infantry
+		home=177
+	}
+	regiment = {
+		name="2nd Fort Ellice Infantry"
+		type=infantry
+		home=41
+	}
+	regiment = {
+		name="2nd Fort James Infantry"
+		type=infantry
+		home=118
+	}
+	regiment = {
+		name="1st Fort Clark Infantry"
+		type=infantry
+		home=117
+	}
+}
+
+army = {
+	name="10th Army"
+	location=73
+	regiment = {
+		name="1st Buffalo Infantry"
+		type=infantry
+		home=236
+	}
+	regiment = {
+		name="2nd Montreal Infantry"
+		type=infantry
+		home=58
+	}
+	regiment = {
+		name="2nd Temiscaming Infantry"
+		type=infantry
+		home=63
+	}
+	regiment = {
+		name="2nd Pittsfield Infantry"
+		type=infantry
+		home=245
+	}
+	regiment = {
+		name="2nd Burlington Infantry"
+		type=infantry
+		home=246
+	}
+	regiment = {
+		name="1st Sherbrooke Infantry"
+		type=infantry
+		home=66
+	}
+	regiment = {
+		name="3rd Orillia Infantry"
+		type=infantry
+		home=52
+	}
+}
+
+army = {
+	name="45th Army"
+	location=152
+	regiment = {
+		name="1st Springfield Infantry"
+		type=infantry
+		home=167
+	}
+	regiment = {
+		name="4th Marquette Infantry"
+		type=infantry
+		home=177
+	}
+	regiment = {
+		name="2nd Grand Portage Infantry"
+		type=infantry
+		home=158
+	}
+	regiment = {
+		name="2nd Thunder Bay Infantry"
+		type=infantry
+		home=50
+	}
+	regiment = {
+		name="3rd Grand Portage Infantry"
+		type=infantry
+		home=158
+	}
+	regiment = {
+		name="3rd Temiscaming Infantry"
+		type=infantry
+		home=63
+	}
+	regiment = {
+		name="2nd Peoria Infantry"
+		type=infantry
+		home=166
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=243
+	ship = {
+		name="Elizabeth Monroe"
+		type=clipper_transport
+	}
+	ship = {
+		name="Louisa Catherine Adams"
+		type=clipper_transport
+	}
+	ship = {
+		name="Rachel Robards Jackson"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hannah Van Buren"
+		type=clipper_transport
+	}
+	ship = {
+		name="Anna Harrison"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="14th Army"
+	location=75
+	regiment = {
+		name="1st Des Moines Infantry"
+		type=infantry
+		home=151
+	}
+	regiment = {
+		name="1st Winnipeg Infantry"
+		type=infantry
+		home=42
+	}
+	regiment = {
+		name="2nd Cedar Rapids Infantry"
+		type=infantry
+		home=153
+	}
+	regiment = {
+		name="1st Fort Laramie Infantry"
+		type=infantry
+		home=112
+	}
+	regiment = {
+		name="2nd Des Moines Infantry"
+		type=infantry
+		home=151
+	}
+	regiment = {
+		name="3rd Fort Renville Infantry"
+		type=infantry
+		home=156
+	}
+}
+
+army = {
+	name="18th Army"
+	location=2526
+	regiment = {
+		name="2nd Truro Infantry"
+		type=infantry
+		home=72
+	}
+}
+
+army = {
+	name="19th Army"
+	location=658
+	regiment = {
+		name="1st Fort Ripley Infantry"
+		type=infantry
+		home=157
+	}
+	regiment = {
+		name="2nd Fort Ripley Infantry"
+		type=infantry
+		home=157
+	}
+}
+

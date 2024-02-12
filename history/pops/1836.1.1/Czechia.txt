@@ -1,0 +1,1189 @@
+625 = {
+	soldiers=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 11851
+	}
+
+	artisans=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 8520
+	}
+
+	clergymen=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 822
+	}
+
+	bureaucrats=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 181
+	}
+
+	officers=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 169
+	}
+
+	aristocrats=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 1610
+	}
+
+	farmers=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 104916
+	}
+
+	soldiers=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 19737
+	}
+
+	artisans=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 36899
+	}
+
+	clergymen=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 3557
+	}
+
+	bureaucrats=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 783
+	}
+
+	officers=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 730
+	}
+
+	aristocrats=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 6970
+	}
+
+	farmers=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 143226
+	}
+
+}
+626 = {
+	soldiers=
+	{
+		culture = boehmisch
+		religion = cathar
+		size= 6103
+	}
+
+	artisans=
+	{
+		culture = boehmisch
+		religion = cathar
+		size= 4441
+	}
+
+	clergymen=
+	{
+		culture = boehmisch
+		religion = cathar
+		size= 418
+	}
+
+	bureaucrats=
+	{
+		culture = boehmisch
+		religion = cathar
+		size= 94
+	}
+
+	officers=
+	{
+		culture = boehmisch
+		religion = cathar
+		size= 96
+	}
+
+	aristocrats=
+	{
+		culture = boehmisch
+		religion = cathar
+		size= 1680
+	}
+
+	farmers=
+	{
+		culture = boehmisch
+		religion = cathar
+		size= 53336
+	}
+
+	soldiers=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 12683
+	}
+
+	artisans=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 22898
+	}
+
+	clergymen=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 2152
+	}
+
+	bureaucrats=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 482
+	}
+
+	officers=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 499
+	}
+
+	aristocrats=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 8665
+	}
+
+	farmers=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 89495
+	}
+
+}
+627 = {
+	soldiers=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 4183
+	}
+
+	artisans=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 588
+	}
+
+	clergymen=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 282
+	}
+
+	bureaucrats=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 64
+	}
+
+	officers=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 561
+	}
+
+	farmers=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 39394
+	}
+
+	soldiers=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 8561
+	}
+
+	artisans=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 2996
+	}
+
+	clergymen=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 1434
+	}
+
+	bureaucrats=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 327
+	}
+
+	officers=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 255
+	}
+
+	aristocrats=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 2858
+	}
+
+	farmers=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 74822
+	}
+
+}
+628 = {
+	soldiers=
+	{
+		culture = polish
+		religion = norse_pagan_reformed
+		size= 4290
+	}
+
+	artisans=
+	{
+		culture = polish
+		religion = norse_pagan_reformed
+		size= 1627
+	}
+
+	clergymen=
+	{
+		culture = polish
+		religion = norse_pagan_reformed
+		size= 143
+	}
+
+	bureaucrats=
+	{
+		culture = polish
+		religion = norse_pagan_reformed
+		size= 33
+	}
+
+	officers=
+	{
+		culture = polish
+		religion = norse_pagan_reformed
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = polish
+		religion = norse_pagan_reformed
+		size= 296
+	}
+
+	farmers=
+	{
+		culture = polish
+		religion = norse_pagan_reformed
+		size= 40521
+	}
+
+	soldiers=
+	{
+		culture = polish
+		religion = waldensian
+		size= 2749
+	}
+
+	artisans=
+	{
+		culture = polish
+		religion = waldensian
+		size= 3712
+	}
+
+	clergymen=
+	{
+		culture = polish
+		religion = waldensian
+		size= 327
+	}
+
+	bureaucrats=
+	{
+		culture = polish
+		religion = waldensian
+		size= 75
+	}
+
+	officers=
+	{
+		culture = polish
+		religion = waldensian
+		size= 78
+	}
+
+	aristocrats=
+	{
+		culture = polish
+		religion = waldensian
+		size= 676
+	}
+
+	farmers=
+	{
+		culture = polish
+		religion = waldensian
+		size= 22413
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = waldensian
+		size= 3607
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = waldensian
+		size= 10811
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = waldensian
+		size= 950
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = waldensian
+		size= 219
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = waldensian
+		size= 227
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = waldensian
+		size= 1970
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = waldensian
+		size= 21527
+	}
+
+}
+629 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 3872
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 2480
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 260
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 59
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 356
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 34142
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = waldensian
+		size= 7954
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = waldensian
+		size= 12668
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = waldensian
+		size= 1326
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = waldensian
+		size= 304
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = waldensian
+		size= 314
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = waldensian
+		size= 1821
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = waldensian
+		size= 58981
+	}
+
+}
+630 = {
+	soldiers=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 3811
+	}
+
+	artisans=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 2555
+	}
+
+	clergymen=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 254
+	}
+
+	bureaucrats=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 59
+	}
+
+	officers=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 1054
+	}
+
+	farmers=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 33039
+	}
+
+	soldiers=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 6397
+	}
+
+	artisans=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 11131
+	}
+
+	clergymen=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 1104
+	}
+
+	bureaucrats=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 255
+	}
+
+	officers=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 264
+	}
+
+	aristocrats=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 4593
+	}
+
+	farmers=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 43940
+	}
+
+}
+631 = {
+	soldiers=
+	{
+		culture = slovak
+		religion = animist
+		size= 4749
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = animist
+		size= 3465
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = animist
+		size= 329
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 73
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = animist
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 1305
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = animist
+		size= 41348
+	}
+
+	soldiers=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 9256
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 16973
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 1608
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 355
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 368
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 6394
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 64733
+	}
+
+	soldiers=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 5213
+	}
+
+	artisans=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 3804
+	}
+
+	clergymen=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 361
+	}
+
+	bureaucrats=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 80
+	}
+
+	officers=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 82
+	}
+
+	aristocrats=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 1433
+	}
+
+	farmers=
+	{
+		culture = boehmisch
+		religion = catholic
+		size= 45390
+	}
+
+	soldiers=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 8792
+	}
+
+	artisans=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 16633
+	}
+
+	clergymen=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 1576
+	}
+
+	bureaucrats=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 348
+	}
+
+	officers=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 361
+	}
+
+	aristocrats=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 6266
+	}
+
+	farmers=
+	{
+		culture = boehmisch
+		religion = waldensian
+		size= 60691
+	}
+
+}
+632 = {
+	soldiers=
+	{
+		culture = slovak
+		religion = animist
+		size= 2696
+	}
+
+	craftsmen=
+	{
+		culture = slovak
+		religion = animist
+		size= 2785
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = animist
+		size= 1652
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = animist
+		size= 176
+	}
+
+	clerks=
+	{
+		culture = slovak
+		religion = animist
+		size= 84
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 42
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = animist
+		size= 43
+	}
+
+	capitalists=
+	{
+		culture = slovak
+		religion = animist
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 374
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = animist
+		size= 20814
+	}
+
+	soldiers=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 5215
+	}
+
+	craftsmen=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 5385
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 8039
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 857
+	}
+
+	clerks=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 409
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 202
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 209
+	}
+
+	capitalists=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 259
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 1820
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 32037
+	}
+
+}
+688 = {
+	soldiers=
+	{
+		culture = slovak
+		religion = animist
+		size= 1708
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = animist
+		size= 1300
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = animist
+		size= 121
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 26
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = animist
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 234
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = animist
+		size= 15150
+	}
+
+	soldiers=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 3303
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 6326
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 587
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 127
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 131
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 1139
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 24293
+	}
+
+}
+689 = {
+	soldiers=
+	{
+		culture = slovak
+		religion = animist
+		size= 3050
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = animist
+		size= 2321
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = animist
+		size= 216
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 46
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = animist
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 836
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = animist
+		size= 26638
+	}
+
+	soldiers=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 5906
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 11308
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 1050
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 226
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 234
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 4071
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = waldensian
+		size= 41396
+	}
+
+}

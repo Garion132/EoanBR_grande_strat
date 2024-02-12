@@ -1,0 +1,4 @@
+owner=ITA
+controller=ITA
+trade_goods = rubber
+life_rating = 34

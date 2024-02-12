@@ -1,0 +1,5 @@
+owner=IBR
+controller=IBR
+trade_goods = coffee
+life_rating = 39
+colonial=2

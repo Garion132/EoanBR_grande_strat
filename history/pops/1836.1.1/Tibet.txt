@@ -1,0 +1,1743 @@
+1587 = {
+	soldiers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 1418
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = jain
+		size= 2255
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = jain
+		size= 241
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = jain
+		size= 35
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = jain
+		size= 270
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 21056
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 1165
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 6508
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 698
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 103
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 96
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 781
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 11463
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 1523
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 1502
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 160
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 23
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 180
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 23784
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 347
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 54
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 1
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 5783
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = tengri_pagan_reformed
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = tengri_pagan_reformed
+		size= 67
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = tengri_pagan_reformed
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = tengri_pagan_reformed
+		size= 1
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = tengri_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = tengri_pagan_reformed
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = tengri_pagan_reformed
+		size= 598
+	}
+
+	soldiers=
+	{
+		culture = beifaren
+		religion = jain
+		size= 145
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = jain
+		size= 464
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = jain
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = jain
+		size= 7
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = jain
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = jain
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = jain
+		size= 1861
+	}
+
+	soldiers=
+	{
+		culture = beifaren
+		religion = norse_pagan_reformed
+		size= 243
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = norse_pagan_reformed
+		size= 1354
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = norse_pagan_reformed
+		size= 145
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = norse_pagan_reformed
+		size= 21
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = norse_pagan_reformed
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = norse_pagan_reformed
+		size= 162
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = norse_pagan_reformed
+		size= 2386
+	}
+
+}
+1588 = {
+	soldiers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 1231
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = jain
+		size= 1957
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = jain
+		size= 209
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = jain
+		size= 30
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = jain
+		size= 235
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 18273
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 1011
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 5648
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 605
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 87
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 85
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 679
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 9949
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 1321
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 1302
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 139
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 21
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 156
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 20642
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 301
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 47
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 1
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 5019
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = tengri_pagan_reformed
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = tengri_pagan_reformed
+		size= 58
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = tengri_pagan_reformed
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = tengri_pagan_reformed
+		size= 1
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = tengri_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = tengri_pagan_reformed
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = tengri_pagan_reformed
+		size= 519
+	}
+
+	soldiers=
+	{
+		culture = beifaren
+		religion = jain
+		size= 126
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = jain
+		size= 403
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = jain
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = jain
+		size= 6
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = jain
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = jain
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = jain
+		size= 1616
+	}
+
+	soldiers=
+	{
+		culture = beifaren
+		religion = norse_pagan_reformed
+		size= 211
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = norse_pagan_reformed
+		size= 1175
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = norse_pagan_reformed
+		size= 126
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = norse_pagan_reformed
+		size= 18
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = norse_pagan_reformed
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = norse_pagan_reformed
+		size= 141
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = norse_pagan_reformed
+		size= 2070
+	}
+
+}
+1589 = {
+	soldiers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 1706
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = jain
+		size= 2133
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = jain
+		size= 228
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = jain
+		size= 33
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = jain
+		size= 257
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 26086
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 705
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 3896
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 417
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 61
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 467
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 6980
+	}
+
+}
+1590 = {
+	soldiers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 1297
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = jain
+		size= 2062
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = jain
+		size= 222
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = jain
+		size= 33
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = jain
+		size= 247
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 19260
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 1065
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 5952
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 637
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 93
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 88
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 715
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 10490
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 1393
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 1374
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 147
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 22
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 164
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 21755
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 318
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 1
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 5290
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = tengri_pagan_reformed
+		size= 37
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = tengri_pagan_reformed
+		size= 61
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = tengri_pagan_reformed
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = tengri_pagan_reformed
+		size= 1
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = tengri_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = tengri_pagan_reformed
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = tengri_pagan_reformed
+		size= 547
+	}
+
+	soldiers=
+	{
+		culture = beifaren
+		religion = jain
+		size= 133
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = jain
+		size= 425
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = jain
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = jain
+		size= 7
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = jain
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = jain
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = jain
+		size= 1701
+	}
+
+	soldiers=
+	{
+		culture = beifaren
+		religion = norse_pagan_reformed
+		size= 222
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = norse_pagan_reformed
+		size= 1239
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = norse_pagan_reformed
+		size= 133
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = norse_pagan_reformed
+		size= 19
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = norse_pagan_reformed
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = norse_pagan_reformed
+		size= 149
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = norse_pagan_reformed
+		size= 2181
+	}
+
+}
+1591 = {
+	slaves=
+	{
+		culture = tibetan
+		religion = jain
+		size= 3766
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 1558
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = jain
+		size= 1946
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = jain
+		size= 208
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = jain
+		size= 31
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = jain
+		size= 234
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 20039
+	}
+
+	slaves=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 1555
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 643
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 3555
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 380
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 56
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 426
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = norse_pagan_reformed
+		size= 4817
+	}
+
+}
+1592 = {
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 2126
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 463
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 173
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 25
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 194
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 20092
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 5420
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = jain
+		size= 2983
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = jain
+		size= 1119
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = jain
+		size= 163
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 217
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = jain
+		size= 1253
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 47761
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 756
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 164
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 9
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 69
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 7140
+	}
+
+}
+1593 = {
+	soldiers=
+	{
+		culture = assamese
+		religion = theravada
+		size= 598
+	}
+
+	artisans=
+	{
+		culture = assamese
+		religion = theravada
+		size= 2992
+	}
+
+	clergymen=
+	{
+		culture = assamese
+		religion = theravada
+		size= 139
+	}
+
+	bureaucrats=
+	{
+		culture = assamese
+		religion = theravada
+		size= 60
+	}
+
+	officers=
+	{
+		culture = assamese
+		religion = theravada
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = assamese
+		religion = theravada
+		size= 359
+	}
+
+	farmers=
+	{
+		culture = assamese
+		religion = theravada
+		size= 17179
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 505
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 2117
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 98
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 42
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 254
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 14980
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 236
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = jain
+		size= 1873
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = jain
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = jain
+		size= 37
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = jain
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 5947
+	}
+
+	soldiers=
+	{
+		culture = kachin
+		religion = animist
+		size= 105
+	}
+
+	artisans=
+	{
+		culture = kachin
+		religion = animist
+		size= 131
+	}
+
+	clergymen=
+	{
+		culture = kachin
+		religion = animist
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = kachin
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = kachin
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = kachin
+		religion = animist
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = kachin
+		religion = animist
+		size= 3471
+	}
+
+	soldiers=
+	{
+		culture = kachin
+		religion = theravada
+		size= 80
+	}
+
+	artisans=
+	{
+		culture = kachin
+		religion = theravada
+		size= 330
+	}
+
+	clergymen=
+	{
+		culture = kachin
+		religion = theravada
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = kachin
+		religion = theravada
+		size= 7
+	}
+
+	officers=
+	{
+		culture = kachin
+		religion = theravada
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = kachin
+		religion = theravada
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = kachin
+		religion = theravada
+		size= 2370
+	}
+
+	soldiers=
+	{
+		culture = kachin
+		religion = jain
+		size= 129
+	}
+
+	artisans=
+	{
+		culture = kachin
+		religion = jain
+		size= 1107
+	}
+
+	clergymen=
+	{
+		culture = kachin
+		religion = jain
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = kachin
+		religion = jain
+		size= 22
+	}
+
+	officers=
+	{
+		culture = kachin
+		religion = jain
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = kachin
+		religion = jain
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = kachin
+		religion = jain
+		size= 3155
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 114
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 285
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 6
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 3615
+	}
+
+}

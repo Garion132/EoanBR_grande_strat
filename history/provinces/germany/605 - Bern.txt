@@ -1,0 +1,7 @@
+owner=X16
+controller=X16
+add_core=FRA
+add_core=X16
+trade_goods = iron
+life_rating = 34
+fort = 1

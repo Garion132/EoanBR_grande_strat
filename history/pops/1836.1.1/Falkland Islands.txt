@@ -1,0 +1,100 @@
+2131 = {
+	soldiers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 7313
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = catholic
+		size= 152
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = catholic
+		size= 63
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = catholic
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 252
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 1161
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 377
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 58
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 488
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 22823
+	}
+
+}

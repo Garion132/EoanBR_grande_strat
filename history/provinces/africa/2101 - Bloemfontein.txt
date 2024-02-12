@@ -1,0 +1,12 @@
+owner=ENG
+controller=ENG
+trade_goods = iron
+life_rating = 35
+terrain = mining_district
+colonial=2
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}
