@@ -1,5 +1,5 @@
 capital = 608
-primary_culture = swiss
+primary_culture = south_german
 culture = zzz_religion_protestant
 religion = protestant
 government = presidential_dictatorship

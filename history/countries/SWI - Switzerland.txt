@@ -1,5 +1,5 @@
 capital = 605
-primary_culture = swiss
+primary_culture = south_german
 culture = zzz_religion_catholic
 religion = catholic
 government = democracy

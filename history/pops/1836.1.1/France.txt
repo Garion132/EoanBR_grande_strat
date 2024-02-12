@@ -1109,49 +1109,49 @@
 
 	soldiers=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 4054
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 12515
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 1162
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 250
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 259
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 2253
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 23575
 	}
@@ -1260,49 +1260,49 @@
 409 = {
 	soldiers=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 13176
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 19428
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 1776
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 404
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 318
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 3537
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 103992
 	}
@@ -1353,49 +1353,49 @@
 410 = {
 	soldiers=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 20394
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 30887
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 2796
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 624
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 646
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 5613
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 160706
 	}
@@ -1432,70 +1432,70 @@
 411 = {
 	soldiers=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 6829
 	}
 
 	craftsmen=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 8170
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 10269
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 879
 	}
 
 	clerks=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 493
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 211
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 118
 	}
 
 	capitalists=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 312
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 1165
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 45792
 	}
@@ -1546,98 +1546,98 @@
 412 = {
 	soldiers=
 	{
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size= 3959
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size= 2957
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size= 264
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size= 61
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size= 63
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size= 547
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size= 35085
 	}
 
 	soldiers=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 6690
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 12950
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 1155
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 266
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 276
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 2397
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 48660
 	}
@@ -1744,49 +1744,49 @@
 
 	soldiers=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 2320
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 7796
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 724
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 156
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 161
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 1871
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 12185
 	}
@@ -1795,49 +1795,49 @@
 414 = {
 	soldiers=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 6654
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 10126
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 940
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 203
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 210
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 1215
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = south_german
 		religion = waldensian
 		size= 52978
 	}

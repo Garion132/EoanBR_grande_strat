@@ -7915,7 +7915,7 @@ country_event = {
                 tag = SWI
                 614 = {
                     owned_by = SWI
-                    pop_majority_culture = swiss
+                    pop_majority_culture = south_german
                 }
             }
             614 = {

@@ -1,98 +1,98 @@
 603 = {
 	soldiers=
 	{
-		culture = swiss
+		culture = south_german
 		religion = catholic
 		size= 5844
 	}
 
 	artisans=
 	{
-		culture = swiss
+		culture = south_german
 		religion = catholic
 		size= 4456
 	}
 
 	clergymen=
 	{
-		culture = swiss
+		culture = south_german
 		religion = catholic
 		size= 398
 	}
 
 	bureaucrats=
 	{
-		culture = swiss
+		culture = south_german
 		religion = catholic
 		size= 90
 	}
 
 	officers=
 	{
-		culture = swiss
+		culture = south_german
 		religion = catholic
 		size= 93
 	}
 
 	aristocrats=
 	{
-		culture = swiss
+		culture = south_german
 		religion = catholic
 		size= 1056
 	}
 
 	farmers=
 	{
-		culture = swiss
+		culture = south_german
 		religion = catholic
 		size= 51852
 	}
 
 	soldiers=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 10253
 	}
 
 	artisans=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 20091
 	}
 
 	clergymen=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 1792
 	}
 
 	bureaucrats=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 404
 	}
 
 	officers=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 418
 	}
 
 	aristocrats=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 4760
 	}
 
 	farmers=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 74041
 	}
@@ -301,98 +301,98 @@
 606 = {
 	soldiers=
 	{
-		culture = swiss
+		culture = south_german
 		religion = catholic
 		size= 2809
 	}
 
 	artisans=
 	{
-		culture = swiss
+		culture = south_german
 		religion = catholic
 		size= 2137
 	}
 
 	clergymen=
 	{
-		culture = swiss
+		culture = south_german
 		religion = catholic
 		size= 198
 	}
 
 	bureaucrats=
 	{
-		culture = swiss
+		culture = south_german
 		religion = catholic
 		size= 43
 	}
 
 	officers=
 	{
-		culture = swiss
+		culture = south_german
 		religion = catholic
 		size= 44
 	}
 
 	aristocrats=
 	{
-		culture = swiss
+		culture = south_german
 		religion = catholic
 		size= 256
 	}
 
 	farmers=
 	{
-		culture = swiss
+		culture = south_german
 		religion = catholic
 		size= 25041
 	}
 
 	soldiers=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 4888
 	}
 
 	artisans=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 9575
 	}
 
 	clergymen=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 889
 	}
 
 	bureaucrats=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 191
 	}
 
 	officers=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 198
 	}
 
 	aristocrats=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 1149
 	}
 
 	farmers=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 36236
 	}
@@ -799,49 +799,49 @@
 611 = {
 	soldiers=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 5471
 	}
 
 	artisans=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 8325
 	}
 
 	clergymen=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 774
 	}
 
 	bureaucrats=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 166
 	}
 
 	officers=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 172
 	}
 
 	aristocrats=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 1998
 	}
 
 	farmers=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 42560
 	}
@@ -850,49 +850,49 @@
 2568 = {
 	soldiers=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 5773
 	}
 
 	artisans=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 8785
 	}
 
 	clergymen=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 815
 	}
 
 	bureaucrats=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 175
 	}
 
 	officers=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 182
 	}
 
 	aristocrats=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 2109
 	}
 
 	farmers=
 	{
-		culture = swiss
+		culture = south_german
 		religion = waldensian
 		size= 44914
 	}

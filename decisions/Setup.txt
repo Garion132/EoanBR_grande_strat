@@ -2498,7 +2498,7 @@ political_decisions = {
             SER_794 = { add_province_modifier = { name = small_baby_boom duration = 3650 } }
             #################Romanian Pops Setup######################
 
-            #################Italian Swiss Pops Setup######################
+            #################Italian south_german Pops Setup######################
             any_country = {
                 limit = {
                     exists = yes
@@ -2508,11 +2508,11 @@ political_decisions = {
                     }
                 }
                 any_pop = {
-                    limit = { has_pop_culture = swiss }
+                    limit = { has_pop_culture = south_german }
                     literacy = 0.4
                 }
             }
-            #################Italian Swiss Pops Setup######################
+            #################Italian south_german Pops Setup######################
 
             #################Government Flags Setup######################
             any_country = {

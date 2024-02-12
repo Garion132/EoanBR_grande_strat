@@ -1936,7 +1936,6 @@ germanic = {
 		last_names = { "Beck-Rzikowsky" "Behncke" "Blos" "Brommy" "Cordemann" "Dankl" "Dreyer" "Droste" "Eisner" "Geiss" "Goering" "Groener" "Hainisch" "Haus" "Held" "Hellpach" "Herwarth von Bittenfeld" "Heppendorf" "Hoffmann" "Hummel" "Köhler" "Krohn" "Ludendorff" "Mergenthaler" "Miklas" "Remmele" "Schmitt" "Schobber" "Schree" "Seitz" "Steeb" "Stolzer" "Trunk" "Vogel von Falkenstein" "von Alten" "von Anhalt" "von Arentschildt" "von Bülow" "von Baden" "von Benedek" "von Bismarck-Bohlen" "von Blumenthal" "von Blomberg" "von Böhm-Ermolli" "von Boyen" "von Braunschweig" "von Brudermann" "von Clam-Gallas" "von dem Knesebeck" "von der Tann" "von Dietrich" "von Gablenz" "von Gebser" "von Grünne" "von Habsburg" "von Fritsch" "von Halkett" "von Hannover" "von Hartmann" "von Haynau" "von Hess" "von Hessen-Darmstadt" "von Hessen-Kassel" "von Hindenburg" "von Hohenzollern" "von Holstein-Gottorp" "von Knorr" "von Kleefeld" "von Manteuffel" "von Mecklenburg-Schwerin" "von Mecklenburg-Strelitz" "von Moltke" "von Oldenburg" "von Rauch" "von Ravensberg" "von Reuter" "von Richthofen" "von Sachsen-Altenburg" "von Sachsen-Coburg-Gotha" "von Sachsen-Meiningen" "von Sachsen-Weimar-Eisenach" "von Schlieffen" "von Schwarzburg" "von Spee" "von Tirpitz" "von Waldeck und Pyrmont" "von Wettin" "von Wrangel" "von Zieten" "zur Lippe" "von Roon" "von Hohenhausen" "d'Aspre von Hoobreuk" "von Hortstein" "von Hötzendorf" "von Kirbach" "von Kobratin" "von Schönburg" "von Tegetthoff" "von Uchatius" "von Wittelsbach" "von Württemberg" "von Zahringen" "Wagner" "Wittmann" "zu Hohenlohe" }
 		
 	}
-	
 	union = GER
 	
 }
@@ -3630,21 +3629,6 @@ pan_romanian = {
 	}
 	
 	union = ROM
-	
-}
-
-pan_swiss = {
-	leader = european
-	unit = EuropeanGC
-	
-	swiss = {
-		color = { 180 40 40 }
-		
-		first_names = { "Adolf" "Alexander" "Eduard" "Ernst" "Franz" "Hans" "Johann" "Josef" "Konstantin" "Martin" "Melchior" "Robert" "Rudolf" "Ulrich" "Wilhelm" "Augusto" "Enrico" "Flavio" "Giuseppe" "Vincenzo" "Antoine" "Charles" "Emmanuel" "Guillaume" "Gustave" "Henri" "Hugo" "Louis" "Marc" "Paul" }
-		
-		last_names = { "Brenner" "Deucher" "Funk" "Haab" "Herzog" "Knüsel" "Munzinger" "Näff" "Schneider" "Siegwart-Müller" "von Donatz" "von Salis-Soglio" "von Steiger" "von Tavel" "Wille" "Celio" "Cotti" "Fogliardi" "Motta" "Zeni" "Ador" "Calonder" "Chaudet" "Comtesse" "de Prangins" "Dufour" "Fornerod" "Guisan" "Ruchet" "Ruchonnet" }
-		
-	}
 	
 }
 

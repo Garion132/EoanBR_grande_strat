@@ -7,10 +7,7 @@ political_decisions = {
 	german_70 = {
 		picture = form_south_german_confederation
 		potential = {
-			OR = {
-				is_culture_group = germanic
-				is_culture_group = pan_swiss
-			}
+			is_culture_group = germanic
 			NOT = { primary_culture = dummy }
 			NOT = { year = 1837 }
 			NOT = { has_global_flag = 70_changed }	
@@ -341,10 +338,7 @@ political_decisions = {
 	german_139 = {
 		picture = abolish_prohibition
 		potential = {
-			OR = {
-				is_culture_group = germanic
-				is_culture_group = pan_swiss
-			}
+			is_culture_group = germanic
 			NOT = { primary_culture = dummy }
 			NOT = { year = 1837 }
 			NOT = { has_global_flag = 139_changed }	
@@ -710,10 +704,7 @@ political_decisions = {
 	german_232 = {
 		picture = liberty_enlightening_the_world
 		potential = {
-			OR = {
-				is_culture_group = germanic
-				is_culture_group = pan_swiss
-			}
+			is_culture_group = germanic
 			NOT = { primary_culture = dummy }
 			NOT = { year = 1837 }
 			NOT = { has_global_flag = 232_changed }	
@@ -1079,10 +1070,7 @@ political_decisions = {
 	german_244 = {
 		picture = enact_the_homestead_act
 		potential = {
-			OR = {
-				is_culture_group = germanic
-				is_culture_group = pan_swiss
-			}
+			is_culture_group = germanic
 			NOT = { primary_culture = dummy }
 			NOT = { year = 1837 }
 			NOT = { has_global_flag = 244_changed }	
@@ -1412,10 +1400,7 @@ political_decisions = {
 	german_2510 = {
 		picture = switch_to_navy_tech
 		potential = {
-			OR = {
-				is_culture_group = germanic
-				is_culture_group = pan_swiss
-			}
+			is_culture_group = germanic
 			NOT = { primary_culture = dummy }
 			NOT = { year = 1837 }
 			NOT = { has_global_flag = 2510_changed }	
@@ -1745,10 +1730,7 @@ political_decisions = {
 	german_220 = {
 		picture = institute_central_bank
 		potential = {
-			OR = {
-				is_culture_group = germanic
-				is_culture_group = pan_swiss
-			}
+			is_culture_group = germanic
 			NOT = { primary_culture = dummy }
 			NOT = { year = 1837 }
 			NOT = { has_global_flag = 220_changed }	
@@ -2078,10 +2060,7 @@ political_decisions = {
 	german_89 = {
 		picture = the_grunderzeit
 		potential = {
-			OR = {
-				is_culture_group = germanic
-				is_culture_group = pan_swiss
-			}
+			is_culture_group = germanic
 			NOT = { primary_culture = dummy }
 			NOT = { year = 1837 }
 			NOT = { has_global_flag = 89_changed }	
@@ -2411,10 +2390,7 @@ political_decisions = {
 	german_84 = {
 		picture = svenska_pansarbats_foreningen
 		potential = {
-			OR = {
-				is_culture_group = germanic
-				is_culture_group = pan_swiss
-			}
+			is_culture_group = germanic
 			NOT = { primary_culture = dummy }
 			NOT = { year = 1837 }
 			NOT = { has_global_flag = 84_changed }	
@@ -2829,10 +2805,7 @@ political_decisions = {
 	german_2447 = {
 		picture = annex_the_congo
 		potential = {
-			OR = {
-				is_culture_group = germanic
-				is_culture_group = pan_swiss
-			}
+			is_culture_group = germanic
 			NOT = { primary_culture = dummy }
 			NOT = { year = 1837 }
 			NOT = { has_global_flag = 2447_changed }	
@@ -3198,10 +3171,7 @@ political_decisions = {
 	german_2450 = {
 		picture = enact_radical_reconstruction
 		potential = {
-			OR = {
-				is_culture_group = germanic
-				is_culture_group = pan_swiss
-			}
+			is_culture_group = germanic
 			NOT = { primary_culture = dummy }
 			NOT = { year = 1837 }
 			NOT = { has_global_flag = 2450_changed }	
@@ -3567,10 +3537,7 @@ political_decisions = {
 	german_2348 = {
 		picture = award_order_of_st_francis
 		potential = {
-			OR = {
-				is_culture_group = germanic
-				is_culture_group = pan_swiss
-			}
+			is_culture_group = germanic
 			NOT = { primary_culture = dummy }
 			NOT = { year = 1837 }
 			NOT = { has_global_flag = 2348_changed }	
@@ -3936,10 +3903,7 @@ political_decisions = {
 	german_2214 = {
 		picture = german_70
 		potential = {
-			OR = {
-				is_culture_group = germanic
-				is_culture_group = pan_swiss
-			}
+			is_culture_group = germanic
 			NOT = { primary_culture = dummy }
 			NOT = { year = 1837 }
 			NOT = { has_global_flag = 2214_changed }	

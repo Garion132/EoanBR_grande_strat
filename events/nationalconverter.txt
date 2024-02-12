@@ -221,7 +221,7 @@ country_event = {
 		number_of_states = 2
 		has_recently_lost_war = no
 		nationalism_n_imperialism = 1
-		primary_culture = swiss
+		primary_culture = south_german
 		NOT = { tag = HLR }
 		NOT = { exists = SWI } #Cultural country
 		SWI = {
@@ -229,13 +229,13 @@ country_event = {
 				OR = {
 					owned_by = THIS
 					owner = {
-						NOT = { primary_culture = swiss }
-						accepted_culture = swiss
+						NOT = { primary_culture = south_german }
+						accepted_culture = south_german
 						in_sphere = THIS
 					}
 					owner = {
-						NOT = { primary_culture = swiss }
-						NOT = { accepted_culture = swiss }
+						NOT = { primary_culture = south_german }
+						NOT = { accepted_culture = south_german }
 					}
 				}
 			}
@@ -253,7 +253,7 @@ country_event = {
 		any_country = {
 			limit = {
 				in_sphere = FROM
-				accepted_culture = swiss
+				accepted_culture = south_german
 			}
 			inherit = FROM
 		}
