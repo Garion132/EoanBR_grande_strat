@@ -1,5 +1,5 @@
-owner=ITA
-controller=ITA
+owner=LOU
+controller=LOU
 add_core=CAQ
 add_core=LOU
 trade_goods = timber

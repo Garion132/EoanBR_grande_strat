@@ -57,6 +57,27 @@ vassal=
 	start_date="1650.7.9"
 	end_date="1936.1.1"
 }
+vassal=
+{
+	first="ITA"
+	second="LOU"
+	start_date="1650.7.9"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="ITA"
+	second="X11"
+	start_date="1650.7.9"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="ITA"
+	second="DOM"
+	start_date="1650.7.9"
+	end_date="1936.1.1"
+}
 
 vassal=
 {

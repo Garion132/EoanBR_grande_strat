@@ -1,6 +1,7 @@
-owner=ITA
-controller=ITA
+owner=LOU
+controller=LOU
 add_core=PAW
+controller=LOU
 trade_goods = grain
 life_rating = 35
 colonial=2

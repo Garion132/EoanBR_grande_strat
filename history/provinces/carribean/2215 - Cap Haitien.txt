@@ -1,4 +1,5 @@
-owner=ITA
-controller=ITA
+owner=DOM
+controller=DOM
+add_core=DOM
 trade_goods = tobacco
 life_rating = 35

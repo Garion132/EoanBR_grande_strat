@@ -1,5 +1,6 @@
-owner=ITA
-controller=ITA
+owner=DOM
+controller=DOM
+add_core=DOM
 add_core=CRB
 trade_goods = coffee
 life_rating = 35
