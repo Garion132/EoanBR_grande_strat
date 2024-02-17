@@ -253,6 +253,11 @@ ZHR = {
 	influence_value = 75
 	level = 5
 }
+TIB = {
+	value = 13
+	influence_value = 0
+	level = 5
+}
 
 #Leaders
 leader = {

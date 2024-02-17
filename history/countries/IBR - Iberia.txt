@@ -76,6 +76,7 @@ stock_exchange = 1
 the_command_principle = 1
 naval_professionalism = 1
 battleship_column_doctrine = 1
+interchangeable_parts = 1
 steamers = 1
 prestige=254
 

@@ -61,6 +61,7 @@ no_standard = 1
 piston_steam_engine = 1
 private_banks = 1
 stock_exchange = 1
+interchangeable_parts = 1
 prestige=53
 
 # Decisions

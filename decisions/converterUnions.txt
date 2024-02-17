@@ -2884,6 +2884,7 @@ political_decisions = {
 			change_tag = SPQ
 			capital = 749
 			add_accepted_culture = latin
+			add_accepted_culture = anglika
 			add_accepted_culture = greek #Byzantines
 			any_country = {
 				limit = {
