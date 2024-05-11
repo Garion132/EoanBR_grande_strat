@@ -1480,5 +1480,24 @@ political_decisions = {
             854 = { add_core = ITA }
         }
     }
+	
+	#
+    sell_LOU = {
+        picture = map_malta
+        potential = {
+            tag = SPQ
+            is_our_vassal = LOU
+        }
+
+        allow = {
+			is_our_vassal = LOU
+        }
+
+        effect = {
+            X05={
+				country_event = 44158
+			}
+        }
+    }
 
 }

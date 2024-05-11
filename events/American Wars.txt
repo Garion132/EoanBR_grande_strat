@@ -1127,3 +1127,48 @@ country_event = { #Hawaii turns democratic, loses people to disease, change prod
     }
 
 }
+
+country_event = {
+
+    id = 44158
+    title = "EVTNAME44158" #Webster–Ashburton Treaty
+    desc = "EVTDESC44158"
+    picture = "treaty"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "EVT44158OPTA"
+        prestige = 10
+        LOU={
+			all_core = { 
+				limit={
+					owned_by = LOU
+				}
+				add_core = THIS 
+				secede_province = THIS 
+			}
+		}
+		DAK={
+			all_core = { 
+				limit={
+					owned_by = LOU
+				}
+				add_core = THIS 
+				secede_province = THIS 
+			}
+		}
+        ai_chance = { factor = 95 }
+    }
+
+    option = {
+        name = "EVT44158OPTB"
+        relation = {
+            who = SPQ
+            value = -200
+        }
+        ai_chance = {
+            factor = 0.05
+        }
+    }
+}
